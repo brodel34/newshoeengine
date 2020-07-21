@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Member - Aweber\n"
+"POT-Creation-Date: 2015-06-17 11:18+0100\n"
+"PO-Revision-Date: 2015-06-29 01:15+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: ../\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woocommerce-mymail.php:74 woocommerce-mymail.php:86
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: woocommerce-mymail.php:133
+msgid "Settings"
+msgstr ""
+
+#: includes/admin.php:33 includes/admin.php:184
+msgid "MyMail"
+msgstr ""
+
+#: includes/admin.php:60
+msgid "MyMail WooCommerce Settings"
+msgstr ""
+
+#: includes/admin.php:65
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/admin.php:68
+msgid "Enable MyMail Woocommerce integration"
+msgstr ""
+
+#: includes/admin.php:71
+msgid "Subscribe a customer when"
+msgstr ""
+
+#: includes/admin.php:72
+msgid "When should a customer be added to your list."
+msgstr ""
+
+#: includes/admin.php:76
+msgid "Order placed"
+msgstr ""
+
+#: includes/admin.php:77
+msgid "Order is completed"
+msgstr ""
+
+#: includes/admin.php:81
+msgid "Default List"
+msgstr ""
+
+#: includes/admin.php:84
+msgid "The default list all customers will be added to."
+msgstr ""
+
+#: includes/admin.php:88
+msgid "Label"
+msgstr ""
+
+#: includes/admin.php:89
+msgid "The text that will be displayed beside the subscribe checkbox"
+msgstr ""
+
+#: includes/admin.php:93
+msgid "Subscribe to our newsletter"
+msgstr ""
+
+#: includes/admin.php:96
+msgid "Auto Subscribe Customer"
+msgstr ""
+
+#: includes/admin.php:99
+msgid ""
+"If enabled, customers will be subscribed to your newsletter automatically. "
+"Note: This will remove the newsletter signup checkbox from the checkout page."
+msgstr ""
+
+#: includes/admin.php:102
+msgid "Display Signup Checkbox"
+msgstr ""
+
+#: includes/admin.php:105
+msgid ""
+"If enabled an Opt-in checkbox will be displayed to customers during "
+"checkout. Note: Customers will only be added to the list if they opt-in"
+msgstr ""
+
+#: includes/admin.php:108
+msgid "Signup Checkbox Default State"
+msgstr ""
+
+#: includes/admin.php:109
+msgid "The default state of the subscribe checkbox"
+msgstr ""
+
+#: includes/admin.php:113
+msgid "Checked"
+msgstr ""
+
+#: includes/admin.php:114
+msgid "Unchecked"
+msgstr ""
+
+#: includes/admin.php:118
+msgid "Checkbox Position"
+msgstr ""
+
+#: includes/admin.php:119
+msgid "The position of the subscribe checkbox"
+msgstr ""
+
+#: includes/admin.php:123
+msgid "Below customer details"
+msgstr ""
+
+#: includes/admin.php:124
+msgid "Order review above submit"
+msgstr ""
+
+#: includes/admin.php:125
+msgid "Below Checkout billing form"
+msgstr ""
+
+#: includes/admin.php:205
+msgid ""
+"Select the list you want customers who purchase this product to be added to."
+msgstr ""
+
+#: includes/admin.php:259
+msgid "Select a list"
+msgstr ""

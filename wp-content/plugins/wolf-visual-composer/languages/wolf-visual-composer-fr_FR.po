@@ -1,0 +1,4994 @@
+# Copyright (C) 2016 WolfThemes
+# This file is distributed under the same license as the Wolf Page Builder package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Wolf Visual Composer 3.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wolf-page-"
+"builder\n"
+"POT-Creation-Date: 2017-05-05 14:17+0200\n"
+"PO-Revision-Date: 2017-05-05 14:17+0200\n"
+"Last-Translator: WolfThemes <help@wolfthemes.com>\n"
+"Language-Team: WolfThemes <contact@wolfthemes.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: dev\n"
+"X-Poedit-SearchPathExcluded-2: html\n"
+"X-Poedit-SearchPathExcluded-3: pack\n"
+"X-Poedit-SearchPathExcluded-4: scss\n"
+"X-Poedit-SearchPathExcluded-5: scss-admin\n"
+
+#: inc/admin/admin-options.php:85 inc/elements/mailchimp.php:17
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: inc/admin/admin-options.php:92
+msgid "MailChimp API key"
+msgstr "Clé API Mailchimp"
+
+#: inc/admin/admin-options.php:93
+msgid ""
+"Your MailChimp API can be found in your MailChimp profile -> account -> "
+"extras -> API keys"
+msgstr ""
+"Votre clé API se trouve dans votre compte MailChimp sous compte > Extras > "
+"clés de l’API."
+
+#: inc/admin/admin-options.php:100
+msgid "Default MailChimp list ID"
+msgstr "ID de votre liste MailChimp par défault"
+
+#: inc/admin/admin-options.php:101 inc/elements/mailchimp.php:27
+msgid ""
+"It can be found in your MailChimp account -> Lists -> Your List Name -> "
+"Settings -> List Name & default"
+msgstr ""
+"Peut-être trouvé dans votre compte MailChimp -&gt; Listes -&gt; Votre Nom de "
+"liste -&gt; Paramètres -&gt; Nom & défaut Liste"
+
+#: inc/admin/admin-options.php:108
+msgid "Newsletter form title"
+msgstr "Titre du formulaire"
+
+#: inc/admin/admin-options.php:109 inc/admin/class-options.php:378
+msgid "Subscribe to our newsletter"
+msgstr "Abonnez-vous à notre newsletter"
+
+#: inc/admin/admin-options.php:115
+msgid "\"Subscribe\" button text"
+msgstr "Bouton S'abonnez"
+
+#: inc/admin/admin-options.php:116 inc/admin/class-options.php:379
+#: inc/mailchimp.php:30 templates/wvc_mailchimp.php:21
+msgid "Subscribe"
+msgstr "Souscrire"
+
+#: inc/admin/admin-options.php:122
+msgid "Form input placeholder"
+msgstr ""
+
+#: inc/admin/admin-options.php:123
+msgid "e.g: your email"
+msgstr "par exemple: votre e-mail"
+
+#: inc/admin/admin-options.php:129
+msgid "Background image"
+msgstr "Image d'arrière plan"
+
+#: inc/admin/admin-options.php:136
+msgid "Fonts Loader"
+msgstr "Chargeur de polices"
+
+#: inc/admin/admin-options.php:143
+msgid "Google fonts"
+msgstr "Polices Google"
+
+#: inc/admin/admin-options.php:145
+#, fuzzy, php-format
+#| msgid "<a href=\"%s\" target=\"_blank\">Find GoogleFonts</a>"
+msgid ""
+"You can get your fonts on the <a href=\"%s\" target=\"_blank\">Google Fonts</"
+"a> website."
+msgstr "<a href=\"%s\" target=\"_blank\">Trouver des polices Google</a>"
+
+#: inc/admin/admin-options.php:153
+msgid "Social Profiles"
+msgstr "Profils sociaux"
+
+#: inc/admin/admin-scripts.php:37
+msgid "Select an image"
+msgstr "Sélectionner une image"
+
+#: inc/admin/admin-scripts.php:38
+msgid "Select a set of images"
+msgstr "Sélectionnez un ensemble d'images"
+
+#: inc/admin/admin-scripts.php:39
+msgid "Select a file"
+msgstr "Sélectionnez un fichier"
+
+#: inc/admin/admin-scripts.php:40
+msgid "This will remove the entire image set"
+msgstr "Cela effacera toutes les images"
+
+#: inc/admin/class-admin.php:62
+msgid "Settings"
+msgstr "Réglages"
+
+#: inc/admin/class-options.php:205 inc/admin/class-options.php:235
+msgid "Clear"
+msgstr "Effacer"
+
+#: inc/admin/class-options.php:206 inc/admin/class-options.php:236
+msgid "Choose an image"
+msgstr "Choisir une image"
+
+#: inc/admin/class-options.php:218 inc/admin/tinymce/popup/highlight.php:39
+#: inc/elements/pie.php:20 inc/elements/progress-bar.php:68
+#: inc/elements/progress-bar.php:108 inc/elements/separator.php:57
+#: inc/elements/service-table.php:108 inc/elements/service-table.php:132
+#: inc/params/button-params.php:86
+msgid "Color"
+msgstr "Couleur"
+
+#: inc/admin/class-options.php:230 inc/elements/advanced-slide.php:106
+#: inc/elements/advanced-slide.php:255 inc/elements/advanced-slide.php:262
+#: inc/elements/image-link.php:26 inc/elements/item-price.php:78
+#: inc/elements/single-image.php:34 inc/params/background-params.php:27
+#: inc/params/icon-params.php:36
+msgid "Image"
+msgstr "Image"
+
+#: inc/admin/class-options.php:247
+msgid "Repeat"
+msgstr "Répéter"
+
+#: inc/admin/class-options.php:273 inc/params/icon-params.php:402
+msgid "Position"
+msgstr "Position"
+
+#: inc/admin/class-options.php:287
+msgid "cover (resize)"
+msgstr "couvrir (redimensionner)"
+
+#: inc/admin/class-options.php:288 inc/elements/typed.php:78
+msgid "normal"
+msgstr "normale"
+
+#: inc/admin/class-options.php:289
+msgid "responsive (hard resize)"
+msgstr "responsive (redimensionnement forcé)"
+
+#: inc/admin/class-options.php:294 inc/admin/tinymce/popup/button.php:60
+#: inc/admin/tinymce/popup/mailchimp.php:23
+#: inc/admin/tinymce/popup/socials.php:37 inc/elements/mailchimp.php:46
+#: inc/elements/social-icons.php:139 inc/params/button-params.php:142
+#: inc/params/icon-params.php:428
+msgid "Size"
+msgstr "Taille"
+
+#: inc/admin/class-options.php:314
+msgid "Attachment"
+msgstr "Fixation de l'arrière plan"
+
+#: inc/admin/class-options.php:339
+msgid "Page Builder Settings"
+msgstr "Paramètres du Page Builder"
+
+#: inc/admin/class-options.php:342
+msgid "Settings saved."
+msgstr "Réglages sauvegardés."
+
+#: inc/admin/class-options.php:348
+msgid "Save Changes"
+msgstr "Sauvegarde des changements"
+
+#: inc/admin/class-options.php:380
+msgid "your email"
+msgstr "votre email"
+
+#: inc/admin/class-tiny-mce-shortcodes.php:115
+#: inc/admin/tinymce/popup/anchor.php:11
+msgid "Anchor"
+msgstr "Ancre"
+
+#: inc/admin/class-tiny-mce-shortcodes.php:116
+#: inc/admin/tinymce/popup/dropcap.php:18
+msgid "Dropcap"
+msgstr "Lettrine"
+
+#: inc/admin/class-tiny-mce-shortcodes.php:117
+#: inc/admin/tinymce/popup/button.php:31 inc/admin/tinymce/popup/button.php:37
+#: inc/params/button-params.php:62
+msgid "Button"
+msgstr "Bouton"
+
+#: inc/admin/class-tiny-mce-shortcodes.php:118
+msgid "Notifications"
+msgstr "Notifications"
+
+#: inc/admin/class-tiny-mce-shortcodes.php:119
+msgid "Highlight"
+msgstr "Surligner"
+
+#: inc/admin/class-tiny-mce-shortcodes.php:120
+msgid "Spacer"
+msgstr "Espace"
+
+#: inc/admin/class-tiny-mce-shortcodes.php:122
+#: inc/admin/tinymce/popup/fittext.php:18
+msgid "Headline"
+msgstr "Gros titre"
+
+#: inc/admin/class-tiny-mce-shortcodes.php:123
+#: inc/admin/tinymce/popup/socials.php:11 inc/class-widget-socials.php:36
+#: inc/elements/team-member.php:164
+msgid "Socials"
+msgstr "Réseaux sociaux"
+
+#: inc/admin/class-tiny-mce-shortcodes.php:124
+msgid "Fonts"
+msgstr "Polices"
+
+#: inc/admin/class-tiny-mce-shortcodes.php:125
+msgid "Insert a shortcode"
+msgstr "Insérez un shortcode"
+
+#: inc/admin/tinymce/load.php:22
+msgid "Wrap selection"
+msgstr "Entourer le selection"
+
+#: inc/admin/tinymce/load.php:22
+msgid "Insert"
+msgstr "Insérer"
+
+#: inc/admin/tinymce/load.php:82 inc/elements/progress-bar.php:54
+msgid "Label"
+msgstr "Label"
+
+#: inc/admin/tinymce/popup/alert.php:11 inc/elements/message.php:17
+msgid "Notification"
+msgstr "Notification"
+
+#: inc/admin/tinymce/popup/alert.php:16
+msgid "Message"
+msgstr "Message"
+
+#: inc/admin/tinymce/popup/alert.php:17
+msgid "Your notification message"
+msgstr "Votre message de notification"
+
+#: inc/admin/tinymce/popup/alert.php:22 inc/admin/tinymce/popup/button.php:67
+#: inc/admin/tinymce/popup/socials.php:26 inc/elements/message.php:25
+#: inc/elements/twitter.php:40
+msgid "Type"
+msgstr "Type"
+
+#: inc/admin/tinymce/popup/alert.php:25
+msgid "success"
+msgstr "succès"
+
+#: inc/admin/tinymce/popup/alert.php:26
+msgid "info"
+msgstr "info"
+
+#: inc/admin/tinymce/popup/alert.php:27
+msgid "tip"
+msgstr "astuce"
+
+#: inc/admin/tinymce/popup/alert.php:28
+msgid "error"
+msgstr "erreur"
+
+#: inc/admin/tinymce/popup/anchor.php:16
+msgid "ID"
+msgstr "ID"
+
+#: inc/admin/tinymce/popup/button.php:12
+msgid "theme color"
+msgstr "Couleur du thème"
+
+#: inc/admin/tinymce/popup/button.php:13
+msgid "theme color black/white on hover"
+msgstr "Couleur du thème noir/blanc au survol"
+
+#: inc/admin/tinymce/popup/button.php:14
+msgid "black/white"
+msgstr "noir/blanc"
+
+#: inc/admin/tinymce/popup/button.php:15
+msgid "black/white theme color on hover"
+msgstr "Noir et blanc couleur du thème au survol"
+
+#: inc/admin/tinymce/popup/button.php:19 inc/admin/tinymce/popup/socials.php:31
+#: inc/core-functions.php:218 inc/elements/social-icons.php:71
+#: inc/params/button-params.php:115 inc/params/icon-params.php:307
+msgid "Square"
+msgstr "Carré"
+
+#: inc/admin/tinymce/popup/button.php:20 inc/params/button-params.php:114
+msgid "Round"
+msgstr "Arrondi"
+
+#: inc/admin/tinymce/popup/button.php:24 inc/admin/tinymce/popup/socials.php:41
+#: inc/core-functions.php:222 inc/elements/social-icons.php:143
+#: inc/params/icon-params.php:432
+msgid "Medium"
+msgstr "Moyen"
+
+#: inc/admin/tinymce/popup/button.php:25 inc/admin/tinymce/popup/socials.php:40
+#: inc/elements/advanced-slide.php:347 inc/elements/social-icons.php:142
+#: inc/params/icon-params.php:431
+msgid "Small"
+msgstr "Petit"
+
+#: inc/admin/tinymce/popup/button.php:26
+#: inc/admin/tinymce/popup/mailchimp.php:27
+#: inc/admin/tinymce/popup/socials.php:42 inc/core-functions.php:221
+#: inc/elements/advanced-slide.php:346 inc/elements/mailchimp.php:50
+#: inc/elements/social-icons.php:144 inc/params/icon-params.php:433
+msgid "Large"
+msgstr "Large"
+
+#: inc/admin/tinymce/popup/button.php:36 inc/admin/tinymce/popup/fittext.php:23
+#: inc/elements/bigtext.php:29 inc/elements/column-text.php:27
+#: inc/elements/counter.php:75 inc/elements/custom-heading.php:27
+#: inc/elements/image-link.php:92 inc/elements/item-price.php:58
+#: inc/elements/process-item.php:80 inc/elements/testimonial-slide.php:26
+#: inc/params/button-params.php:71 inc/params/icon-params.php:471
+msgid "Text"
+msgstr "Texte"
+
+#: inc/admin/tinymce/popup/button.php:42 inc/elements/bigtext.php:113
+#: inc/elements/custom-heading.php:144 inc/elements/image-link.php:143
+#: inc/elements/process-item.php:88 inc/elements/testimonial-slide.php:47
+#: inc/params/icon-params.php:495
+msgid "Link"
+msgstr "Liens"
+
+#: inc/admin/tinymce/popup/button.php:43
+msgid "http://"
+msgstr "http://"
+
+#: inc/admin/tinymce/popup/button.php:48 inc/elements/image-link.php:98
+#: inc/elements/pricing-table.php:49
+msgid "Tagline"
+msgstr "Tagline"
+
+#: inc/admin/tinymce/popup/button.php:74
+msgid "Open link in a new tab"
+msgstr "Ouvrir le lien dans un nouvel onglet"
+
+#: inc/admin/tinymce/popup/button.php:81
+msgid "Scroll to anchor"
+msgstr "Scroller vers une ancre"
+
+#: inc/admin/tinymce/popup/button.php:88 inc/elements/counter.php:89
+msgid "Add Icon"
+msgstr "Ajouter un icone"
+
+#: inc/admin/tinymce/popup/button.php:95 inc/params/icon-params.php:34
+#: inc/params/icon-params.php:68 inc/params/icon-params.php:83
+#: inc/params/icon-params.php:99 inc/params/icon-params.php:115
+#: inc/params/icon-params.php:131 inc/params/icon-params.php:147
+#: inc/params/icon-params.php:162 inc/params/icon-params.php:178
+#: inc/params/icon-params.php:194 inc/params/icon-params.php:210
+#: inc/params/icon-params.php:226 inc/params/icon-params.php:253
+msgid "Icon"
+msgstr "Icône"
+
+#: inc/admin/tinymce/popup/button.php:102
+msgid "Icon position"
+msgstr "Position de l'îcone"
+
+#: inc/admin/tinymce/popup/button.php:105 inc/elements/pricing-table.php:75
+msgid "after"
+msgstr "après"
+
+#: inc/admin/tinymce/popup/button.php:106 inc/elements/pricing-table.php:74
+msgid "before"
+msgstr "avant"
+
+#: inc/admin/tinymce/popup/dropcap.php:11
+#: inc/admin/tinymce/popup/fittext.php:11
+msgid "Default heading font"
+msgstr "Police du titre par défaut"
+
+#: inc/admin/tinymce/popup/dropcap.php:23
+msgid "Letter"
+msgstr "Lettre"
+
+#: inc/admin/tinymce/popup/dropcap.php:28
+#: inc/admin/tinymce/popup/fittext.php:41
+msgid "Font Family"
+msgstr "Famille de police"
+
+#: inc/admin/tinymce/popup/fittext.php:24
+msgid "My Cool Headline"
+msgstr "Mon Super Gros Titre"
+
+#: inc/admin/tinymce/popup/fittext.php:29
+msgid "Font Size"
+msgstr "Taille de la police"
+
+#: inc/admin/tinymce/popup/fittext.php:35 inc/elements/custom-heading.php:116
+msgid "Letter Spacing"
+msgstr "Espacement des caractères"
+
+#: inc/admin/tinymce/popup/fittext.php:48
+msgid "Font Transform"
+msgstr "Transformation de la police"
+
+#: inc/admin/tinymce/popup/fittext.php:51 inc/elements/bigtext.php:74
+#: inc/elements/typed.php:89
+msgid "uppercase"
+msgstr "majuscule"
+
+#: inc/admin/tinymce/popup/fittext.php:52 inc/elements/bigtext.php:75
+#: inc/elements/typed.php:90
+msgid "none"
+msgstr "néant"
+
+#: inc/admin/tinymce/popup/highlight.php:33
+msgid "Highlight Text"
+msgstr "Texte en surbrillance"
+
+#: inc/admin/tinymce/popup/highlight.php:42
+msgid "yellow"
+msgstr "jaune"
+
+#: inc/admin/tinymce/popup/highlight.php:43
+msgid "green"
+msgstr "vert"
+
+#: inc/admin/tinymce/popup/highlight.php:44
+msgid "red"
+msgstr "rouge"
+
+#: inc/admin/tinymce/popup/highlight.php:45
+msgid "black"
+msgstr "noir"
+
+#: inc/admin/tinymce/popup/highlight.php:46
+msgid "white"
+msgstr "blanc"
+
+#: inc/admin/tinymce/popup/highlight.php:52
+msgid "Wrap selected words"
+msgstr "Entourer les mots sélectionnés."
+
+#: inc/admin/tinymce/popup/mailchimp.php:11
+msgid "Mailchimp signup"
+msgstr "Souscription Mailchimp "
+
+#: inc/admin/tinymce/popup/mailchimp.php:16 inc/elements/list.php:43
+msgid "List"
+msgstr "Liste"
+
+#: inc/admin/tinymce/popup/mailchimp.php:17
+msgid "Your mailchimp list ID."
+msgstr "Votre ID de liste MailChimp."
+
+#: inc/admin/tinymce/popup/mailchimp.php:26
+#: inc/admin/tinymce/popup/socials.php:29 inc/elements/mailchimp.php:49
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/admin/tinymce/popup/mailchimp.php:33
+msgid "Submit"
+msgstr "Valider"
+
+#: inc/admin/tinymce/popup/socials.php:16 inc/elements/music-network.php:46
+#: inc/elements/pricing-table.php:147 inc/elements/service-table.php:57
+#: inc/elements/social-icons.php:27
+msgid "Services"
+msgstr "Services"
+
+#: inc/admin/tinymce/popup/socials.php:18
+msgid ""
+"Leave empty to display them all.<br>* See the social networks available in "
+"the plugin options."
+msgstr ""
+"Laissez vide pour les afficher tous.<br>* Voir les réseaux sociaux "
+"disponibles dans les options du plugin."
+
+#: inc/admin/tinymce/popup/socials.php:30 inc/elements/social-icons.php:70
+#: inc/params/icon-params.php:306
+msgid "Circle"
+msgstr "Cercle"
+
+#: inc/admin/tinymce/popup/socials.php:43 inc/elements/social-icons.php:145
+#: inc/params/icon-params.php:434
+msgid "Very Large"
+msgstr "Très grand"
+
+#: inc/admin/tinymce/popup/spacer.php:11 inc/admin/tinymce/popup/spacer.php:16
+#: inc/elements/facebook-fanbox.php:36 inc/elements/music-network.php:28
+msgid "Height"
+msgstr "Hauteur"
+
+#: inc/ajax/ajax-functions.php:29
+msgid "Subscription successful"
+msgstr "Souscription réussie"
+
+#: inc/ajax/ajax-functions.php:32
+msgid "Please insert a valid email"
+msgstr "Merci d'inscire une adresse email valide"
+
+#: inc/button.php:22 inc/elements/advanced-slide.php:44
+#: inc/elements/advanced-slide.php:81 inc/params/button-params.php:73
+#: templates/vc_button.php:18 templates/vc_cta.php:22
+#: templates/wvc_advanced_slide.php:46 templates/wvc_advanced_slide.php:61
+msgid "My Button"
+msgstr ""
+
+#: inc/class-mailchimp.php:43 inc/class-mailchimp.php:50
+#: wolf-visual-composer.php:98 wolf-visual-composer.php:105
+msgid "Cheatin&#8217; huh?"
+msgstr "Alors on triche ?"
+
+#: inc/class-widget-mailchimp.php:37
+msgid "Newsletter signup form"
+msgstr "Souscrire à la newsletter"
+
+#: inc/class-widget-mailchimp.php:100 inc/elements/mailchimp.php:25
+msgid "List ID"
+msgstr "Liste ID"
+
+#: inc/class-widget-mailchimp.php:103
+msgid ""
+"Can be found in your mailchimp account -> Lists -> Your List Name -> "
+"Settings -> List Name & default"
+msgstr ""
+"Peut-être trouvé dans votre compte MailChimp -&gt; Listes -&gt; Votre Nom de "
+"liste -&gt; Paramètres -&gt; Nom & défaut Liste"
+
+#: inc/class-widget-socials.php:37
+msgid "You social profiles with icons"
+msgstr ""
+
+#: inc/class-widget-socials.php:94
+msgid "Social Services"
+msgstr ""
+
+#: inc/class-widget-socials.php:97
+msgid "You can set your social profiles in the plugin settings."
+msgstr ""
+
+#: inc/core-functions.php:198 inc/elements/bigtext.php:42
+#: inc/elements/custom-heading.php:65
+msgid "Gradient Red"
+msgstr ""
+
+#: inc/core-functions.php:199 inc/elements/bigtext.php:43
+#: inc/elements/custom-heading.php:66
+msgid "Gradient Green"
+msgstr ""
+
+#: inc/core-functions.php:200
+msgid "Gradient Green Circle"
+msgstr ""
+
+#: inc/core-functions.php:217
+msgid "Landscape"
+msgstr "Paysage"
+
+#: inc/core-functions.php:219
+msgid "Portrait"
+msgstr "Portrait"
+
+#: inc/core-functions.php:220
+msgid "Extra large"
+msgstr "Extra Large"
+
+#: inc/core-functions.php:223
+msgid "Thumbnail"
+msgstr "Vignette"
+
+#: inc/core-functions.php:224
+msgid "Full"
+msgstr "Pleine taille"
+
+#: inc/core-functions.php:225 inc/elements/row.php:70 inc/elements/row.php:82
+#: inc/elements/row.php:101 inc/params/section-params.php:126
+#: inc/params/style-params.php:24 inc/vc-additional-params.php:282
+#: inc/vc-additional-params.php:289
+msgid "Custom"
+msgstr "Personalisé"
+
+#: inc/core-functions.php:242
+msgid "Theme Default"
+msgstr ""
+
+#: inc/core-functions.php:243 inc/elements/social-icons.php:156
+#: inc/params/button-params.php:184 inc/params/icon-params.php:385
+msgid "Opacity"
+msgstr "Opacité"
+
+#: inc/core-functions.php:244
+msgid "Zoom In"
+msgstr ""
+
+#: inc/core-functions.php:245
+msgid "Zoom Out"
+msgstr ""
+
+#: inc/core-functions.php:246 inc/params/button-params.php:186
+msgid "Up"
+msgstr ""
+
+#: inc/core-functions.php:247
+msgid "Black and white to colored"
+msgstr "Noir et blanc vers couleurs"
+
+#: inc/core-functions.php:248
+msgid "Colored to Black and white"
+msgstr "Couleurs vers noir et blanc"
+
+#: inc/elements/accordion-tab.php:17 inc/elements/accordion.php:56
+msgid "Section"
+msgstr ""
+
+#: inc/elements/accordion-tab.php:25 inc/elements/accordion.php:64
+#: inc/elements/advanced-slide.php:285 inc/elements/item-price.php:27
+#: inc/elements/pricing-table.php:26 inc/elements/process-item.php:57
+#: inc/elements/service-table.php:65 inc/elements/tab.php:25
+#: inc/elements/toggle.php:25 inc/elements/youtube.php:32
+#: inc/params/icon-params.php:441
+msgid "Title"
+msgstr "Titre"
+
+#: inc/elements/accordion-tab.php:27 inc/elements/accordion.php:66
+msgid "Accordion section title."
+msgstr ""
+
+#: inc/elements/accordion.php:17
+msgid "Accordion"
+msgstr "Accordéon"
+
+#: inc/elements/accordion.php:22 inc/elements/advanced-slide.php:97
+#: inc/elements/albums.php:25 inc/elements/albums.php:59
+#: inc/elements/column-text.php:21 inc/elements/content-block.php:38
+#: inc/elements/countdown.php:21 inc/elements/counter.php:39
+#: inc/elements/cta.php:36 inc/elements/discography.php:25
+#: inc/elements/discography.php:65 inc/elements/events.php:24
+#: inc/elements/gmaps.php:22 inc/elements/item-price.php:21
+#: inc/elements/last-posts.php:96 inc/elements/list.php:45
+#: inc/elements/message.php:20 inc/elements/oembed-gist.php:22
+#: inc/elements/portfolio.php:24 inc/elements/post-slider.php:35
+#: inc/elements/pricing-table.php:21 inc/elements/process-container.php:47
+#: inc/elements/process-item.php:50 inc/elements/progress-bar.php:23
+#: inc/elements/separator.php:20 inc/elements/service-table.php:51
+#: inc/elements/tabs.php:25 inc/elements/team-member.php:20
+#: inc/elements/testimonial-slide.php:21 inc/elements/testimonial-slider.php:24
+#: inc/elements/testimonials.php:26 inc/elements/toggle.php:20
+#: inc/elements/toggle.php:33 inc/elements/videos.php:25
+#: inc/params/button-params.php:65 inc/params/icon-params.php:27
+msgid "Content"
+msgstr "Contenu"
+
+#: inc/elements/accordion.php:23
+msgid "Collapsible panels"
+msgstr ""
+
+#: inc/elements/accordion.php:43
+msgid "Add section"
+msgstr ""
+
+#: inc/elements/accordion.php:47
+msgid "Section 1"
+msgstr ""
+
+#: inc/elements/accordion.php:48
+msgid "Section 2"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:41 inc/elements/advanced-slide.php:78
+#, php-format
+msgid "Button %d"
+msgstr "Bouton %d"
+
+#: inc/elements/advanced-slide.php:94
+msgid "Advanced Slide"
+msgstr "Advanced slide"
+
+#: inc/elements/advanced-slide.php:103 inc/elements/advanced-slide.php:140
+#: inc/params/button-params.php:185
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: inc/elements/advanced-slide.php:107 inc/elements/post-slider.php:19
+#: inc/elements/video.php:18 inc/params/background-params.php:29
+msgid "Video"
+msgstr "Vidéo"
+
+#: inc/elements/advanced-slide.php:114 inc/elements/advanced-slide.php:129
+#: inc/elements/service-table.php:93 inc/elements/service-table.php:106
+#: inc/params/background-params.php:38 inc/params/background-params.php:54
+msgid "Background Color"
+msgstr "Couleur d'arrière plan"
+
+#: inc/elements/advanced-slide.php:117 inc/elements/bigtext.php:85
+#: inc/elements/custom-heading.php:98 inc/elements/custom-heading.php:109
+#: inc/elements/separator.php:60 inc/elements/service-table.php:96
+#: inc/elements/service-table.php:120 inc/params/background-params.php:26
+#: inc/params/background-params.php:41 inc/params/column-inner-params.php:26
+#: inc/params/column-params.php:25 inc/params/column-params.php:37
+#: inc/params/row-params.php:99 inc/params/row-params.php:118
+#: inc/vc-custom-fields.php:35
+msgid "Default"
+msgstr "Défaut"
+
+#: inc/elements/advanced-slide.php:118 inc/elements/advanced-slide.php:198
+#: inc/elements/bigtext.php:44 inc/elements/custom-heading.php:67
+#: inc/elements/pie.php:25 inc/elements/progress-bar.php:71
+#: inc/elements/progress-bar.php:80 inc/elements/progress-bar.php:113
+#: inc/elements/row.php:67 inc/elements/separator.php:62
+#: inc/elements/separator.php:70 inc/elements/service-table.php:98
+#: inc/elements/service-table.php:122 inc/elements/social-icons.php:90
+#: inc/elements/social-icons.php:102 inc/elements/social-icons.php:118
+#: inc/elements/team-member.php:59 inc/params/background-params.php:43
+#: inc/params/background-params.php:206 inc/params/button-params.php:91
+#: inc/params/button-params.php:98 inc/params/icon-params.php:278
+#: inc/params/icon-params.php:291 inc/params/icon-params.php:331
+#: inc/params/icon-params.php:344 inc/params/icon-params.php:358
+#, fuzzy
+#| msgid "%s color"
+msgid "Custom color"
+msgstr "Couleur du %s"
+
+#: inc/elements/advanced-slide.php:122 inc/params/background-params.php:46
+msgid "Select a background color."
+msgstr ""
+
+#: inc/elements/advanced-slide.php:147 inc/params/background-params.php:77
+msgid "Background position"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:150 inc/params/background-params.php:80
+msgid "center center"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:151 inc/params/background-params.php:81
+msgid "center top"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:152 inc/params/background-params.php:82
+msgid "left top"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:153 inc/params/background-params.php:83
+msgid "right top"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:154 inc/params/background-params.php:84
+msgid "center bottom"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:155 inc/params/background-params.php:85
+msgid "left bottom"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:156 inc/params/background-params.php:86
+msgid "right bottom"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:157 inc/params/background-params.php:87
+msgid "left center"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:158 inc/params/background-params.php:88
+msgid "right center"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:166 inc/elements/video-opener.php:56
+#: inc/elements/video.php:27 inc/params/background-params.php:143
+msgid "Video URL"
+msgstr "URL de la vidéo"
+
+#: inc/elements/advanced-slide.php:168 inc/params/background-params.php:146
+msgid "A YouTube or mp4 URL."
+msgstr "Une URL YouTube ou mp4."
+
+#: inc/elements/advanced-slide.php:174 inc/params/background-params.php:154
+msgid "Video Image Fallback"
+msgstr "Image de fond pour la vidéo (si le vidéo ne peut pas être affichée)"
+
+#: inc/elements/advanced-slide.php:176
+msgid "Used in case the video can't be displayed."
+msgstr "Utilisé dans le cas où la vidéo ne peut pas être affichée."
+
+#: inc/elements/advanced-slide.php:182 inc/params/background-params.php:189
+msgid "Add Overlay"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:185 inc/elements/events.php:40
+#: inc/elements/events.php:50 inc/elements/gallery.php:71
+#: inc/elements/mailchimp.php:39 inc/elements/message.php:50
+#: inc/elements/message.php:60 inc/elements/typed.php:121
+#: inc/params/background-params.php:192 inc/params/background-params.php:245
+#: inc/vc-additional-params.php:97 inc/vc-additional-params.php:107
+#: inc/vc-additional-params.php:135 inc/vc-additional-params.php:145
+#: inc/vc-additional-params.php:313 inc/vc-additional-params.php:326
+#: inc/vc-additional-params.php:349 inc/vc-additional-params.php:362
+#: inc/vc-additional-params.php:381 inc/vc-additional-params.php:407
+#: inc/vc-additional-params.php:433
+msgid "No"
+msgstr "Non"
+
+#: inc/elements/advanced-slide.php:186 inc/elements/events.php:41
+#: inc/elements/events.php:51 inc/elements/gallery.php:70
+#: inc/elements/mailchimp.php:38 inc/elements/message.php:49
+#: inc/elements/message.php:59 inc/elements/single-image.php:84
+#: inc/elements/single-image.php:102 inc/elements/typed.php:120
+#: inc/params/background-params.php:193 inc/params/background-params.php:246
+#: inc/params/row-params.php:89 inc/params/row-params.php:153
+#: inc/params/section-params.php:49 inc/vc-additional-params.php:96
+#: inc/vc-additional-params.php:106 inc/vc-additional-params.php:134
+#: inc/vc-additional-params.php:144 inc/vc-additional-params.php:312
+#: inc/vc-additional-params.php:325 inc/vc-additional-params.php:348
+#: inc/vc-additional-params.php:361 inc/vc-additional-params.php:380
+#: inc/vc-additional-params.php:406 inc/vc-additional-params.php:432
+msgid "Yes"
+msgstr "Oui"
+
+#: inc/elements/advanced-slide.php:192 inc/elements/image-link.php:131
+#: inc/elements/team-member.php:53 inc/params/background-params.php:200
+msgid "Overlay Color"
+msgstr "Couleur de superposition"
+
+#: inc/elements/advanced-slide.php:195 inc/elements/team-member.php:56
+#: inc/params/background-params.php:203
+msgid "Auto"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:201 inc/elements/team-member.php:62
+#: inc/params/background-params.php:209
+msgid "Select an overlay color."
+msgstr ""
+
+#: inc/elements/advanced-slide.php:209 inc/elements/team-member.php:70
+#: inc/params/background-params.php:218
+msgid "Overlay Custom Color"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:221 inc/elements/image-link.php:137
+#: inc/elements/team-member.php:79 inc/params/background-params.php:231
+msgid "Overlay Opacity in Percent"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:240 inc/elements/row-inner.php:39
+msgid "Font Color"
+msgstr "Couleur de la police"
+
+#: inc/elements/advanced-slide.php:243 inc/elements/column-inner.php:30
+#: inc/elements/column.php:30 inc/elements/row-inner.php:44
+#: inc/elements/row.php:49
+msgid "Light"
+msgstr "Claire"
+
+#: inc/elements/advanced-slide.php:244 inc/elements/column-inner.php:31
+#: inc/elements/column.php:31 inc/elements/row-inner.php:43
+#: inc/elements/row.php:50
+msgid "Dark"
+msgstr "Foncé"
+
+#: inc/elements/advanced-slide.php:246 inc/elements/advanced-slide.php:257
+#: inc/elements/advanced-slide.php:268 inc/elements/advanced-slide.php:294
+#: inc/elements/advanced-slide.php:306 inc/elements/advanced-slide.php:317
+#: inc/elements/advanced-slide.php:326 inc/elements/advanced-slide.php:338
+#: inc/elements/advanced-slide.php:349 inc/elements/advanced-slide.php:361
+msgid "Caption"
+msgstr "Légende"
+
+#: inc/elements/advanced-slide.php:251
+msgid "Title Type"
+msgstr "Type de titre"
+
+#: inc/elements/advanced-slide.php:254
+msgid "Textfield"
+msgstr "Champ de texte"
+
+#: inc/elements/advanced-slide.php:287
+msgid "My Awesome Title"
+msgstr "Mon super titre"
+
+#: inc/elements/advanced-slide.php:299
+msgid "Title Font"
+msgstr "Police du Titre"
+
+#: inc/elements/advanced-slide.php:311
+msgid "Caption Type"
+msgstr "Type de légende"
+
+#: inc/elements/advanced-slide.php:314
+msgid "Standard text"
+msgstr "Texte standard"
+
+#: inc/elements/advanced-slide.php:315
+msgid "Bigger text with semi-transparent background"
+msgstr "Texte plus grand avec arrière-plan semi-transparent"
+
+#: inc/elements/advanced-slide.php:322
+msgid "Caption Text"
+msgstr "Texte de la légende"
+
+#: inc/elements/advanced-slide.php:331
+msgid "Caption Text Alignment"
+msgstr "Alignement du texte"
+
+#: inc/elements/advanced-slide.php:334 inc/elements/advanced-slide.php:357
+#: inc/elements/cta.php:48 inc/elements/custom-heading.php:53
+#: inc/elements/image-link.php:51 inc/elements/image-link.php:62
+#: inc/elements/separator.php:47 inc/elements/single-image.php:111
+#: inc/elements/social-icons.php:45 inc/elements/team-member.php:120
+#: inc/params/button-params.php:161 inc/params/column-inner-params.php:39
+#: inc/params/column-params.php:50 inc/params/icon-params.php:419
+msgid "Center"
+msgstr "Centre"
+
+#: inc/elements/advanced-slide.php:335 inc/elements/advanced-slide.php:358
+#: inc/elements/cta.php:46 inc/elements/custom-heading.php:54
+#: inc/elements/image-link.php:52 inc/elements/image-link.php:63
+#: inc/elements/music-network.php:39 inc/elements/separator.php:48
+#: inc/elements/single-image.php:112 inc/elements/social-icons.php:46
+#: inc/elements/team-member.php:121 inc/params/button-params.php:163
+#: inc/params/button-params.php:204 inc/params/column-inner-params.php:40
+#: inc/params/column-params.php:51 inc/params/icon-params.php:406
+#: inc/params/icon-params.php:420
+msgid "Left"
+msgstr "Gauche"
+
+#: inc/elements/advanced-slide.php:336 inc/elements/advanced-slide.php:359
+#: inc/elements/cta.php:47 inc/elements/custom-heading.php:55
+#: inc/elements/image-link.php:53 inc/elements/image-link.php:64
+#: inc/elements/music-network.php:40 inc/elements/separator.php:49
+#: inc/elements/single-image.php:113 inc/elements/social-icons.php:47
+#: inc/elements/team-member.php:122 inc/params/button-params.php:164
+#: inc/params/button-params.php:205 inc/params/column-inner-params.php:41
+#: inc/params/column-params.php:52 inc/params/icon-params.php:408
+#: inc/params/icon-params.php:421
+msgid "Right"
+msgstr "Droite"
+
+#: inc/elements/advanced-slide.php:343
+msgid "Caption Width"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:354
+msgid "Caption Position"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:366
+msgid "Add a First Button"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:372
+msgid "Add a Second Button"
+msgstr ""
+
+#: inc/elements/advanced-slider.php:18
+msgid "Advanced Slider"
+msgstr "Advanced slider"
+
+#: inc/elements/advanced-slider.php:22
+msgid "A powerful image/video slider"
+msgstr "A slider image et vidéo"
+
+#: inc/elements/advanced-slider.php:23 inc/elements/cocoen.php:22
+#: inc/elements/gallery.php:20 inc/elements/image-device-slider.php:20
+#: inc/elements/image-link.php:20 inc/elements/single-image.php:20
+#: inc/elements/video-opener.php:22 inc/elements/video.php:22
+#: inc/elements/youtube.php:21
+msgid "Media"
+msgstr "Média"
+
+#: inc/elements/advanced-slider.php:28 inc/elements/post-slider.php:49
+msgid "Slider Height"
+msgstr "﻿Hauteur du slider"
+
+#: inc/elements/advanced-slider.php:29
+#, php-format
+msgid "Enter a value in % or px. 100% for a full height slider."
+msgstr "Entrez une valeur en % ou px. 100% pour un curseur de pleine hauteur."
+
+#: inc/elements/albums.php:22
+msgid "Albums"
+msgstr "Albums"
+
+#: inc/elements/albums.php:23 inc/elements/toggle.php:18
+msgid "Showcase your albums from the gallery post type"
+msgstr ""
+
+#: inc/elements/albums.php:31 inc/elements/albums.php:65
+#: inc/elements/discography.php:31 inc/elements/events.php:30
+#: inc/elements/last-posts.php:19 inc/elements/portfolio.php:30
+#: inc/elements/post-slider.php:79 inc/elements/testimonials.php:32
+#: inc/elements/twitter.php:50 inc/elements/videos.php:31
+msgid "Count"
+msgstr "Nombre"
+
+#: inc/elements/albums.php:38 inc/elements/discography.php:38
+#: inc/elements/gallery.php:58 inc/elements/instagram.php:38
+#: inc/elements/last-posts.php:101 inc/elements/portfolio.php:37
+#: inc/elements/testimonials.php:39 inc/elements/videos.php:38
+#: inc/params/row-params.php:26
+msgid "Columns"
+msgstr "Colonnes"
+
+#: inc/elements/albums.php:45 inc/elements/last-posts.php:41
+#: inc/elements/portfolio.php:47 inc/elements/post-slider.php:88
+#: inc/elements/testimonials.php:46 inc/elements/videos.php:45
+msgid "Category"
+msgstr "Catégorie"
+
+#: inc/elements/albums.php:47 inc/elements/discography.php:47
+#: inc/elements/discography.php:54 inc/elements/discography.php:73
+#: inc/elements/discography.php:80 inc/elements/last-posts.php:43
+#: inc/elements/portfolio.php:49 inc/elements/post-slider.php:90
+#: inc/elements/testimonials.php:48 inc/elements/videos.php:47
+msgid ""
+"Include only one or several categories. Paste category slug(s) separated by "
+"a comma"
+msgstr ""
+"Inclure une ou plusieurs catégories. Coller le(s) slug(s) des catégories "
+"séparées par une virgule"
+
+#: inc/elements/albums.php:56
+msgid "Photos Widget (last photos)"
+msgstr ""
+
+#: inc/elements/albums.php:57
+msgid "Display the last photos uploaded in your albums"
+msgstr "Affichez vos dernières photos ajoutées"
+
+#: inc/elements/bandsintown-events.php:23
+msgid "Display your Bandsintown event list"
+msgstr "Afficher votre liste d’événement Bandsintown"
+
+#: inc/elements/bandsintown-events.php:24 inc/elements/music-network.php:20
+#: inc/elements/playlist.php:36 inc/elements/soundcloud.php:22
+msgid "Music"
+msgstr "Musique"
+
+#: inc/elements/bandsintown-events.php:30
+msgid "Artist Name"
+msgstr ""
+
+#: inc/elements/bigtext.php:18
+msgid "Big Text"
+msgstr ""
+
+#: inc/elements/bigtext.php:20
+msgid "A big line of text that will take the full width of its container"
+msgstr ""
+"Une grande ligne de texte qui prendra toute la largeur de son conteneur"
+
+#: inc/elements/bigtext.php:21 inc/elements/custom-heading.php:21
+#: inc/elements/typed.php:21
+msgid "Typography"
+msgstr ""
+
+#: inc/elements/bigtext.php:31
+msgid "My mega big text"
+msgstr "Mon mega gros texte"
+
+#: inc/elements/bigtext.php:32
+msgid "You can add several lines of text."
+msgstr "Vous pouvez ajouter plusieurs lignes de texte."
+
+#: inc/elements/bigtext.php:38 inc/elements/bigtext.php:54
+#: inc/elements/custom-heading.php:61 inc/elements/custom-heading.php:77
+#: inc/elements/image-link.php:125 inc/elements/service-table.php:117
+#: inc/elements/service-table.php:130
+msgid "Text Color"
+msgstr ""
+
+#: inc/elements/bigtext.php:41 inc/elements/custom-heading.php:64
+#: inc/elements/social-icons.php:86 inc/elements/social-icons.php:116
+#: inc/params/icon-params.php:274 inc/params/icon-params.php:327
+msgid "Default color"
+msgstr ""
+
+#: inc/elements/bigtext.php:48 inc/elements/custom-heading.php:71
+msgid "Select a text color."
+msgstr ""
+
+#: inc/elements/bigtext.php:64 inc/elements/custom-heading.php:88
+#: inc/elements/typed.php:68
+msgid "Font Weight"
+msgstr ""
+
+#: inc/elements/bigtext.php:71 inc/elements/custom-heading.php:95
+#: inc/elements/typed.php:86
+msgid "Text Transform"
+msgstr ""
+
+#: inc/elements/bigtext.php:82 inc/elements/custom-heading.php:106
+msgid "Font Style"
+msgstr ""
+
+#: inc/elements/bigtext.php:86 inc/elements/custom-heading.php:110
+msgid "Italic"
+msgstr ""
+
+#: inc/elements/bigtext.php:92 inc/elements/countdown.php:43
+#: inc/elements/counter.php:82 inc/elements/custom-heading.php:43
+#: inc/elements/typed.php:97
+msgid "Font"
+msgstr "Police"
+
+#: inc/elements/bigtext.php:99 inc/elements/custom-heading.php:130
+#: inc/elements/image-link.php:110 inc/elements/typed.php:103
+msgid "Tag"
+msgstr "Tag"
+
+#: inc/elements/cocoen.php:19
+msgid "Before/After Images Slider"
+msgstr ""
+
+#: inc/elements/cocoen.php:20
+msgid "A before and after images slider"
+msgstr ""
+
+#: inc/elements/cocoen.php:28
+msgid "Before Image"
+msgstr ""
+
+#: inc/elements/cocoen.php:34
+msgid "After Image"
+msgstr ""
+
+#: inc/elements/cocoen.php:40 inc/elements/gallery.php:43
+#: inc/elements/image-link.php:32 inc/elements/item-price.php:87
+#: inc/elements/single-image.php:44 inc/elements/team-member.php:31
+msgid "Image Size"
+msgstr ""
+
+#: inc/elements/cocoen.php:43 inc/elements/gallery.php:27
+#: inc/elements/gallery.php:46 inc/elements/image-link.php:35
+#: inc/elements/item-price.php:90 inc/elements/single-image.php:47
+#: inc/elements/team-member.php:34
+msgid ""
+"You can set the \"large\", \"medium\" and \"thumbnail\" sizes in the WP "
+"media settings."
+msgstr ""
+
+#: inc/elements/cocoen.php:49 inc/elements/gallery.php:51
+#: inc/elements/image-link.php:40 inc/elements/item-price.php:99
+#: inc/elements/single-image.php:53 inc/elements/team-member.php:88
+msgid "Custom Image Size"
+msgstr ""
+
+#: inc/elements/cocoen.php:51 inc/elements/gallery.php:53
+#: inc/elements/image-link.php:42 inc/elements/item-price.php:101
+#: inc/elements/single-image.php:55 inc/elements/team-member.php:90
+msgid "Enter size in pixels (Example: 200x100 (Width x Height)."
+msgstr ""
+
+#: inc/elements/column-inner.php:17
+msgid "Inner Column"
+msgstr ""
+
+#: inc/elements/column-inner.php:26 inc/elements/column.php:26
+#: inc/elements/row.php:46
+msgid "Skin Tone"
+msgstr ""
+
+#: inc/elements/column-inner.php:29 inc/elements/column.php:29
+#: inc/elements/row-inner.php:42
+#, fuzzy
+#| msgid "inherit"
+msgid "Inherit"
+msgstr "inherit"
+
+#: inc/elements/column-inner.php:33 inc/elements/column.php:33
+#: inc/elements/row-inner.php:46 inc/elements/row.php:52
+#: inc/params/background-params.php:32 inc/params/background-params.php:47
+#: inc/params/background-params.php:57 inc/params/background-params.php:71
+#: inc/params/background-params.php:91 inc/params/background-params.php:107
+#: inc/params/background-params.php:122 inc/params/background-params.php:136
+#: inc/params/background-params.php:148 inc/params/background-params.php:159
+#: inc/params/background-params.php:169 inc/params/background-params.php:182
+#: inc/params/background-params.php:195 inc/params/background-params.php:210
+#: inc/params/background-params.php:221 inc/params/background-params.php:236
+#: inc/params/background-params.php:248
+msgid "Style"
+msgstr ""
+
+#: inc/elements/column-text.php:17
+#, fuzzy
+#| msgid "Text block"
+msgid "Text Block"
+msgstr "Bloc de texte"
+
+#: inc/elements/column-text.php:22
+#, fuzzy
+#| msgid "A block of text with the Wordpress editor"
+msgid "A basic block of text with editor"
+msgstr "Un bloc de texte avec l'éditeur de Wordpress"
+
+#: inc/elements/column-text.php:29
+msgid ""
+"<p>I am text block. Click edit button to change this text. Lorem ipsum dolor "
+"sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo.</p>"
+msgstr ""
+
+#: inc/elements/column.php:17
+msgid "Column"
+msgstr "Colonne"
+
+#: inc/elements/content-block.php:30
+#, fuzzy
+#| msgid "Content type"
+msgid "No Content Block yet"
+msgstr "Type du contenu"
+
+#: inc/elements/content-block.php:35 inc/elements/content-block.php:44
+msgid "Content Block"
+msgstr "Bloc de contenu"
+
+#: inc/elements/content-block.php:36
+msgid "A block of content from the Content Block post type"
+msgstr ""
+
+#: inc/elements/countdown.php:18
+msgid "Count Down"
+msgstr ""
+
+#: inc/elements/countdown.php:19
+msgid "See the seconds tick down"
+msgstr "Voir les secondes défiler"
+
+#: inc/elements/countdown.php:27
+msgid "Date"
+msgstr "Date"
+
+#: inc/elements/countdown.php:29
+#, php-format
+msgid "formatted like %s"
+msgstr ""
+
+#: inc/elements/countdown.php:35
+msgid "UTC Timezone offset"
+msgstr "Fuseau horaire UTC"
+
+#: inc/elements/countdown.php:38
+#, php-format
+msgid "e.g : -5 for NY. <a href=\"%s\" target=\"_blank\">More info</a>."
+msgstr ""
+
+#: inc/elements/counter.php:36
+msgid "Counter"
+msgstr "Compteur"
+
+#: inc/elements/counter.php:37
+msgid "Animated numerical data"
+msgstr "Données numériques animées"
+
+#: inc/elements/counter.php:45
+msgid "Number"
+msgstr "Nombre"
+
+#: inc/elements/counter.php:47
+msgid ""
+"It can be a shortcode that generate a number in this case paste your "
+"shortcode without the []"
+msgstr ""
+"Cela peut être un shortcode qui génère votre nombre, dans ce cas coller "
+"votre shortcode sans []"
+
+#: inc/elements/counter.php:69
+msgid "Is your number generated by a shortcode?"
+msgstr "Nombre générer par un shortcode?"
+
+#: inc/elements/cta.php:33
+msgid "Call to Action"
+msgstr ""
+
+#: inc/elements/cta.php:34
+msgid "Catch visitors attention with CTA block"
+msgstr ""
+
+#: inc/elements/cta.php:43
+msgid "Text alignment"
+msgstr "Alignement du texte"
+
+#: inc/elements/cta.php:50
+msgid "Select text alignment in \"Call to Action\" block."
+msgstr ""
+
+#: inc/elements/cta.php:55 inc/elements/custom-heading.php:18
+msgid "Heading"
+msgstr "Gros titre"
+
+#: inc/elements/cta.php:58
+msgid "Hey! I am first heading line feel free to change me"
+msgstr ""
+
+#: inc/elements/cta.php:59
+msgid "Enter text for heading line."
+msgstr ""
+
+#: inc/elements/cta.php:65
+msgid "Subheading"
+msgstr ""
+
+#: inc/elements/cta.php:68
+msgid "Optional tagline"
+msgstr "Sous-titre"
+
+#: inc/elements/custom-heading.php:19
+msgid "A big title with flexible font size"
+msgstr "Un grand titre avec taille de la police flexible"
+
+#: inc/elements/custom-heading.php:29
+msgid "My Headline"
+msgstr "Mon gros titre"
+
+#: inc/elements/custom-heading.php:35
+msgid "Maximum Font Size"
+msgstr ""
+
+#: inc/elements/custom-heading.php:38
+msgid "Leave empty for default size define byt the theme CSS."
+msgstr ""
+
+#: inc/elements/custom-heading.php:50 inc/elements/image-link.php:59
+#: inc/elements/mailchimp.php:57 inc/elements/team-member.php:117
+#: inc/elements/typed.php:57
+msgid "Text Alignment"
+msgstr ""
+
+#: inc/elements/custom-heading.php:99 inc/elements/gallery.php:88
+#: inc/elements/image-device-slider.php:34 inc/elements/image-link.php:84
+#: inc/elements/row.php:64 inc/elements/row.php:91
+#: inc/elements/single-image.php:135 inc/elements/social-icons.php:69
+#: inc/elements/social-icons.php:155 inc/params/background-params.php:131
+#: inc/params/button-params.php:183 inc/params/column-inner-params.php:58
+#: inc/params/column-params.php:69 inc/params/icon-params.php:305
+#: inc/params/icon-params.php:384
+msgid "None"
+msgstr "Néant"
+
+#: inc/elements/custom-heading.php:100
+msgid "Uppercase"
+msgstr ""
+
+#: inc/elements/custom-heading.php:123
+msgid "Line Height"
+msgstr "﻿Hauteur de ligne"
+
+#: inc/elements/discography.php:22
+msgid "Last Releases"
+msgstr ""
+
+#: inc/elements/discography.php:23
+msgid "Display your discography"
+msgstr "Affichez votre discographie"
+
+#: inc/elements/discography.php:45 inc/elements/discography.php:71
+msgid "heading"
+msgstr ""
+
+#: inc/elements/discography.php:52 inc/elements/discography.php:78
+msgid "Band"
+msgstr "Groupe"
+
+#: inc/elements/discography.php:62
+msgid "Last Release"
+msgstr ""
+
+#: inc/elements/discography.php:63
+msgid "Display your last release"
+msgstr "Afficher votre dernières réalisations"
+
+#: inc/elements/events.php:21
+msgid "Event List"
+msgstr ""
+
+#: inc/elements/events.php:22
+msgid "Display your event list from the Wolf Events plugin"
+msgstr "Affichez votre liste d'événements du plug-in Wolf Events"
+
+#: inc/elements/events.php:31
+msgid "Leave empty to display all"
+msgstr "Laissez vide pour afficher tous"
+
+#: inc/elements/events.php:37
+msgid "Link to Single Event Page"
+msgstr ""
+
+#: inc/elements/events.php:47
+msgid "Display Past Events"
+msgstr ""
+
+#: inc/elements/events.php:57
+msgid "Artist Slug"
+msgstr ""
+
+#: inc/elements/facebook-fanbox.php:22
+msgid "Display a facebook fan box"
+msgstr "Afficher une boîte de page Facebook"
+
+#: inc/elements/facebook-fanbox.php:23 inc/elements/instagram.php:25
+#: inc/elements/mailchimp.php:19 inc/elements/social-icons.php:22
+#: inc/elements/twitter.php:26
+msgid "Social"
+msgstr "Social"
+
+#: inc/elements/facebook-fanbox.php:29
+msgid "Facebook Page URL"
+msgstr ""
+
+#: inc/elements/facebook-fanbox.php:43
+msgid "Show posts"
+msgstr "Montrer les articles"
+
+#: inc/elements/facebook-fanbox.php:51
+msgid "Show faces"
+msgstr "Montrer les visages"
+
+#: inc/elements/facebook-fanbox.php:59
+msgid "Hide cover"
+msgstr "Cacher la couverture"
+
+#: inc/elements/facebook-fanbox.php:67
+msgid "Small header"
+msgstr ""
+
+#: inc/elements/gallery.php:17
+msgid "Image Gallery"
+msgstr "Galerie d'image"
+
+#: inc/elements/gallery.php:18
+msgid "A set of images with a mosaic layout"
+msgstr ""
+
+#: inc/elements/gallery.php:25 inc/elements/image-device-slider.php:25
+msgid "Images"
+msgstr "Images"
+
+#: inc/elements/gallery.php:31
+msgid "Gallery Type"
+msgstr "Type de Galerie"
+
+#: inc/elements/gallery.php:34
+msgid "Grid"
+msgstr ""
+
+#: inc/elements/gallery.php:35 inc/elements/last-posts.php:115
+#: inc/elements/testimonials.php:57
+msgid "Carousel"
+msgstr "Carrousel"
+
+#: inc/elements/gallery.php:36
+msgid "Mosaic"
+msgstr "Mosaïque"
+
+#: inc/elements/gallery.php:37
+msgid "Mosaic Simplified"
+msgstr ""
+
+#: inc/elements/gallery.php:67 inc/vc-additional-params.php:377
+#: inc/vc-additional-params.php:403 inc/vc-additional-params.php:429
+msgid "Padding"
+msgstr "Marge interieur"
+
+#: inc/elements/gallery.php:77
+msgid "Hover Effect"
+msgstr ""
+
+#: inc/elements/gallery.php:84 inc/elements/single-image.php:132
+msgid "On click action"
+msgstr ""
+
+#: inc/elements/gallery.php:87 inc/elements/single-image.php:136
+#, php-format
+msgid "Open %s"
+msgstr ""
+
+#: inc/elements/gallery.php:89 inc/elements/single-image.php:138
+msgid "Link to attachment page"
+msgstr ""
+
+#: inc/elements/gallery.php:90 inc/elements/single-image.php:139
+msgid "Link to large image"
+msgstr ""
+
+#: inc/elements/gallery.php:91 inc/elements/single-image.php:140
+msgid "Open prettyPhoto"
+msgstr ""
+
+#: inc/elements/gallery.php:93 inc/elements/single-image.php:142
+msgid "Select action for click action."
+msgstr ""
+
+#: inc/elements/gmaps.php:18
+msgid "Google Maps"
+msgstr ""
+
+#: inc/elements/gmaps.php:23
+msgid "Map block"
+msgstr ""
+
+#: inc/elements/gmaps.php:27 inc/elements/progress-bar.php:28
+#: inc/elements/single-image.php:26
+msgid "Widget title"
+msgstr ""
+
+#: inc/elements/gmaps.php:29
+msgid ""
+"Enter text which will be used as widget title. Leave blank if no title is "
+"needed."
+msgstr ""
+
+#: inc/elements/gmaps.php:33
+msgid "Latitude, Longitude"
+msgstr ""
+
+#: inc/elements/gmaps.php:37
+#, php-format
+msgid ""
+"To extract the Latitude and Longitude of your address, follow the "
+"instructions %s. 1) Use the directions under the section \"Get the "
+"coordinates of a place\" 2) Copy the coordinates 3) Paste the coordinates in "
+"the field with the \"comma\" sign."
+msgstr ""
+
+#: inc/elements/gmaps.php:45
+msgid "Map height"
+msgstr "Hauteur de la carte"
+
+#: inc/elements/gmaps.php:48
+msgid ""
+"Enter map height in pixels. Example: 200 or leave it empty to make map "
+"responsive (in this case you need to declare a minimun height for the row "
+"and the column equal height or expanded)."
+msgstr ""
+
+#: inc/elements/gmaps.php:52
+msgid "Address"
+msgstr ""
+
+#: inc/elements/gmaps.php:54
+msgid ""
+"Insert here the address in case you want it to be display on the bottom of "
+"the map."
+msgstr ""
+
+#: inc/elements/gmaps.php:58
+msgid "Map color"
+msgstr ""
+
+#: inc/elements/gmaps.php:61
+msgid "Specify the map base color."
+msgstr ""
+
+#: inc/elements/gmaps.php:67
+msgid "UI color"
+msgstr ""
+
+#: inc/elements/gmaps.php:70
+msgid "Specify the UI color."
+msgstr ""
+
+#: inc/elements/gmaps.php:76 inc/params/background-params.php:133
+msgid "Zoom"
+msgstr ""
+
+#: inc/elements/gmaps.php:82
+msgid "Set map zoom level."
+msgstr ""
+
+#: inc/elements/gmaps.php:86
+msgid "Saturation"
+msgstr ""
+
+#: inc/elements/gmaps.php:92
+msgid "Set map color saturation."
+msgstr ""
+
+#: inc/elements/gmaps.php:96
+msgid "Brightness"
+msgstr ""
+
+#: inc/elements/gmaps.php:102
+msgid "Set map color brightness."
+msgstr ""
+
+#: inc/elements/gmaps.php:106
+msgid "Mobile no draggable"
+msgstr ""
+
+#: inc/elements/gmaps.php:108
+msgid "Deactivate the drag function on mobile devices."
+msgstr ""
+
+#: inc/elements/gmaps.php:109
+msgid "Mobile"
+msgstr ""
+
+#: inc/elements/gmaps.php:116 inc/params/row-inner-params.php:122
+#: inc/params/row-params.php:184 inc/params/section-params.php:110
+#: inc/vc-additional-params.php:70
+#, fuzzy
+#| msgid "Extra class"
+msgid "Extra class name"
+msgstr "Classe additionelle"
+
+#: inc/elements/gmaps.php:118
+msgid "Extra"
+msgstr ""
+
+#: inc/elements/gmaps.php:119
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: inc/elements/image-device-slider.php:17
+msgid "Image Device Slider"
+msgstr ""
+
+#: inc/elements/image-device-slider.php:18
+msgid "An elegant image slideshow"
+msgstr "Un diaporama d'image élégant"
+
+#: inc/elements/image-device-slider.php:31 inc/elements/item-price.php:65
+#: inc/elements/team-member.php:40
+msgid "Layout"
+msgstr "Mise en page"
+
+#: inc/elements/image-device-slider.php:35
+msgid "Desktop Screen"
+msgstr "Écran de bureau"
+
+#: inc/elements/image-device-slider.php:36
+msgid "Laptop Screen"
+msgstr "Ecran d'ordinateur portable"
+
+#: inc/elements/image-device-slider.php:37
+msgid "Tablet Screen"
+msgstr "Ecran de tablette"
+
+#: inc/elements/image-device-slider.php:38
+msgid "Mobile Screen"
+msgstr "Ecran de mobile"
+
+#: inc/elements/image-device-slider.php:40
+msgid "If you choose a custom layout your image may be cropped."
+msgstr ""
+"Si vous choisissez une présentation particulière de votre image peut être "
+"recadrée."
+
+#: inc/elements/image-link.php:17
+msgid "Linked Image"
+msgstr ""
+
+#: inc/elements/image-link.php:18
+msgid "A linked image with a text overlay"
+msgstr "Une image-liens avec une superposition de texte"
+
+#: inc/elements/image-link.php:48
+msgid "Image Alignment"
+msgstr ""
+
+#: inc/elements/image-link.php:81
+msgid "Frame Style"
+msgstr ""
+
+#: inc/elements/image-link.php:85
+msgid "Border"
+msgstr "Bordure"
+
+#: inc/elements/image-link.php:104
+msgid "Tagline as Button"
+msgstr ""
+
+#: inc/elements/instagram.php:22
+msgid "Instagram Gallery"
+msgstr ""
+
+#: inc/elements/instagram.php:24
+msgid "Your last instagram photos"
+msgstr "Vos dernières photos Instagram"
+
+#: inc/elements/instagram.php:30
+msgid "Image Count"
+msgstr ""
+
+#: inc/elements/instagram.php:31
+msgid "Note that the instagram API may limit the number of image to display."
+msgstr ""
+
+#: inc/elements/instagram.php:45
+msgid "Display follow button"
+msgstr ""
+
+#: inc/elements/item-price.php:18
+msgid "Item Price"
+msgstr ""
+
+#: inc/elements/item-price.php:19
+msgid "Presentation of an item or service for sale"
+msgstr "Présentation d’un article ou d'un service"
+
+#: inc/elements/item-price.php:29
+msgid "Our special"
+msgstr "Notre offre spéciale"
+
+#: inc/elements/item-price.php:35 inc/elements/pricing-table.php:34
+#: inc/elements/process-item.php:65 inc/elements/service-table.php:72
+#: inc/elements/team-member.php:129 inc/params/icon-params.php:456
+msgid "Title Tag"
+msgstr ""
+
+#: inc/elements/item-price.php:50 inc/elements/pricing-table.php:56
+msgid "Price"
+msgstr "Prix"
+
+#: inc/elements/item-price.php:68
+msgid "Text only"
+msgstr "Texte uniquement"
+
+#: inc/elements/item-price.php:69
+msgid "Image at the Top"
+msgstr ""
+
+#: inc/elements/item-price.php:70
+msgid "Image at Left"
+msgstr ""
+
+#: inc/elements/item-price.php:71
+msgid "Image at Right"
+msgstr ""
+
+#: inc/elements/last-posts.php:21 inc/elements/post-slider.php:81
+msgid "Number of post to display"
+msgstr "Nombre de publications à afficher"
+
+#: inc/elements/last-posts.php:27 inc/elements/post-slider.php:65
+#: inc/elements/testimonials.php:63
+msgid "Post IDs"
+msgstr "Liste des ID de post"
+
+#: inc/elements/last-posts.php:28 inc/elements/post-slider.php:66
+#: inc/elements/testimonials.php:64
+msgid ""
+"By default, your last posts will be displayed. You can choose the posts you "
+"want to display by entering a list of IDs separated by a comma."
+msgstr ""
+"Par défaut, vos derniers messages seront affichés. Vous pouvez choisir les "
+"messages que vous souhaitez afficher en entrant une liste d'ID séparés par "
+"une virgule."
+
+#: inc/elements/last-posts.php:34 inc/elements/post-slider.php:72
+#: inc/elements/testimonials.php:70
+msgid "Exclude Post IDs"
+msgstr "Exclure les IDs d’article/page"
+
+#: inc/elements/last-posts.php:35 inc/elements/post-slider.php:73
+#: inc/elements/testimonials.php:71
+msgid ""
+"You can choose the posts you don't want to display by entering a list of IDs "
+"separated by a comma."
+msgstr ""
+"Vous pouvez choisir les posts que vous ne voulez pas afficher en entrant une "
+"liste d'ID séparés par une virgule."
+
+#: inc/elements/last-posts.php:44 inc/elements/post-slider.php:91
+msgid "my-category, other-category"
+msgstr "ma-categorie, autre-categorie"
+
+#: inc/elements/last-posts.php:49 inc/elements/post-slider.php:97
+msgid "Tags"
+msgstr "Mots clés"
+
+#: inc/elements/last-posts.php:51 inc/elements/post-slider.php:99
+msgid ""
+"Include only one or several tags. Paste tag slug(s) separated by a comma"
+msgstr "Inclure un ou plusieurs tags. Entrer les tags séparés par une virgule."
+
+#: inc/elements/last-posts.php:52 inc/elements/post-slider.php:100
+msgid "my-tag, other-tag"
+msgstr "mon-tag, mon-autre-tag"
+
+#: inc/elements/last-posts.php:57 inc/elements/post-slider.php:106
+msgid "Hide Category"
+msgstr ""
+
+#: inc/elements/last-posts.php:64 inc/elements/post-slider.php:114
+msgid "Hide Tags"
+msgstr ""
+
+#: inc/elements/last-posts.php:71
+msgid "Hide Thumbnail Image"
+msgstr ""
+
+#: inc/elements/last-posts.php:78 inc/elements/post-slider.php:122
+msgid "Hide Author"
+msgstr ""
+
+#: inc/elements/last-posts.php:85
+msgid "Hide Text"
+msgstr ""
+
+#: inc/elements/last-posts.php:93
+msgid "Last Posts"
+msgstr ""
+
+#: inc/elements/last-posts.php:95
+msgid "Display your last posts in grid or carousel"
+msgstr ""
+
+#: inc/elements/last-posts.php:103
+msgid "Number of column to display"
+msgstr "Nombre de colonne à afficher"
+
+#: inc/elements/last-posts.php:111 inc/elements/testimonials.php:53
+msgid "Display"
+msgstr ""
+
+#: inc/elements/last-posts.php:114 inc/elements/team-member.php:43
+#: inc/elements/testimonials.php:56 inc/params/button-params.php:113
+msgid "Standard"
+msgstr ""
+
+#: inc/elements/list.php:46
+msgid "List with icon"
+msgstr ""
+
+#: inc/elements/list.php:52
+msgid "List text"
+msgstr ""
+
+#: inc/elements/mailchimp.php:20
+msgid "Newsletter subscription form"
+msgstr "Inscription newsletter"
+
+#: inc/elements/mailchimp.php:34
+msgid "Show Background"
+msgstr ""
+
+#: inc/elements/mailchimp.php:35
+msgid "You can set a background in the MailChimp plugin settings."
+msgstr ""
+"Vous pouvez définir un arrière-plan dans les paramètres du plugin MailChimp."
+
+#: inc/elements/mailchimp.php:60 inc/elements/mailchimp.php:72
+#: inc/elements/typed.php:62 inc/elements/video-opener.php:48
+msgid "center"
+msgstr "centre"
+
+#: inc/elements/mailchimp.php:61 inc/elements/mailchimp.php:73
+#: inc/elements/typed.php:60 inc/elements/video-opener.php:49
+msgid "left"
+msgstr "gauche"
+
+#: inc/elements/mailchimp.php:62 inc/elements/mailchimp.php:74
+#: inc/elements/typed.php:61 inc/elements/video-opener.php:50
+msgid "right"
+msgstr "droite"
+
+#: inc/elements/mailchimp.php:69 inc/elements/music-network.php:35
+#: inc/elements/separator.php:44 inc/elements/social-icons.php:42
+#: inc/elements/video-opener.php:45 inc/params/button-params.php:157
+msgid "Alignment"
+msgstr "Alignement"
+
+#: inc/elements/message.php:19
+msgid "Message box"
+msgstr "Message"
+
+#: inc/elements/message.php:28
+msgid "Success"
+msgstr "Succès"
+
+#: inc/elements/message.php:29
+msgid "Info"
+msgstr "Info"
+
+#: inc/elements/message.php:30
+msgid "Alert"
+msgstr "Alerte"
+
+#: inc/elements/message.php:31
+msgid "Error"
+msgstr "Erreur"
+
+#: inc/elements/message.php:39
+#, fuzzy
+#| msgid "Message"
+msgid "Message text"
+msgstr "Message"
+
+#: inc/elements/message.php:41
+#, fuzzy
+#| msgid ""
+#| "This is a text block. Click on the edit button to change this text.  %s"
+msgid "I am message box. Click edit button to change this text."
+msgstr ""
+"Ceci est un bloc de texte. Cliquez sur le bouton Modifier pour modifier ce "
+"texte. %s"
+
+#: inc/elements/message.php:46
+msgid "Display Icon"
+msgstr "Ajouter un icone"
+
+#: inc/elements/message.php:56
+msgid "Allow the visitor to dismiss the message"
+msgstr "Permettre au visiteur de fermer le message"
+
+#: inc/elements/music-network.php:18
+msgid "Music Network"
+msgstr ""
+
+#: inc/elements/music-network.php:22
+msgid "Display your music social network"
+msgstr "Affichez votre réseau social de la musique"
+
+#: inc/elements/music-network.php:38
+msgid "Centered"
+msgstr "Centré"
+
+#: inc/elements/music-network.php:48
+msgid "separated by a comma (empty for all)"
+msgstr ""
+
+#: inc/elements/oembed-gist.php:19
+msgid "Gist"
+msgstr "Gist"
+
+#: inc/elements/oembed-gist.php:20
+msgid "Display an Embed Gist"
+msgstr ""
+
+#: inc/elements/oembed-gist.php:28
+msgid "Gist URL"
+msgstr "URL de GIST"
+
+#: inc/elements/pie.php:27
+msgid "Select pie chart color."
+msgstr ""
+
+#: inc/elements/playlist.php:28
+msgid "No playlist created yet"
+msgstr "Pas de playlist"
+
+#: inc/elements/playlist.php:33 inc/elements/playlist.php:41
+msgid "Playlist"
+msgstr "Playlist"
+
+#: inc/elements/playlist.php:35
+msgid "Display one of your playlist"
+msgstr "Afficher une de vos playlist"
+
+#: inc/elements/playlist.php:48
+msgid "Tracklist Visibility"
+msgstr ""
+
+#: inc/elements/playlist.php:51
+msgid "show"
+msgstr "afficher"
+
+#: inc/elements/playlist.php:52
+msgid "hide"
+msgstr "masquer"
+
+#: inc/elements/portfolio.php:21
+msgid "Portfolio"
+msgstr ""
+
+#: inc/elements/portfolio.php:22
+#, fuzzy
+#| msgid "Display your event list from the Wolf Events plugin"
+msgid "Display your last works from the portfolio plugin"
+msgstr "Affichez votre liste d'événements du plug-in Wolf Events"
+
+#: inc/elements/post-slider.php:17
+msgid "Post"
+msgstr ""
+
+#: inc/elements/post-slider.php:18
+msgid "Gallery"
+msgstr ""
+
+#: inc/elements/post-slider.php:20
+msgid "Event"
+msgstr "Evénement"
+
+#: inc/elements/post-slider.php:21
+msgid "Release"
+msgstr ""
+
+#: inc/elements/post-slider.php:22
+msgid "Work"
+msgstr ""
+
+#: inc/elements/post-slider.php:33
+msgid "Post Slider"
+msgstr ""
+
+#: inc/elements/post-slider.php:36
+msgid "Display your last posts in a slider"
+msgstr "Afficher vos derniers articles dans un slider"
+
+#: inc/elements/post-slider.php:42
+msgid "Post Type"
+msgstr ""
+
+#: inc/elements/post-slider.php:50
+#, php-format
+msgid "Enter a value in % or px"
+msgstr "Entrer une valeur en % ou px"
+
+#: inc/elements/post-slider.php:58
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+#: inc/elements/pricing-table.php:18
+msgid "Pricing Table"
+msgstr ""
+
+#: inc/elements/pricing-table.php:28
+msgid "Basic Plan"
+msgstr "Plan de base"
+
+#: inc/elements/pricing-table.php:51
+msgid "An optional tagline"
+msgstr "Sous-titre"
+
+#: inc/elements/pricing-table.php:63
+msgid "Currency"
+msgstr "Monnaie"
+
+#: inc/elements/pricing-table.php:65
+msgid "e.g: $ or €"
+msgstr "par exemple: $ ou €"
+
+#: inc/elements/pricing-table.php:71
+msgid "Display Currency"
+msgstr ""
+
+#: inc/elements/pricing-table.php:81
+msgid "Offer"
+msgstr "Offre"
+
+#: inc/elements/pricing-table.php:84 inc/elements/pricing-table.php:109
+#: inc/elements/pricing-table.php:132
+msgid "no"
+msgstr "non"
+
+#: inc/elements/pricing-table.php:85 inc/elements/pricing-table.php:108
+#: inc/elements/pricing-table.php:133
+msgid "yes"
+msgstr "oui"
+
+#: inc/elements/pricing-table.php:91
+msgid "Offer Price"
+msgstr ""
+
+#: inc/elements/pricing-table.php:98
+msgid "Price Period"
+msgstr ""
+
+#: inc/elements/pricing-table.php:100
+msgid "e.g \"monthly\" or \"per month\""
+msgstr "par exemple, « mensuel » ou \"par mois\""
+
+#: inc/elements/pricing-table.php:105
+msgid "Show Button"
+msgstr ""
+
+#: inc/elements/pricing-table.php:115
+msgid "Button Text"
+msgstr ""
+
+#: inc/elements/pricing-table.php:117
+msgid "Buy now"
+msgstr "Acheter maintenant"
+
+#: inc/elements/pricing-table.php:122
+msgid "Button Link"
+msgstr ""
+
+#: inc/elements/pricing-table.php:129 inc/frontend/frontend-functions.php:56
+msgid "Featured"
+msgstr "Mis en avant"
+
+#: inc/elements/pricing-table.php:138
+msgid "Featured Text"
+msgstr ""
+
+#: inc/elements/pricing-table.php:140 inc/elements/pricing-table.php:141
+#: templates/wvc_pricing_table.php:33
+msgid "Best Choice"
+msgstr "Meilleur choix"
+
+#: inc/elements/pricing-table.php:149 inc/elements/service-table.php:59
+msgid "Enter one service per line."
+msgstr ""
+
+#: inc/elements/process-container.php:42
+msgid "Process"
+msgstr "Processus"
+
+#: inc/elements/process-container.php:46
+msgid "Your step-by-step way of working"
+msgstr "Votre méthode de travail étape par étape"
+
+#: inc/elements/process-container.php:56
+#, fuzzy, php-format
+msgid ""
+"It is recommended to insert %1$d to %2$d process elements and use the "
+"standard width for the parent row."
+msgstr ""
+"Il est recommandé d'insérer% 1 $ d à% 2 $ éléments du processus de d et "
+"utiliser la largeur standard de la ligne mère."
+
+#: inc/elements/process-item.php:47
+msgid "Process Item"
+msgstr ""
+
+#: inc/elements/process-item.php:59 inc/params/icon-params.php:443
+msgid "My title"
+msgstr "Mon titre"
+
+#: inc/elements/process-item.php:82
+msgid "Optional description text"
+msgstr "Description facultative"
+
+#: inc/elements/progress-bar.php:20
+msgid "Progress Bar"
+msgstr ""
+
+#: inc/elements/progress-bar.php:24
+msgid "Animated progress bar"
+msgstr ""
+
+#: inc/elements/progress-bar.php:30 inc/elements/single-image.php:28
+msgid "Enter text used as widget title (Note: located above content element)."
+msgstr ""
+
+#: inc/elements/progress-bar.php:34
+#, fuzzy
+#| msgid "Value"
+msgid "Values"
+msgstr "Valeur"
+
+#: inc/elements/progress-bar.php:36
+msgid "Enter values for graph - value, title and color."
+msgstr ""
+
+#: inc/elements/progress-bar.php:39
+#, fuzzy
+#| msgid "Remove element"
+msgid "Development"
+msgstr "Supprimer l'élément"
+
+#: inc/elements/progress-bar.php:43
+msgid "Design"
+msgstr ""
+
+#: inc/elements/progress-bar.php:47
+msgid "Marketing"
+msgstr ""
+
+#: inc/elements/progress-bar.php:56
+msgid "Enter text used as title of bar."
+msgstr ""
+
+#: inc/elements/progress-bar.php:61
+msgid "Value"
+msgstr "Valeur"
+
+#: inc/elements/progress-bar.php:63
+#, fuzzy
+#| msgid "Enter a value in % or px"
+msgid "Enter value of bar."
+msgstr "Entrer une valeur en % ou px"
+
+#: inc/elements/progress-bar.php:74
+msgid "Select single bar background color."
+msgstr ""
+
+#: inc/elements/progress-bar.php:82
+msgid "Select custom single bar background color."
+msgstr ""
+
+#: inc/elements/progress-bar.php:90
+#, fuzzy
+#| msgid "Text color"
+msgid "Custom text color"
+msgstr "Couleur du texte"
+
+#: inc/elements/progress-bar.php:92
+msgid "Select custom single bar text color."
+msgstr ""
+
+#: inc/elements/progress-bar.php:102
+msgid "Units"
+msgstr ""
+
+#: inc/elements/progress-bar.php:104
+msgid ""
+"Enter measurement units (Example: %, px, points, etc. Note: graph value and "
+"units will be appended to graph title)."
+msgstr ""
+
+#: inc/elements/progress-bar.php:115
+#, fuzzy
+#| msgid "Background color"
+msgid "Select bar background color."
+msgstr "Couleur de l'arrière plan"
+
+#: inc/elements/progress-bar.php:121
+#, fuzzy
+#| msgid "Background color"
+msgid "Bar custom background color"
+msgstr "Couleur de l'arrière plan"
+
+#: inc/elements/progress-bar.php:123
+msgid "Select custom background color for bars."
+msgstr ""
+
+#: inc/elements/progress-bar.php:131
+#, fuzzy
+#| msgid "Button 1 color"
+msgid "Bar custom text color"
+msgstr "Couleur Bouton 1"
+
+#: inc/elements/progress-bar.php:133
+msgid "Select custom text color for bars."
+msgstr ""
+
+#: inc/elements/row.php:61
+msgid "Border Color"
+msgstr "Couleur de la bordure"
+
+#: inc/elements/row.php:76
+msgid "Border Custom Color"
+msgstr ""
+
+#: inc/elements/row.php:88
+msgid "Border Style"
+msgstr "Style de bordure"
+
+#: inc/elements/row.php:92
+msgid "Solid"
+msgstr ""
+
+#: inc/elements/row.php:93
+msgid "Dotted"
+msgstr ""
+
+#: inc/elements/row.php:94
+msgid "Dashed"
+msgstr ""
+
+#: inc/elements/row.php:95
+msgid "Double"
+msgstr ""
+
+#: inc/elements/row.php:96
+msgid "Groove"
+msgstr ""
+
+#: inc/elements/row.php:97
+msgid "Ridge"
+msgstr ""
+
+#: inc/elements/row.php:98
+msgid "Inset"
+msgstr ""
+
+#: inc/elements/row.php:99
+msgid "Outset"
+msgstr ""
+
+#: inc/elements/separator.php:17
+msgid "Separator"
+msgstr "Séparateur"
+
+#: inc/elements/separator.php:18
+#, fuzzy
+#| msgid "Horizontal"
+msgid "Horizontal divider"
+msgstr "Horizontal"
+
+#: inc/elements/separator.php:26
+msgid "Element Width"
+msgstr ""
+
+#: inc/elements/separator.php:29 inc/elements/separator.php:38
+#, php-format
+msgid "Separator width (in %s or %s)."
+msgstr ""
+
+#: inc/elements/separator.php:35
+msgid "Element Height"
+msgstr ""
+
+#: inc/elements/separator.php:51
+#, fuzzy
+#| msgid "Select a set of images"
+msgid "Select separator alignment."
+msgstr "Sélectionnez un ensemble d'images"
+
+#: inc/elements/separator.php:64 inc/elements/social-icons.php:93
+#: inc/params/icon-params.php:281 inc/params/icon-params.php:334
+#, fuzzy
+#| msgid "Icon color"
+msgid "Select icon color."
+msgstr "Couleur de l'icône"
+
+#: inc/elements/separator.php:72 inc/elements/social-icons.php:104
+#: inc/params/icon-params.php:293 inc/params/icon-params.php:346
+msgid "Select custom icon color."
+msgstr ""
+
+#: inc/elements/service-table.php:48
+msgid "Service Table"
+msgstr ""
+
+#: inc/elements/service-table.php:49
+msgid "Show what your business is about"
+msgstr "Quel est votre entreprise"
+
+#: inc/elements/service-table.php:87 inc/params/button-params.php:194
+#, fuzzy
+#| msgid "Add icon"
+msgid "Add icon?"
+msgstr "Ajouter un icône"
+
+#: inc/elements/single-image.php:17
+msgid "Single Image"
+msgstr ""
+
+#: inc/elements/single-image.php:18
+msgid "A single image item"
+msgstr ""
+
+#: inc/elements/single-image.php:37
+msgid "Select image from media library."
+msgstr ""
+
+#: inc/elements/single-image.php:82
+msgid "Shadow"
+msgstr ""
+
+#: inc/elements/single-image.php:90 inc/params/button-params.php:180
+msgid "Hover effect"
+msgstr "Effet de survol de la souris"
+
+#: inc/elements/single-image.php:99
+msgid "Add caption?"
+msgstr ""
+
+#: inc/elements/single-image.php:101
+msgid "Add image caption."
+msgstr ""
+
+#: inc/elements/single-image.php:108
+msgid "Image alignment"
+msgstr "Alignement de l'image"
+
+#: inc/elements/single-image.php:115
+msgid "Select image alignment."
+msgstr ""
+
+#: inc/elements/single-image.php:124
+msgid "Maximum width"
+msgstr ""
+
+#: inc/elements/single-image.php:126
+#, php-format
+msgid "Set a value in %s or %s if you want to constrain the image width."
+msgstr ""
+
+#: inc/elements/single-image.php:137
+msgid "Open custom link"
+msgstr ""
+
+#: inc/elements/single-image.php:147
+msgid "Image link"
+msgstr ""
+
+#: inc/elements/social-icons.php:18
+#, fuzzy
+#| msgid "Social icons"
+msgid "Social Icons"
+msgstr "﻿Icônes de réseaux sociaux"
+
+#: inc/elements/social-icons.php:21
+msgid "A set of icons linked to your social profiles"
+msgstr "Un ensemble d'icônes liées à vos profils sociaux"
+
+#: inc/elements/social-icons.php:32
+#, php-format
+msgid ""
+"Enter the service names separated by a comma. Leave empty to display them "
+"all.<br>You can set your profiles in the <a href=\"%s\" target=\"_blank"
+"\">plugin settings</a>."
+msgstr ""
+"Entrez les noms de service séparés par une virgule. Laissez vide pour les "
+"afficher tous.<br>Vous pouvez définir vos profils dans la <a href=\"%s\" "
+"target=\"_blank\">configuration du plugin</a>."
+
+#: inc/elements/social-icons.php:54
+msgid "Target"
+msgstr "Cible"
+
+#: inc/elements/social-icons.php:66 inc/params/icon-params.php:302
+msgid "Background shape"
+msgstr "Forme de l’arrière-plan"
+
+#: inc/elements/social-icons.php:72 inc/params/button-params.php:116
+#: inc/params/icon-params.php:308
+#, fuzzy
+#| msgid "rounded"
+msgid "Rounded"
+msgstr "arrondie"
+
+#: inc/elements/social-icons.php:73 inc/params/icon-params.php:309
+#, fuzzy
+#| msgid "outline inverted"
+msgid "Outline Circle"
+msgstr "contour inversé"
+
+#: inc/elements/social-icons.php:74 inc/params/button-params.php:119
+#: inc/params/icon-params.php:310
+#, fuzzy
+#| msgid "outline inverted"
+msgid "Outline Square"
+msgstr "contour inversé"
+
+#: inc/elements/social-icons.php:75 inc/params/button-params.php:120
+#: inc/params/icon-params.php:311
+#, fuzzy
+#| msgid "outline inverted"
+msgid "Outline Rounded"
+msgstr "contour inversé"
+
+#: inc/elements/social-icons.php:77 inc/params/icon-params.php:314
+msgid "Select background shape and style for icon."
+msgstr ""
+
+#: inc/elements/social-icons.php:82 inc/params/icon-params.php:270
+#: inc/params/icon-params.php:323
+msgid "Icon color"
+msgstr "Couleur de l'icône"
+
+#: inc/elements/social-icons.php:113 inc/params/icon-params.php:355
+msgid "Background color"
+msgstr "Couleur de l'arrière plan"
+
+#: inc/elements/social-icons.php:120 inc/params/icon-params.php:361
+#, fuzzy
+#| msgid "Background Color on Hover"
+msgid "Select background color for icon."
+msgstr "Couleur de l'arrière-plan au survol"
+
+#: inc/elements/social-icons.php:129 inc/params/icon-params.php:370
+#, fuzzy
+#| msgid "Background color"
+msgid "Custom background color"
+msgstr "Couleur de l'arrière plan"
+
+#: inc/elements/social-icons.php:131 inc/params/icon-params.php:372
+msgid "Select custom icon background color."
+msgstr ""
+
+#: inc/elements/social-icons.php:146 inc/params/icon-params.php:435
+msgid "Tiny"
+msgstr ""
+
+#: inc/elements/social-icons.php:152 inc/params/icon-params.php:381
+msgid "Hover Transition"
+msgstr ""
+
+#: inc/elements/social-icons.php:157 inc/params/icon-params.php:386
+msgid "Inset border"
+msgstr ""
+
+#: inc/elements/social-icons.php:158 inc/params/icon-params.php:387
+msgid "Sonar"
+msgstr ""
+
+#: inc/elements/social-icons.php:159 inc/params/icon-params.php:388
+msgid "Fill"
+msgstr ""
+
+#: inc/elements/social-icons.php:160 inc/params/icon-params.php:389
+msgid "Pop"
+msgstr ""
+
+#: inc/elements/social-icons.php:161 inc/params/icon-params.php:390
+msgid "Rotate"
+msgstr ""
+
+#: inc/elements/social-icons.php:173
+msgid "Animate Icons One By One"
+msgstr ""
+
+#: inc/elements/social-icons.php:175 inc/vc-additional-params.php:205
+#: inc/vc-additional-params.php:207 inc/vc-additional-params.php:216
+#: inc/vc-additional-params.php:389 inc/vc-additional-params.php:415
+#: inc/vc-additional-params.php:441
+msgid "Animation"
+msgstr "Animation"
+
+#: inc/elements/soundcloud.php:18
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: inc/elements/soundcloud.php:20
+msgid "An embed Soundcloud playlist or song"
+msgstr "Une playlist Soundcloud ou une chanson"
+
+#: inc/elements/soundcloud.php:27
+msgid "Playlist or Song URL"
+msgstr ""
+
+#: inc/elements/tab.php:17 templates/vc_tab.php:18
+msgid "Tab"
+msgstr ""
+
+#: inc/elements/tab.php:27
+msgid "Tab title."
+msgstr ""
+
+#: inc/elements/tabs.php:20
+msgid "Tabs"
+msgstr "Onglets"
+
+#: inc/elements/tabs.php:26
+msgid "Tabbed contents"
+msgstr ""
+
+#: inc/elements/tabs.php:51
+msgid "Tab 1"
+msgstr ""
+
+#: inc/elements/tabs.php:52
+msgid "Tab 2"
+msgstr ""
+
+#: inc/elements/team-member.php:17
+msgid "Team Member"
+msgstr ""
+
+#: inc/elements/team-member.php:21
+msgid "Present your staff members"
+msgstr "Présenter les membres de votre personnel"
+
+#: inc/elements/team-member.php:25
+msgid "Photo"
+msgstr "Photo"
+
+#: inc/elements/team-member.php:44
+msgid "Overlay"
+msgstr ""
+
+#: inc/elements/team-member.php:45
+msgid "Flip Box"
+msgstr ""
+
+#: inc/elements/team-member.php:96
+msgid "Name"
+msgstr "Nom"
+
+#: inc/elements/team-member.php:103
+msgid "Role"
+msgstr "Rôle"
+
+#: inc/elements/team-member.php:110
+msgid "Description"
+msgstr "Description"
+
+#: inc/elements/team-member.php:148
+msgid "Add Social Profiles"
+msgstr ""
+
+#: inc/elements/testimonial-slide.php:18
+msgid "Testimonial"
+msgstr "Témoignage"
+
+#: inc/elements/testimonial-slide.php:28
+msgid "I am very happy with everything."
+msgstr "Je suis extrêmement satisfait."
+
+#: inc/elements/testimonial-slide.php:33
+msgid "Signature"
+msgstr "Signature"
+
+#: inc/elements/testimonial-slide.php:35
+msgid "Someone"
+msgstr "Quelqu'un"
+
+#: inc/elements/testimonial-slide.php:41
+msgid "Avatar"
+msgstr "Avatar"
+
+#: inc/elements/testimonial-slider.php:18
+msgid "Testimonials Slider"
+msgstr ""
+
+#: inc/elements/testimonial-slider.php:23
+msgid "Show the feedbacks submitted by your happy customers"
+msgstr "Montrer les témoignage par vos clients satisfaits"
+
+#: inc/elements/testimonials.php:22
+msgid "Testimonials"
+msgstr ""
+
+#: inc/elements/testimonials.php:23
+msgid "Display quotes from the testimonial post type"
+msgstr ""
+
+#: inc/elements/toggle.php:17
+msgid "Toggle"
+msgstr "Toggle"
+
+#: inc/elements/toggle.php:27
+msgid "My Title"
+msgstr "Mon titre"
+
+#: inc/elements/toggle.php:35
+#, fuzzy
+#| msgid ""
+#| "This is a text block. Click on the edit button to change this text.  %s"
+msgid "Toggle content goes here, click edit button to change this text."
+msgstr ""
+"Ceci est un bloc de texte. Cliquez sur le bouton Modifier pour modifier ce "
+"texte. %s"
+
+#: inc/elements/toggle.php:40
+msgid "Open by default"
+msgstr "Ouvert par défaut"
+
+#: inc/elements/twitter.php:22
+msgid "Last Tweets"
+msgstr ""
+
+#: inc/elements/twitter.php:24
+msgid "Your last tweets"
+msgstr "Derniers tweet"
+
+#: inc/elements/twitter.php:32
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: inc/elements/twitter.php:43
+msgid "single"
+msgstr "simple"
+
+#: inc/elements/twitter.php:44
+msgid "list"
+msgstr "liste"
+
+#: inc/elements/typed.php:18
+msgid "Autotyping"
+msgstr ""
+
+#: inc/elements/typed.php:19
+msgid "An animated typing text"
+msgstr ""
+
+#: inc/elements/typed.php:27
+msgid "Animated Text"
+msgstr ""
+
+#: inc/elements/typed.php:29
+msgid "Enter one sentence per line."
+msgstr ""
+
+#: inc/elements/typed.php:35
+msgid "Text Before"
+msgstr ""
+
+#: inc/elements/typed.php:37
+msgid "My sentence starts with this"
+msgstr "Ma phrase commence par cela"
+
+#: inc/elements/typed.php:43
+msgid "Text After"
+msgstr ""
+
+#: inc/elements/typed.php:45
+msgid "My sentence ends with this"
+msgstr ""
+
+#: inc/elements/typed.php:75
+msgid "Text Style"
+msgstr ""
+
+#: inc/elements/typed.php:79
+msgid "italic"
+msgstr ""
+
+#: inc/elements/typed.php:117
+msgid "Loop"
+msgstr ""
+
+#: inc/elements/typed.php:127
+msgid "Speed in ms"
+msgstr ""
+
+#: inc/elements/video-opener.php:18
+msgid "Video Opener"
+msgstr ""
+
+#: inc/elements/video-opener.php:20
+#, fuzzy
+#| msgid "Open a video in a overlay"
+msgid "Open a video in a lightbox"
+msgstr "Ouvrir la vidéo dans une lightbox"
+
+#: inc/elements/video-opener.php:60
+#, php-format
+msgid "Support %1$s and %2$s"
+msgstr "Prend en charge %1$s et %2$s"
+
+#: inc/elements/video.php:20
+msgid "Embed YouTube/Vimeo player"
+msgstr ""
+
+#: inc/elements/video.php:31
+#, php-format
+msgid ""
+"Link to the video. More about supported formats at <a href=\"%s\" target="
+"\"_blank\">WordPress codex page.</a>"
+msgstr ""
+"Lien de la vidéo. Plus d'informations à propos des formats supportés à <a "
+"href=\"%s\" target=\"_blank\">WordPress codex page.</a>"
+
+#: inc/elements/videos.php:22
+msgid "Last Videos"
+msgstr ""
+
+#: inc/elements/videos.php:23
+msgid "The last videos from your video gallery"
+msgstr "Les dernières vidéos de votre galerie vidéo"
+
+#: inc/elements/youtube.php:17
+msgid "YouTube Video"
+msgstr ""
+
+#: inc/elements/youtube.php:19
+msgid "A YouTube video with video preview"
+msgstr ""
+
+#: inc/elements/youtube.php:25
+msgid "YouTube Video URL"
+msgstr ""
+
+#: inc/elements/youtube.php:34
+msgid "My video title"
+msgstr "Mon super titre"
+
+#: inc/elements/youtube.php:40
+msgid "Cover Image"
+msgstr ""
+
+#: inc/elements/youtube.php:47
+msgid "Video Preview"
+msgstr ""
+
+#: inc/elements/youtube.php:49
+msgid "A short mp4 video file"
+msgstr "Un fichier vidéo court mp4"
+
+#: inc/frontend/frontend-functions.php:73
+#, php-format
+msgid "View all posts by %s"
+msgstr "Voir tous les articles de %s"
+
+#: inc/frontend/frontend-functions.php:101
+#: inc/frontend/frontend-functions.php:109
+msgid ", "
+msgstr ","
+
+#: inc/frontend/frontend-functions.php:148
+#: inc/frontend/frontend-functions.php:149
+#, php-format
+msgid "%s ago"
+msgstr "il y a %s"
+
+#: inc/frontend/scripts.php:198
+msgid "An unknown error occured."
+msgstr ""
+
+#: inc/google-fonts.php:64
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: inc/mailchimp.php:34 templates/wvc_mailchimp.php:25
+msgid "enter your email address"
+msgstr "Entrez votre adresse email."
+
+#: inc/mailchimp.php:109
+#, php-format
+msgid ""
+"You must set your MailChimp API key in the <a style=\"text-decoration:"
+"underline;\" href=\"%s\">plugin settings</a>"
+msgstr ""
+
+#: inc/mailchimp.php:116
+msgid "You must set a list ID."
+msgstr "Vous devez définir une ID de liste!"
+
+#: inc/params/background-params.php:23
+msgid "Background type"
+msgstr "Type d'arrière plan"
+
+#: inc/params/background-params.php:28
+msgid "Slideshow"
+msgstr "Diaporama"
+
+#: inc/params/background-params.php:30
+msgid "Transparent"
+msgstr "Transparent"
+
+#: inc/params/background-params.php:67
+msgid "Background Image"
+msgstr ""
+
+#: inc/params/background-params.php:98
+msgid "Background repeat"
+msgstr ""
+
+#: inc/params/background-params.php:101
+msgid "no repeat"
+msgstr "pas de répetition"
+
+#: inc/params/background-params.php:102
+msgid "repeat"
+msgstr "répetition"
+
+#: inc/params/background-params.php:103
+msgid "repeat-x"
+msgstr ""
+
+#: inc/params/background-params.php:104
+msgid "repeat-y"
+msgstr ""
+
+#: inc/params/background-params.php:114
+msgid "Background size"
+msgstr ""
+
+#: inc/params/background-params.php:117
+msgid "cover"
+msgstr "cover"
+
+#: inc/params/background-params.php:118 inc/vc-custom-fields.php:35
+msgid "default"
+msgstr "défaut"
+
+#: inc/params/background-params.php:119
+msgid "contain"
+msgstr "contain"
+
+#: inc/params/background-params.php:128
+msgid "Background Effect"
+msgstr ""
+
+#: inc/params/background-params.php:132
+msgid "Parallax"
+msgstr "Parallax"
+
+#: inc/params/background-params.php:157
+msgid "An image to display when the video can't be played."
+msgstr ""
+
+#: inc/params/background-params.php:166
+msgid "Slideshow Images"
+msgstr ""
+
+#: inc/params/background-params.php:176
+msgid "Slideshow Speed"
+msgstr ""
+
+#: inc/params/background-params.php:178
+msgid "In milliseconds."
+msgstr ""
+
+#: inc/params/background-params.php:242
+msgid "Add Particles"
+msgstr ""
+
+#: inc/params/button-params.php:63
+#, fuzzy
+#| msgid "Tweet this button"
+msgid "Eye catching button"
+msgstr "Bouton Tweet"
+
+#: inc/params/button-params.php:78
+msgid "URL (Link)"
+msgstr ""
+
+#: inc/params/button-params.php:80
+#, fuzzy
+#| msgid "Add a first button"
+msgid "Add link to button."
+msgstr "Ajouter un premier bouton"
+
+#: inc/params/button-params.php:93
+msgid "Select button color."
+msgstr ""
+
+#: inc/params/button-params.php:100
+msgid "Select custom button color."
+msgstr ""
+
+#: inc/params/button-params.php:109
+msgid "Shape"
+msgstr "Forme"
+
+#: inc/params/button-params.php:110
+#, fuzzy
+#| msgid "Button 1 shape"
+msgid "Select button shape."
+msgstr "Forme du Bouton 1"
+
+#: inc/params/button-params.php:117
+msgid "Outline Standard"
+msgstr ""
+
+#: inc/params/button-params.php:118
+msgid "Outline Round"
+msgstr ""
+
+#: inc/params/button-params.php:122
+msgid "Select background shape and style for button."
+msgstr ""
+
+#: inc/params/button-params.php:144
+msgid "Select button display size."
+msgstr ""
+
+#: inc/params/button-params.php:159
+#, fuzzy
+#| msgid "Caption alignment"
+msgid "Select button alignment."
+msgstr "Alignement de la légende"
+
+#: inc/params/button-params.php:162
+#, fuzzy
+#| msgid "Inline style"
+msgid "Inline"
+msgstr "Inline style"
+
+#: inc/params/button-params.php:170
+#, fuzzy
+#| msgid "Tweet this button"
+msgid "Set full width button?"
+msgstr "Bouton Tweet"
+
+#: inc/params/button-params.php:187
+msgid "Fill Vertical"
+msgstr ""
+
+#: inc/params/button-params.php:200
+#, fuzzy
+#| msgid "Alignment"
+msgid "Icon Alignment"
+msgstr "Alignement"
+
+#: inc/params/button-params.php:201
+#, fuzzy
+#| msgid "Caption alignment"
+msgid "Select icon alignment."
+msgstr "Alignement de la légende"
+
+#: inc/params/button-params.php:215
+msgid "Reveal Icon on Hover"
+msgstr ""
+
+#: inc/params/button-params.php:216
+msgid "The icon will be visible on hover only."
+msgstr ""
+
+#: inc/params/column-inner-params.php:23 inc/params/column-params.php:34
+msgid "Vertical Position"
+msgstr ""
+
+#: inc/params/column-inner-params.php:27 inc/params/column-params.php:38
+#: inc/params/icon-params.php:405 inc/params/row-params.php:101
+#: inc/params/row-params.php:119
+msgid "Top"
+msgstr "Haut"
+
+#: inc/params/column-inner-params.php:28 inc/params/column-params.php:39
+#: inc/params/row-params.php:100 inc/params/row-params.php:120
+msgid "Middle"
+msgstr ""
+
+#: inc/params/column-inner-params.php:29 inc/params/column-params.php:40
+#: inc/params/row-params.php:102 inc/params/row-params.php:121
+msgid "Bottom"
+msgstr ""
+
+#: inc/params/column-inner-params.php:31 inc/params/column-params.php:42
+msgid "Select the vertical position of the content."
+msgstr ""
+
+#: inc/params/column-inner-params.php:36 inc/params/column-params.php:47
+msgid "Horizontal Position"
+msgstr ""
+
+#: inc/params/column-inner-params.php:43 inc/params/column-inner-params.php:62
+#: inc/params/column-params.php:54 inc/params/column-params.php:73
+msgid "Select the horizontal position of the content."
+msgstr ""
+
+#: inc/params/column-inner-params.php:48 inc/params/column-params.php:59
+msgid "Content Max Width"
+msgstr ""
+
+#: inc/params/column-inner-params.php:55 inc/params/column-params.php:66
+msgid "Column Style"
+msgstr ""
+
+#: inc/params/column-inner-params.php:59 inc/params/column-params.php:70
+#: inc/params/row-params.php:51
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/params/column-inner-params.php:60 inc/params/column-params.php:71
+msgid "Boxed with Hover Effect"
+msgstr ""
+
+#: inc/params/column-inner-params.php:67 inc/params/column-params.php:78
+msgid "Width"
+msgstr "Largeur"
+
+#: inc/params/column-inner-params.php:71 inc/params/column-params.php:82
+msgid "1 column - 1/12"
+msgstr "1 colonne - 1/12"
+
+#: inc/params/column-inner-params.php:72 inc/params/column-params.php:83
+msgid "2 columns - 1/6"
+msgstr ""
+
+#: inc/params/column-inner-params.php:73 inc/params/column-params.php:84
+msgid "3 columns - 1/4"
+msgstr ""
+
+#: inc/params/column-inner-params.php:74 inc/params/column-params.php:85
+msgid "4 columns - 1/3"
+msgstr ""
+
+#: inc/params/column-inner-params.php:75 inc/params/column-params.php:86
+msgid "5 columns - 5/12"
+msgstr ""
+
+#: inc/params/column-inner-params.php:76 inc/params/column-params.php:87
+msgid "6 columns - 1/2"
+msgstr ""
+
+#: inc/params/column-inner-params.php:77 inc/params/column-params.php:88
+msgid "7 columns - 7/12"
+msgstr ""
+
+#: inc/params/column-inner-params.php:78 inc/params/column-params.php:89
+msgid "8 columns - 2/3"
+msgstr ""
+
+#: inc/params/column-inner-params.php:79 inc/params/column-params.php:90
+msgid "9 columns - 3/4"
+msgstr ""
+
+#: inc/params/column-inner-params.php:80 inc/params/column-params.php:91
+msgid "10 columns - 5/6"
+msgstr ""
+
+#: inc/params/column-inner-params.php:81 inc/params/column-params.php:92
+msgid "11 columns - 11/12"
+msgstr ""
+
+#: inc/params/column-inner-params.php:82 inc/params/column-params.php:93
+msgid "12 columns - 1/1"
+msgstr ""
+
+#: inc/params/column-inner-params.php:85 inc/params/column-params.php:96
+msgid "Select column width."
+msgstr ""
+
+#: inc/params/column-params.php:22
+msgid "Content type"
+msgstr "Type du contenu"
+
+#: inc/params/column-params.php:27
+msgid "Block with media content"
+msgstr ""
+
+#: inc/params/column-params.php:29
+msgid "Select type of content you will insert."
+msgstr ""
+
+#: inc/params/icon-params.php:23
+#, fuzzy
+#| msgid "Icon Color"
+msgid "Icon Box"
+msgstr "Couleur de l'icone"
+
+#: inc/params/icon-params.php:24
+msgid "Icon box from icon library"
+msgstr ""
+
+#: inc/params/icon-params.php:32
+msgid "Icon Type"
+msgstr ""
+
+#: inc/params/icon-params.php:35
+msgid "Animated Icon"
+msgstr ""
+
+#: inc/params/icon-params.php:44
+#, fuzzy
+#| msgid "Icon Color"
+msgid "Icon library"
+msgstr "Couleur de l'icone"
+
+#: inc/params/icon-params.php:46
+#, fuzzy
+#| msgid "Font Transform"
+msgid "Font Awesome"
+msgstr "Transformation de la police"
+
+#: inc/params/icon-params.php:47
+msgid "Linearcons"
+msgstr ""
+
+#: inc/params/icon-params.php:48
+#, fuzzy
+#| msgid "Social icons"
+msgid "Linea Icons"
+msgstr "﻿Icônes de réseaux sociaux"
+
+#: inc/params/icon-params.php:49
+msgid "Open Iconic"
+msgstr ""
+
+#: inc/params/icon-params.php:50
+msgid "Typicons"
+msgstr ""
+
+#: inc/params/icon-params.php:51
+msgid "Entypo"
+msgstr ""
+
+#: inc/params/icon-params.php:52
+#, fuzzy
+#| msgid "Seconds"
+msgid "Linecons"
+msgstr "Secondes"
+
+#: inc/params/icon-params.php:54
+#, fuzzy
+#| msgid "Social icons"
+msgid "Socicon"
+msgstr "﻿Icônes de réseaux sociaux"
+
+#: inc/params/icon-params.php:55
+msgid "Material"
+msgstr ""
+
+#: inc/params/icon-params.php:56
+msgid "Wolf Rare Icons"
+msgstr ""
+
+#: inc/params/icon-params.php:60
+msgid "Select icon library."
+msgstr "Sélectionnez une bibliothèque d’icônes."
+
+#: inc/params/icon-params.php:79 inc/params/icon-params.php:95
+#: inc/params/icon-params.php:111 inc/params/icon-params.php:127
+#: inc/params/icon-params.php:143 inc/params/icon-params.php:174
+#: inc/params/icon-params.php:190 inc/params/icon-params.php:206
+#: inc/params/icon-params.php:222 inc/params/icon-params.php:238
+#: inc/params/icon-params.php:265
+msgid "Select icon from library."
+msgstr ""
+
+#: inc/params/icon-params.php:243
+msgid "Icon Image"
+msgstr ""
+
+#: inc/params/icon-params.php:312
+msgid "Ban"
+msgstr "Barré"
+
+#: inc/params/icon-params.php:407
+msgid "Left from Title"
+msgstr "A gauche du titre"
+
+#: inc/params/icon-params.php:409
+msgid "Right from Title"
+msgstr "A droite du titre"
+
+#: inc/params/icon-params.php:416
+msgid "Text Alignement"
+msgstr ""
+
+#: inc/params/icon-params.php:449
+msgid "Title Font Size"
+msgstr ""
+
+#: inc/params/row-inner-params.php:22
+msgid "Row Width"
+msgstr ""
+
+#: inc/params/row-inner-params.php:25 inc/params/row-params.php:65
+#, php-format
+msgid "Standard width (%s centered)"
+msgstr "Largeur standard (%s centré)"
+
+#: inc/params/row-inner-params.php:26 inc/params/row-params.php:66
+#, php-format
+msgid "Small width (%s centered)"
+msgstr "Petite largeur (%s centré)"
+
+#: inc/params/row-inner-params.php:33 inc/params/row-params.php:77
+#: inc/params/section-params.php:37
+#, fuzzy
+#| msgid "Height"
+msgid "Min Height"
+msgstr "Hauteur"
+
+#: inc/params/row-inner-params.php:36 inc/params/section-params.php:40
+msgid "Insert the row minimum height in pixel."
+msgstr ""
+
+#: inc/params/row-inner-params.php:107 inc/params/row-params.php:169
+#: inc/params/section-params.php:95
+msgid "Visibility"
+msgstr ""
+
+#: inc/params/row-inner-params.php:110 inc/params/row-params.php:172
+#: inc/params/section-params.php:98
+msgid "Always visible"
+msgstr "Toujours sisible"
+
+#: inc/params/row-inner-params.php:111 inc/params/row-params.php:173
+#: inc/params/section-params.php:99
+msgid "Hide on tablet and mobile"
+msgstr "Cachez sur les tablettes et mobiles"
+
+#: inc/params/row-inner-params.php:112 inc/params/row-params.php:174
+#: inc/params/section-params.php:100
+msgid "Hide on mobile"
+msgstr "Cachez sur les mobiles"
+
+#: inc/params/row-inner-params.php:113 inc/params/row-params.php:175
+#: inc/params/section-params.php:101
+msgid "Show on tablet and mobile only"
+msgstr "Afficher sur la tablette et mobile uniquement"
+
+#: inc/params/row-inner-params.php:114 inc/params/row-params.php:176
+#: inc/params/section-params.php:102
+msgid "Show on mobile only"
+msgstr "Afficher sur mobile uniquement"
+
+#: inc/params/row-inner-params.php:115 inc/params/row-params.php:177
+#: inc/params/section-params.php:103
+msgid "Always hidden"
+msgstr "Toujours caché"
+
+#: inc/params/row-inner-params.php:124 inc/params/row-params.php:186
+#: inc/params/section-params.php:112 inc/vc-additional-params.php:72
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: inc/params/row-params.php:23
+msgid "Column Type"
+msgstr ""
+
+#: inc/params/row-params.php:27
+msgid "Block"
+msgstr "Bloc"
+
+#: inc/params/row-params.php:30
+msgid "This will set a default style for your columns."
+msgstr ""
+
+#: inc/params/row-params.php:36
+msgid "Container Width"
+msgstr ""
+
+#: inc/params/row-params.php:39
+msgid "Wide"
+msgstr ""
+
+#: inc/params/row-params.php:40
+msgid "Boxed"
+msgstr ""
+
+#: inc/params/row-params.php:41
+msgid "Small Boxed"
+msgstr ""
+
+#: inc/params/row-params.php:42
+msgid "Large Boxed"
+msgstr ""
+
+#: inc/params/row-params.php:62
+msgid "Content Width"
+msgstr ""
+
+#: inc/params/row-params.php:67
+#, php-format
+msgid "Large width (%s centered)"
+msgstr "Grande largeur (%s centré)"
+
+#: inc/params/row-params.php:68
+#, php-format
+msgid "Full width (%s)"
+msgstr "Pleine largeur (%s)"
+
+#: inc/params/row-params.php:80
+msgid "Insert the row minimum height."
+msgstr ""
+
+#: inc/params/row-params.php:86
+#, fuzzy
+#| msgid "Full height"
+msgid "Full height row?"
+msgstr "Pleine Hauteur"
+
+#: inc/params/row-params.php:88
+msgid "If checked row will be set to full height."
+msgstr ""
+
+#: inc/params/row-params.php:96
+#, fuzzy
+#| msgid "Icon position"
+msgid "Columns position"
+msgstr "Position de l'îcone"
+
+#: inc/params/row-params.php:105
+msgid "Select columns position within row."
+msgstr ""
+
+#: inc/params/row-params.php:115
+msgid "Content position"
+msgstr "Position du contenu"
+
+#: inc/params/row-params.php:123
+#, fuzzy
+#| msgid "Section with columns"
+msgid "Select content position within columns."
+msgstr "Section avec colonnes"
+
+#: inc/params/row-params.php:129 inc/params/section-params.php:69
+msgid "Add pointing down arrow"
+msgstr "Ajouter une flèche pointant vers le bas"
+
+#: inc/params/row-params.php:130 inc/params/section-params.php:70
+msgid "Allow user to scroll to the next section when clicking on the arrow"
+msgstr ""
+"Permettre à l'utilisateur de faire défiler à la section suivante en cliquant "
+"sur la flèche"
+
+#: inc/params/row-params.php:138 inc/params/section-params.php:78
+msgid "Arrow Caption"
+msgstr ""
+
+#: inc/params/row-params.php:140 inc/params/section-params.php:80
+msgid "Continue"
+msgstr ""
+
+#: inc/params/row-params.php:150
+#, fuzzy
+#| msgid "Full height"
+msgid "Equal height"
+msgstr "Pleine Hauteur"
+
+#: inc/params/row-params.php:152
+msgid "If checked columns will be set to equal height."
+msgstr ""
+
+#: inc/params/row-params.php:161 inc/params/section-params.php:87
+msgid "Section name"
+msgstr ""
+
+#: inc/params/row-params.php:163 inc/params/section-params.php:89
+msgid "Required for the onepage scroll, this gives the name to the section."
+msgstr ""
+
+#: inc/params/row-params.php:199
+msgid "Custom Column Gap"
+msgstr ""
+
+#: inc/params/row-params.php:201
+msgid ""
+"Here you can set a custom column gap in any value. This will overwrite the "
+"default column margin."
+msgstr ""
+
+#: inc/params/row-params.php:203
+msgid "Advanced"
+msgstr ""
+
+#: inc/params/section-params.php:46
+msgid "Full height section?"
+msgstr ""
+
+#: inc/params/section-params.php:48
+msgid "If checked section will be set to full height."
+msgstr ""
+
+#: inc/params/section-params.php:124 inc/params/style-params.php:22
+msgid "CSS box"
+msgstr ""
+
+#: inc/vc-additional-params.php:93 inc/vc-additional-params.php:309
+msgid "Autoplay"
+msgstr "Autoplay"
+
+#: inc/vc-additional-params.php:99 inc/vc-additional-params.php:109
+#: inc/vc-additional-params.php:120 inc/vc-additional-params.php:127
+#: inc/vc-additional-params.php:137 inc/vc-additional-params.php:147
+#: inc/vc-additional-params.php:315 inc/vc-additional-params.php:328
+#: inc/vc-additional-params.php:338 inc/vc-additional-params.php:351
+#: inc/vc-additional-params.php:364
+msgid "Slider Settings"
+msgstr "Paramètres du Slider"
+
+#: inc/vc-additional-params.php:103 inc/vc-additional-params.php:322
+msgid "Pause on Hover (if autoplay)"
+msgstr ""
+
+#: inc/vc-additional-params.php:113
+msgid "Transition"
+msgstr "Effet de transition"
+
+#: inc/vc-additional-params.php:116
+msgid "Auto (fade by default and slide on touchable devices)"
+msgstr "Auto (fondu par défaut et diapositives sur les périphériques tactiles)"
+
+#: inc/vc-additional-params.php:117
+msgid "Slide"
+msgstr "Slide"
+
+#: inc/vc-additional-params.php:118
+msgid "Fade"
+msgstr "Fade"
+
+#: inc/vc-additional-params.php:124 inc/vc-additional-params.php:335
+msgid "Slideshow Speed in ms"
+msgstr "Vitesse du diaporama en ms"
+
+#: inc/vc-additional-params.php:131 inc/vc-additional-params.php:345
+msgid "Show Navigation Bullets"
+msgstr ""
+
+#: inc/vc-additional-params.php:141 inc/vc-additional-params.php:358
+msgid "Show Navigation Arrows"
+msgstr ""
+
+#: inc/vc-additional-params.php:213
+msgid "Animation Delay (in ms)"
+msgstr ""
+
+#: inc/vc-additional-params.php:280
+msgid "Css"
+msgstr ""
+
+#: inc/vc-additional-params.php:287
+msgid "Inline Style"
+msgstr ""
+
+#: inc/vc-additional-params.php:290
+#, php-format
+msgid "Additional inline CSS that will be applied to the element. (e.g: %s)"
+msgstr ""
+
+#: inc/vc-custom-fields.php:40
+msgctxt "placeholder text"
+msgid ""
+"And there was silence over the oceans. When a voice came thundering from "
+"above."
+msgstr ""
+"Et il y avait silence au-dessus des Océans. Quand une voix tonitruante est "
+"venue d’en haut."
+
+#: inc/vc-custom-fields.php:92
+msgid "Media Library"
+msgstr ""
+
+#: inc/vc-presets.php:23
+msgid "Wolf Row Presets"
+msgstr ""
+
+#: templates/wvc_bandsintown_events.php:59
+msgid "Please set an artist."
+msgstr "Entrer l'ID de l'artiste"
+
+#: templates/wvc_bandsintown_events.php:61
+msgid "No event scheduled."
+msgstr "Aucun événement prévu."
+
+#: templates/wvc_countdown.php:20
+msgid "Done!"
+msgstr "Terminé  !"
+
+#: templates/wvc_last_posts.php:161 templates/wvc_post_slider.php:165
+msgid "No post found."
+msgstr "Pas d'articles"
+
+#: templates/wvc_post_slider.php:169
+msgid "Only posts with a featured image will be displayed."
+msgstr ""
+"Notez que seuls les articles avec une images « à la une » définie seront "
+"affichés."
+
+#: templates/wvc_pricing_table.php:29
+msgid "Buy Now"
+msgstr "Achetez maintenant"
+
+#: templates/wvc_youtube.php:77
+#, php-format
+msgid "Watch %s"
+msgstr "Regarder %s"
+
+#: templates/wvc_youtube.php:79
+msgid "Play Video"
+msgstr ""
+
+#: views/post/content-grid.php:26
+msgid "Edit"
+msgstr "Editer"
+
+#: views/post/content-post-slider.php:48
+msgid "Continue reading"
+msgstr "Lire la suite"
+
+#: wolf-visual-composer.php:135
+#, php-format
+msgid ""
+"<strong>%s</strong> requires <strong><a href=\"%s\" target=\"_blank\">Visual "
+"Composer</a></strong> plugin to be installed and activated on your site."
+msgstr ""
+
+#~ msgid "formatted like 12/24/2020 12:00:00"
+#~ msgstr "formatée comme 24/12/2020 12:00:00"
+
+#~ msgid "e.g : -5 for NY"
+#~ msgstr "ex : -1 pour Paris"
+
+#~ msgid "rounded"
+#~ msgstr "arrondie"
+
+#~ msgid "shadow"
+#~ msgstr "ombre"
+
+#~ msgid "border"
+#~ msgstr "Bordure"
+
+#~ msgid "Subtitle"
+#~ msgstr "Sous-titre"
+
+#~ msgid "Small image"
+#~ msgstr "Petite image"
+
+#~ msgid "Medium image"
+#~ msgstr "Image moyenne"
+
+#~ msgid "Big image"
+#~ msgstr "Grande image"
+
+#~ msgid "Display a sneak peak or your last posts"
+#~ msgstr "Afficher un avant-goût ou vos derniers articles"
+
+#~ msgid "Display your last posts in columns"
+#~ msgstr "Afficher vos derniers articles dans les colonnes"
+
+#~ msgid "Help users pick the most appropriate plan for them"
+#~ msgstr "Aider les utilisateurs à choisir le plan le plus approprié pour eux"
+
+#~ msgid "Open button link in a new window"
+#~ msgstr "Ouvrir le lien dans un nouvel onglet"
+
+#, fuzzy
+#~| msgid "Content type"
+#~ msgid "Content layout"
+#~ msgstr "Type du contenu"
+
+#, fuzzy
+#~| msgid "Full width"
+#~ msgid "Element width"
+#~ msgstr "Pleine largeur"
+
+#~ msgid "in percent"
+#~ msgstr "en %"
+
+#~ msgid "Icon Color"
+#~ msgstr "Couleur de l'icone"
+
+#~ msgid ""
+#~ "You can set the \"large\", \"medium\" and \"thumbnail\" sizes in the WP "
+#~ "media settings "
+#~ msgstr ""
+#~ "Vous pouvez définir les tailles \"large\", \"medium\" et \"vignette\" "
+#~ "dans les réglages média de Wordpress"
+
+#~ msgid "round"
+#~ msgstr "rond"
+
+#~ msgid "If empty, a standard play button will be displayed"
+#~ msgstr "Si vide, un bouton de lecture standard s'affichera"
+
+#, fuzzy
+#~| msgid "Use theme button style"
+#~ msgid "Select button display style."
+#~ msgstr "Utiliser le style de bouton du thème"
+
+#~ msgid "Flat"
+#~ msgstr "Plat"
+
+#, fuzzy
+#~| msgid "outline"
+#~ msgid "Outline"
+#~ msgstr "contour"
+
+#~ msgid "Fill-in-up"
+#~ msgstr "Remplissage vers le haut"
+
+#~ msgid "Fill in"
+#~ msgstr "Remplissage"
+
+#~ msgid "team member"
+#~ msgstr "membre de l'équipe"
+
+#~ msgid "Used in case the video can't be displayed.."
+#~ msgstr "Utilisé dans le cas de la vidéo ne peut pas être affichée .."
+
+#~ msgid "My button"
+#~ msgstr "Mon bouton"
+
+#~ msgid "Optional additional text"
+#~ msgstr "Texte complémentaire facultatif"
+
+#~ msgid "Showcase your photos sorted by albums"
+#~ msgstr "Mettre en valeur vos photos triés selon les albums"
+
+#~ msgid "Medias"
+#~ msgstr "Médias"
+
+#~ msgid "A simple button or a set of buttons"
+#~ msgstr "Un simple bouton ou un ensemble de boutons"
+
+#~ msgid "Very large"
+#~ msgstr "Très grande"
+
+#~ msgid "Smooth scroll"
+#~ msgstr "Défilement doux"
+
+#~ msgid "Check this option if your link is an anchor (eg: #my-section)"
+#~ msgstr ""
+#~ "Cochez cette option si votre lien est un point d’ancrage (par exemple : "
+#~ "#ma-section)"
+
+#~ msgid "Before"
+#~ msgstr "Avant"
+
+#~ msgid "After"
+#~ msgstr "Après"
+
+#~ msgid "Provoke an immediate response"
+#~ msgstr "Provoquer une réponse immédiate"
+
+#~ msgid "My call to action text"
+#~ msgstr "Texte d'appel à l'action"
+
+#~ msgid "Custom hover effects won't apply to icon with custom colors settings"
+#~ msgstr ""
+#~ "Les effets de survol ne s'appliqueront pas aux icônes avec des couleurs "
+#~ "personnalisées"
+
+#~ msgid "Sliders"
+#~ msgstr "Sliders"
+
+#~ msgid "Icon Color on Hover"
+#~ msgstr "Couleur de l'icone au survol"
+
+#~ msgid "Border Color on Hover"
+#~ msgstr "Couleur de bordure au survol"
+
+#~ msgid "Page Builder"
+#~ msgstr "Page Builder"
+
+#~ msgid "No slider yet"
+#~ msgstr "Pas de slider"
+
+#~ msgid "A simple image with link options"
+#~ msgstr "Une simple image avec options de lien"
+
+#~ msgid "Scale"
+#~ msgstr "Zoom"
+
+#~ msgid "Scale + Black and white to colored"
+#~ msgstr "Zoom + Noir et blanc vers couleur"
+
+#~ msgid "Scale + Colored to Black and white"
+#~ msgstr "Zoom + Couleurs vers noir et blanc"
+
+#~ msgid "Note that not all browsers support the black and white effect"
+#~ msgstr ""
+#~ "Notez que pas tous les navigateurs prennent en charge l'effet noir et "
+#~ "blanc"
+
+#~ msgid "Display caption"
+#~ msgstr "Afficher la légende"
+
+#~ msgid "Not linked"
+#~ msgstr "Pas de lien"
+
+#~ msgid "Open full size image in a lightbox"
+#~ msgstr "Ouvrez l'image dans une visionneuse"
+
+#~ msgid "Full size image"
+#~ msgstr "Image pleine taille"
+
+#~ msgid "Attachment page"
+#~ msgstr "Page de pièces jointes"
+
+#~ msgid "Link to a custom URL"
+#~ msgstr "Personalisé"
+
+#~ msgid "A set of images"
+#~ msgstr "Sélectionner des images"
+
+#~ msgid "Simple"
+#~ msgstr "Simple"
+
+#~ msgid ""
+#~ "For the mosaic gallery layout a multiple of 12 images is recommended. "
+#~ "Uploaded images must be 960x960px minimum."
+#~ msgstr ""
+#~ "Pour la mise en page de la Galerie mosaïque un multiple de 12 images est "
+#~ "recommandé. Les images téléchargées doivent être 960x960px minimum."
+
+#~ msgid "Slider Revolution"
+#~ msgstr "Slider Revolution"
+
+#~ msgid "Display a Revolution slider"
+#~ msgstr "Affichage d'un Revolution Slider"
+
+#~ msgid "Choose a slider"
+#~ msgstr "Choisissez un slider :"
+
+#~ msgid "DEMO IMAGE"
+#~ msgstr "IMAGE DE DÉMO"
+
+#~ msgid "You must set your MailChimp API key in the plugin settings"
+#~ msgstr ""
+#~ "Vous devez définir votre clé API de mailchimp dans la configuration du "
+#~ "plugin"
+
+#~ msgid "Hide"
+#~ msgstr "Cacher"
+
+#~ msgid "Show"
+#~ msgstr "Montrer"
+
+#~ msgid "An unique ID for your element."
+#~ msgstr "Un ID unique pour votre élément."
+
+#~ msgid "Optional CSS class to add to the element"
+#~ msgstr "Class CSS supplémentaire à ajouter à l'élément"
+
+#~ msgid "Additional inline CSS style"
+#~ msgstr "Style CSS additionnels"
+
+#~ msgid "About"
+#~ msgstr "À propos"
+
+#~ msgid "Welcome to %s %s"
+#~ msgstr "Bienvenue chez %s %s"
+
+#~ msgid "Thank you for updating to the latest version!"
+#~ msgstr "Merci d'avoir fait la mise à jour vers la dernière version"
+
+#~ msgid "Thanks for installing %s!"
+#~ msgstr "Merci d'avoir installé %s!"
+
+#~ msgid "%s We hope you will enjoy using it."
+#~ msgstr "%s Nous espérons que vous appréciez son utilisation."
+
+#~ msgid ""
+#~ "%s <br> %s is now more stable and secure than ever.<br>We hope you enjoy "
+#~ "using it."
+#~ msgstr ""
+#~ "%s <br> %s est maintenant plus stable et plus sûr que jamais. <br> Nous "
+#~ "espérons que vous apprécierez l'utiliser."
+
+#~ msgid "%s We hope you enjoy using it."
+#~ msgstr "%s Nous espérons que vous appréciez son utilisation."
+
+#~ msgid "Build your website easily with %s"
+#~ msgstr "Construisez votre site Internet facilement avec %s"
+
+#~ msgid "Start now"
+#~ msgstr "Commencez maintenant."
+
+#~ msgid "Changelog"
+#~ msgstr "Changelog"
+
+#~ msgid "Details"
+#~ msgstr "Détails"
+
+#~ msgid "Requires"
+#~ msgstr "Requiert"
+
+#~ msgid "Tested"
+#~ msgstr "Testé"
+
+#~ msgid "Last update"
+#~ msgstr "Dernière mise à jour"
+
+#~ msgid "Donate"
+#~ msgstr "Faire un don"
+
+#~ msgid "This will remove the section and its content."
+#~ msgstr "Cela supprimera la section et son contenu."
+
+#~ msgid "This will remove the row and its content."
+#~ msgstr "Cela supprimera la rangée et son contenu."
+
+#~ msgid "This will remove the element and its content."
+#~ msgstr "Cela supprimera l'élément et son contenu."
+
+#~ msgid "Choose an element"
+#~ msgstr "Choisissez un élément"
+
+#~ msgid "Choose your section style"
+#~ msgstr "Choisissez votre style de section"
+
+#~ msgid ""
+#~ "There must be at least one element in this container. Remove the element "
+#~ "container to remove the whole thing."
+#~ msgstr ""
+#~ "Il doit y avoir au moins un élément dans ce conteneur. Retirer le "
+#~ "conteneur de l'élément pour enlever le tout."
+
+#~ msgid ""
+#~ "There must be at least one row in this section. Remove the entire section "
+#~ "to remove the whole thing."
+#~ msgstr ""
+#~ "Il doit y avoir au moins une rangée dans cette section. Retirer toute la "
+#~ "section pour enlever le tout."
+
+#~ msgid "Select images"
+#~ msgstr "Sélectionner des images"
+
+#~ msgid "Select a video"
+#~ msgstr "Sélectionner une vidéo"
+
+#~ msgid "Standard mode"
+#~ msgstr "Mode standard"
+
+#~ msgid "Page builder mode"
+#~ msgstr "Page Builder"
+
+#~ msgid "Import"
+#~ msgstr "Importer"
+
+#~ msgid "Export"
+#~ msgstr "Exporter"
+
+#~ msgid "The page is empty"
+#~ msgstr "La page est vide"
+
+#~ msgid "my-template"
+#~ msgstr "mon-modele"
+
+#~ msgid "Save"
+#~ msgstr "Sauvegarder"
+
+#~ msgid "Cancel"
+#~ msgstr "Annuler"
+
+#~ msgid "Please wait..."
+#~ msgstr "Veuillez patienter….."
+
+#~ msgid "Add a section at the top"
+#~ msgstr "Ajouter une section en haut"
+
+#~ msgid "Documentation"
+#~ msgstr "Documentation"
+
+#~ msgid "Refresh markup"
+#~ msgstr "Rafraichir"
+
+#~ msgid "Add a section at the bottom"
+#~ msgstr "Ajouter une section au bas"
+
+#~ msgid ""
+#~ "It seems that another page builder is installed. Please deactivate the "
+#~ "following plugin: <a href=\"%1$s\"><strong>%2$s</strong></a>"
+#~ msgstr ""
+#~ "Il semble qu'un autre créateur de la page est installé. S'il vous plaît "
+#~ "désactiver le plugin suivant: <a href=\"%1$s\"><strong>%2$s</strong></a>"
+
+#~ msgid "%s, an Easy to Use Page Builder"
+#~ msgstr "%s, un Page Builder facile d'utilisation"
+
+#~ msgid "Let's Get Started"
+#~ msgstr "Commencer maintenant"
+
+#~ msgid "Start now!"
+#~ msgstr "Démarrez !"
+
+#~ msgid "or, <a href=\"%s\">go to the plugin settings</a>"
+#~ msgstr "ou, <a href=\"%s\">accédez aux paramètres de plug-in</a>"
+
+#~ msgid "Help"
+#~ msgstr "Aide"
+
+#~ msgid "How to create a section"
+#~ msgstr "Comment créer une section"
+
+#~ msgid "How to load google fonts"
+#~ msgstr "Comment charger des polices Google"
+
+#~ msgid "Support forum"
+#~ msgstr "Forum d'aide"
+
+#~ msgid "More plugins"
+#~ msgstr "Plus de plugins"
+
+#~ msgid "Choose the import file (it must be a text file)"
+#~ msgstr "Choisissez le fichier d'importation (ce doit être un fichier texte)"
+
+#~ msgid "Blocks"
+#~ msgstr "Blocs"
+
+#~ msgid "Add a section"
+#~ msgstr "Ajouter une Section"
+
+#~ msgid "Expanding and collapsing elements"
+#~ msgstr "Développement et réduction des éléments"
+
+#~ msgid "An unique identifier for your element."
+#~ msgstr "Un identifiant unique pour votre élément."
+
+#~ msgid "Optional additional CSS class to add to the element"
+#~ msgstr "Class CSS supplémentaire à ajouter à l'élément"
+
+#~ msgid "Accordion tab"
+#~ msgstr "Onglet d'accordéon"
+
+#~ msgid "flat"
+#~ msgstr "plat"
+
+#~ msgid "Advanced slider"
+#~ msgstr "Advanced slider"
+
+#~ msgid "Slider height"
+#~ msgstr "Hauteur du slider"
+
+#~ msgid "Advanced slide"
+#~ msgstr "Advanced slide"
+
+#~ msgid "Video background"
+#~ msgstr "Arrière plan vidéo"
+
+#~ msgid "Show video background controls (play and mute buttons)"
+#~ msgstr ""
+#~ "Afficher les contrôles de l'arrière plan vidéo (bouton play et mute)"
+
+#~ msgid "Title type"
+#~ msgstr "Type de titre"
+
+#~ msgid "Image size"
+#~ msgstr "Taille de l'image"
+
+#~ msgid "Caption type"
+#~ msgstr "Type de légende"
+
+#~ msgid "Button 1 text"
+#~ msgstr "Texte du bouton 1"
+
+#~ msgid "Button 1 tagline"
+#~ msgstr "Sous-titre du bouton 1"
+
+#~ msgid "Button 1 type"
+#~ msgstr "Type de bouton 1"
+
+#~ msgid "Button 1 color on hover"
+#~ msgstr "Couleur Bouton 1 au survol"
+
+#~ msgid "Button 1 link"
+#~ msgstr "Lien du bouton 1"
+
+#~ msgid "Open Button 1 link in a new window"
+#~ msgstr "Ouvrir le lien dans une nouvelle fenêtre"
+
+#~ msgid "Add a second button"
+#~ msgstr "Ajouter un second bouton"
+
+#~ msgid "Button 2 text"
+#~ msgstr "Texte du bouton 2"
+
+#~ msgid "Button 2 tagline"
+#~ msgstr "Sous-titre du bouton 2"
+
+#~ msgid "Button 2 type"
+#~ msgstr "Type de bouton 2"
+
+#~ msgid "Button 2 shape"
+#~ msgstr "Forme du Bouton 2"
+
+#~ msgid "Button 2 color"
+#~ msgstr "Couleur Bouton 2"
+
+#~ msgid "Button 2 color on hover"
+#~ msgstr "Couleur du Bouton 2 au survol"
+
+#~ msgid "Button 2 link"
+#~ msgstr "Lien du bouton 2"
+
+#~ msgid "Open Button 2 link in a new window"
+#~ msgstr "Ouvrir le lien dans une nouvelle fenêtre"
+
+#~ msgid "Add overlay"
+#~ msgstr "Ajouter un calque superposé"
+
+#~ msgid "Overlay color"
+#~ msgstr "Couleur du calque superposé"
+
+#~ msgid "Overlay pattern"
+#~ msgstr "Motif du calque superposé"
+
+#~ msgid "Overlay opacity in percent"
+#~ msgstr "Opacité du calque (en % )"
+
+#~ msgid "Photos widget (last photos)"
+#~ msgstr "Photos Widget (dernières photos)"
+
+#~ msgid "Artist"
+#~ msgstr "Artiste"
+
+#~ msgid "Big text"
+#~ msgstr "Gros Texte"
+
+#~ msgid "Font weight"
+#~ msgstr "Epaisseur de la police"
+
+#~ msgid "Text transform"
+#~ msgstr "Transformation du texte"
+
+#~ msgid "Open link in a new window"
+#~ msgstr "Ouvrir le lien dans une nouvelle fenêtre"
+
+#~ msgid "Media (no padding)"
+#~ msgstr "Médias (sans marge intérieur)"
+
+#~ msgid "Skin color"
+#~ msgstr "Style de couleur"
+
+#~ msgid "Slideshow images"
+#~ msgstr "Diaporamas Images"
+
+#~ msgid "Slideshow speed (in ms)"
+#~ msgstr "Vitesse du diaporama en ms"
+
+#~ msgid "Button(s) container"
+#~ msgstr "Conteneur de boutons"
+
+#~ msgid "Margin top"
+#~ msgstr "Marge du haut"
+
+#~ msgid "Margin bottom"
+#~ msgstr "Marge du bas"
+
+#~ msgid "Button text"
+#~ msgstr "Texte du Bouton"
+
+#~ msgid "Button tagline"
+#~ msgstr "Sous-titre"
+
+#~ msgid ""
+#~ "Check this option to use the theme's buttons style. It will overwrite the "
+#~ "styling settings below."
+#~ msgstr ""
+#~ "Cochez cette option pour utiliser le style de bouton du thème. Il "
+#~ "écrasera les paramètres de style ci-dessous."
+
+#~ msgid "Color on hover"
+#~ msgstr "Couleur au survol"
+
+#~ msgid "Call to action"
+#~ msgstr "Appel à Action"
+
+#~ msgid "An unique identifier for your column."
+#~ msgstr "Un identifiant unique pour votre colonne."
+
+#~ msgid "Optional additional CSS class to add to the column"
+#~ msgstr "Class CSS supplémentaire à ajouter à l'élément"
+
+#~ msgid "Contactform7"
+#~ msgstr "Contactform7"
+
+#~ msgid "Add a contact form to your page"
+#~ msgstr "Ajouter un formulaire de contact à votre page"
+
+#~ msgid "Contact form"
+#~ msgstr "Formulaire de contact"
+
+#~ msgid "Count down"
+#~ msgstr "Compte à rebours"
+
+#~ msgid "Last releases"
+#~ msgstr "Derniers albums"
+
+#~ msgid "Last release"
+#~ msgstr "Dernière publication"
+
+#~ msgid "Dribbble"
+#~ msgstr "Dribble"
+
+#~ msgid "Your last shots"
+#~ msgstr "Affichez vos Dribbble Shots"
+
+#~ msgid "Player ID"
+#~ msgstr "Player ID"
+
+#~ msgid "Empty space"
+#~ msgstr "Espace vide"
+
+#~ msgid "Add visual rhythm with vertical space"
+#~ msgstr "Ajouter du rythme visuel avec l'espace vertical"
+
+#~ msgid "Event list"
+#~ msgstr "Liste d’événements"
+
+#~ msgid "Link to single show page"
+#~ msgstr "Lien vers vue seule"
+
+#~ msgid "Display Past Shows"
+#~ msgstr "Afficher les concerts passés"
+
+#~ msgid "Artist slug"
+#~ msgstr "Slug de l'artiste"
+
+#~ msgid "FB Page URL"
+#~ msgstr "URL de la page"
+
+#~ msgid "Small Header"
+#~ msgstr "Petite en-tête"
+
+#~ msgid "Facebook like"
+#~ msgstr "Facebook Like Box"
+
+#~ msgid "Facebook \"Like\" button"
+#~ msgstr "Bouton « J’aime » Facebook"
+
+#~ msgid "Button type"
+#~ msgstr "Type du bouton"
+
+#~ msgid "Horizontal with count"
+#~ msgstr "Horizontal avec compteur"
+
+#~ msgid "Vertical with count"
+#~ msgstr "Vertical avec compteur"
+
+#~ msgid "Maximum font size"
+#~ msgstr "Taille de police maximum"
+
+#~ msgid "Letter spacing"
+#~ msgstr "Espacement des lettres"
+
+#~ msgid "Icon with text"
+#~ msgstr "Icône avec texte"
+
+#~ msgid "740+ icons with additional text"
+#~ msgstr "740 + icônes avec texte"
+
+#~ msgid "Title font size"
+#~ msgstr "Taille de la police du titre"
+
+#~ msgid "Title tag"
+#~ msgstr "Balise titre"
+
+#~ msgid "Hover transition"
+#~ msgstr "Effet de survol"
+
+#~ msgid "Icon animation"
+#~ msgstr "Animation de l' icône"
+
+#~ msgid "Icon animation delay"
+#~ msgstr "Délai de l'animation de l'icône "
+
+#~ msgid "Link title as well"
+#~ msgstr "Linker le titre également"
+
+#~ msgid "Linked image"
+#~ msgstr "Image-liens"
+
+#~ msgid "Image style"
+#~ msgstr "Style d'image"
+
+#~ msgid "Frame style"
+#~ msgstr "Style de cadre"
+
+#~ msgid "Tagline as button"
+#~ msgstr "Slogan comme bouton"
+
+#~ msgid "Add another image on hover"
+#~ msgstr "Ajouter une autre image au survol"
+
+#~ msgid "Image on hover"
+#~ msgstr "Image au Survol"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Link type"
+#~ msgstr "Type de lien"
+
+#~ msgid "Image slider"
+#~ msgstr "Slider d'images"
+
+#~ msgid "Instagram gallery"
+#~ msgstr "Gallerie Instagram"
+
+#~ msgid "Image count"
+#~ msgstr "Nombre d'images"
+
+#~ msgid "Note that the instagram API may limit the number of image to display"
+#~ msgstr "Notez que l'API instagram peut limiter le nombre d’image à afficher"
+
+#~ msgid "Item price"
+#~ msgstr "Prix de l’article"
+
+#~ msgid "A playlist of songs"
+#~ msgstr "Une playlist de chansons"
+
+#~ msgid "Big posts slider"
+#~ msgstr "Big Slider d'articles"
+
+#~ msgid "Hide category"
+#~ msgstr "Masquer la catégorie"
+
+#~ msgid "Hide tags"
+#~ msgstr "Masquer les tags"
+
+#~ msgid "Hide author"
+#~ msgstr "Masquer l'auteur"
+
+#~ msgid "Hide thumbnail image"
+#~ msgstr "Masquer l’image miniature"
+
+#~ msgid "Hide text"
+#~ msgstr "Masquer le texte"
+
+#~ msgid "Posts slider"
+#~ msgstr "Slider d'articles"
+
+#~ msgid "Posts preview"
+#~ msgstr "Aperçu d'articles"
+
+#~ msgid "Posts columns"
+#~ msgstr "Colonnes d'articles"
+
+#~ msgid "Show background"
+#~ msgstr "Afficher l'arrière-plan"
+
+#~ msgid "Map"
+#~ msgstr "Carte"
+
+#~ msgid "Display a google map"
+#~ msgstr "Afficher une carte google map"
+
+#~ msgid "Google map embed code"
+#~ msgstr "Code Embed pour Google Maps"
+
+#~ msgid ""
+#~ "Find your map embed code on <a href=\"%1$s\" target=\"_blank\">Google "
+#~ "Map</a>. More instructions <a href=\"%2$s\" target=\"_blank\">here</a>."
+#~ msgstr ""
+#~ "Trouver votre carte embed code sur <a href=\"%1$s\" target=\"_blank"
+#~ "\">Google Map</a>. Plus d'informations <a href=\"%2$s\" target=\"_blank"
+#~ "\">ici</a>."
+
+#~ msgid "in pixel"
+#~ msgstr "en pixel"
+
+#~ msgid "Music network"
+#~ msgstr "Réseau de musique"
+
+#~ msgid "This is a notification message."
+#~ msgstr "Message de notification"
+
+#~ msgid "Display an embed gist"
+#~ msgstr "Afficher un gist embed"
+
+#~ msgid "Tracklist visibility"
+#~ msgstr "Visibilité de la Tracklist"
+
+#~ msgid "Last works"
+#~ msgstr "Dernier travaux"
+
+#~ msgid "Pricing tables"
+#~ msgstr "Tableaux des tarifs"
+
+#~ msgid "Pricing table"
+#~ msgstr "Table de prix"
+
+#~ msgid "Display currency"
+#~ msgstr "Afficher la devise"
+
+#~ msgid "Offer price"
+#~ msgstr "Prix de l'offre"
+
+#~ msgid "Price period"
+#~ msgstr "Prix ​​fixé pour la période"
+
+#~ msgid "Show button"
+#~ msgstr "Afficher le bouton"
+
+#~ msgid "Button link"
+#~ msgstr "Lien du bouton"
+
+#~ msgid "Featured text"
+#~ msgstr "Texte de mise en avant"
+
+#~ msgid "Option 1, Option 2"
+#~ msgstr "Option 1, Option 2"
+
+#~ msgid "Enter the services separated by a comma"
+#~ msgstr "Entrez les services séparés par une virgule"
+
+#~ msgid "Process item"
+#~ msgstr "Élément de processus"
+
+#~ msgid "Raw HTML"
+#~ msgstr "HTML brut"
+
+#~ msgid "Any HTML content"
+#~ msgstr "N'importe quel contenu HTML"
+
+#~ msgid "Your HTML code"
+#~ msgstr "Votre code HTML"
+
+#~ msgid "Margin above the content"
+#~ msgstr "Marge au-dessus du contenu"
+
+#~ msgid "Margin below the content"
+#~ msgstr "Marge sous lu contenu"
+
+#~ msgid "%d blocks"
+#~ msgstr "%d blocs"
+
+#~ msgid "Section with blocks"
+#~ msgstr "Section avec des blocs"
+
+#~ msgid "Margin"
+#~ msgstr "Marges"
+
+#~ msgid "Empty space around the content"
+#~ msgstr "L'espace vide autour du contenu"
+
+#~ msgid "Section visibility"
+#~ msgstr "Visibilité de la section"
+
+#~ msgid "An unique identifier for your section."
+#~ msgstr "Un identificateur unique pour votre section."
+
+#~ msgid "Optional additional CSS class to add to the section"
+#~ msgstr "Classe CSS supplémentaire facultative à ajouter à la section"
+
+#~ msgid "Main color tone"
+#~ msgstr "Couleur principale"
+
+#~ msgid "Padding top"
+#~ msgstr "Marge intérieur en haut"
+
+#~ msgid "Empty space above the content"
+#~ msgstr "Espace vide au-dessus du contenu"
+
+#~ msgid "Padding bottom"
+#~ msgstr "Marge intérieur en bas"
+
+#~ msgid "Empty space below the content"
+#~ msgstr "Espace vide sous le contenu"
+
+#~ msgid ""
+#~ "Empty space around the content (supports CSS format like 0px 0px 0px 0px)"
+#~ msgstr ""
+#~ "L'espace vide autour du contenu (supporte le format CSS comme 0px 0px 0px "
+#~ "0px)"
+
+#~ msgid "Arrow style (if set above)"
+#~ msgstr "Style de la flèche (si séléctionner plus haut)"
+
+#~ msgid "Background effect"
+#~ msgstr "Effet Arrière Plan"
+
+#~ msgid "Advanced settings"
+#~ msgstr "Paramètres avancés"
+
+#~ msgid "Add a line to organize your content"
+#~ msgstr "Ajoutez une ligne pour organiser votre contenu"
+
+#~ msgid "Aligment"
+#~ msgstr "Alignement"
+
+#~ msgid "Marign bottom"
+#~ msgstr "Marge du bas"
+
+#~ msgid "Service table"
+#~ msgstr "Table de service"
+
+#~ msgid "Background opacity"
+#~ msgstr "Opacité de l’arrière-plan"
+
+#~ msgid "Font color"
+#~ msgstr "Couleur de la police"
+
+#~ msgid "Title color"
+#~ msgstr "Couleur du titre"
+
+#~ msgid "Service 1, Service 2"
+#~ msgstr "Service 1, Service 2"
+
+#~ msgid "Skill bar"
+#~ msgstr "Barres de compétences"
+
+#~ msgid "An animation to show your competence"
+#~ msgstr "Une animation pour montrer vos compétences"
+
+#~ msgid "Bar color"
+#~ msgstr "Couleur de la barre"
+
+#~ msgid "Social icons custom URLs"
+#~ msgstr "Icônes sociales URL personnalisées"
+
+#~ msgid "A set of icons linked to your chosen URLs"
+#~ msgstr "Un ensemble d'icônes liées à vos profils sociaux"
+
+#~ msgid "Playlist or song URL"
+#~ msgstr "URL de liste de lecture ou de la chanson"
+
+#~ msgid "A content area with multiple panels"
+#~ msgstr "Une zone de contenu avec des panneaux multiples"
+
+#~ msgid "Tab content"
+#~ msgstr "Contenu de l’onglet"
+
+#~ msgid "Team member"
+#~ msgstr "Membre de l’équipe"
+
+#~ msgid "Add social profiles"
+#~ msgstr "Ajouter les profils sociaux"
+
+#~ msgid "Testimonials slider"
+#~ msgstr "Slider de témoignages"
+
+#~ msgid "This is a text block. %s"
+#~ msgstr "Ceci est un bloc de texte. %s"
+
+#~ msgid "Collapsible content"
+#~ msgstr "Contenu retractable"
+
+#~ msgid "Tour Dates"
+#~ msgstr "Liste des concerts"
+
+#~ msgid "Display your event list from the Wolf Tour Dates plugin"
+#~ msgstr "Affichez votre liste d'événements du plugin Wolf Tour Dates"
+
+#~ msgid "Tour Dates Widget"
+#~ msgstr "Tour Dates Widget"
+
+#~ msgid "Events list widget"
+#~ msgstr "Widget de la Liste des événements"
+
+#~ msgid "Link text"
+#~ msgstr "Texte du lien"
+
+#~ msgid "View all dates"
+#~ msgstr "Voir toutes les dates"
+
+#~ msgid "Tweet this"
+#~ msgstr "Tweeter"
+
+#~ msgid "Last tweets"
+#~ msgstr "Derniers Tweets"
+
+#~ msgid "Video carousel"
+#~ msgstr "Carrousel de vidéos"
+
+#~ msgid "A list of videos displayed in a carousel"
+#~ msgstr "Une liste de vidéos affichées dans un carrousel"
+
+#~ msgid "Enter your YouTube or Vimeo URLs separated by a comma."
+#~ msgstr "Entrez votre YouTube ou Vimeo URL séparés par une virgule."
+
+#~ msgid "Video opener"
+#~ msgstr "Ouvreur de vidéo"
+
+#~ msgid "Custom play button"
+#~ msgstr "Bouton de lecture personnalisé"
+
+#~ msgid "Button image"
+#~ msgstr "Image Bouton"
+
+#~ msgid "An embed video"
+#~ msgstr "Intégrer la vidéo"
+
+#~ msgid "Last videos carousel"
+#~ msgstr "Carrousel de vidéos"
+
+#~ msgid "The last videos from your video gallery in a carousel"
+#~ msgstr "Les dernières vidéos de votre galerie de vidéo dans un carrousel"
+
+#~ msgid "Last videos"
+#~ msgstr "Derniére vidéos"
+
+#~ msgid "Order Tracking"
+#~ msgstr "Suivi de commande"
+
+#~ msgid "Product price/cart button"
+#~ msgstr "Prix du produit /boutton panier"
+
+#~ msgid "Product by SKU/ID"
+#~ msgstr "Produit par SKU/ID"
+
+#~ msgid "Products by SKU/ID"
+#~ msgstr "Produits par SKU/ID"
+
+#~ msgid "Product categories"
+#~ msgstr "Catégories de produits"
+
+#~ msgid "Products by category slug"
+#~ msgstr "Produits par slug de catégorie"
+
+#~ msgid "Per page"
+#~ msgstr "Par page"
+
+#~ msgid "Order by"
+#~ msgstr "Ordonner par"
+
+#~ msgid "Order"
+#~ msgstr "Ordonner"
+
+#~ msgid "Recent products"
+#~ msgstr "Produits récents"
+
+#~ msgid "Featured products"
+#~ msgstr "Produits mis en avant"
+
+#~ msgid "Sort by"
+#~ msgstr "Afficher par"
+
+#~ msgid "Page title"
+#~ msgstr "Titre de page"
+
+#~ msgid "Page order"
+#~ msgstr "Ordre de page"
+
+#~ msgid "Page ID"
+#~ msgstr "ID de page"
+
+#~ msgid "Exclude"
+#~ msgstr "Exclure"
+
+#~ msgid "Page IDs, separated by commas."
+#~ msgstr "ID des pages, séparés par des virgules."
+
+#~ msgid "Display as dropdown"
+#~ msgstr "Afficher en tant que liste déroulante"
+
+#~ msgid "Show post count"
+#~ msgstr "Afficher le compteur de posts"
+
+#~ msgid "Taxonomy:"
+#~ msgstr "Taxonomie :"
+
+#~ msgid "Categories"
+#~ msgstr "Catégories"
+
+#~ msgid "Show hierarchy"
+#~ msgstr "Afficher la hiérarchie"
+
+#~ msgid "Enter the RSS feed URL here"
+#~ msgstr "Saisissez l'url du flux RSS"
+
+#~ msgid "Give the feed a title (optional)"
+#~ msgstr "Donnez un titre (facultatif) au flux :"
+
+#~ msgid "How many items would you like to display"
+#~ msgstr "Combien d'éléments souhaitez-vous afficher?"
+
+#~ msgid "Display item content?"
+#~ msgstr "Afficher le contenu de l'élément?"
+
+#~ msgid "Display item author if available?"
+#~ msgstr "Afficher l’auteur si disponible"
+
+#~ msgid "Display item date?"
+#~ msgstr "Afficher la date de l'élément?"
+
+#~ msgid "Display post date?"
+#~ msgstr "Afficher la Date de publication ?"
+
+#~ msgid "%s Widget"
+#~ msgstr "Le widget %s."
+
+#~ msgid "Wordpress Widgets"
+#~ msgstr "Widgets WordPress"
+
+#~ msgid "A youtube video with video preview"
+#~ msgstr "Une vidéo youtube avec vidéo preview"
+
+#~ msgid "YouTube video URL"
+#~ msgstr "URL YouTube de l'arrière plan vidéo"
+
+#~ msgid "Cover image"
+#~ msgstr "Image de couverture"
+
+#~ msgid "Video preview"
+#~ msgstr "Aperçu de la vidéo"
+
+#~ msgid "Redirection..."
+#~ msgstr "Redirection..."
+
+#~ msgid "col-6 (one half)"
+#~ msgstr "col-6 (moitié)"
+
+#~ msgid "col-4 (one third)"
+#~ msgstr "col-4 (un tiers)"
+
+#~ msgid "col-3 (one fourth)"
+#~ msgstr "col-3 (un quart)"
+
+#~ msgid ""
+#~ "A row consists of a series of columns (col-X) that add up to 12.<br>Check "
+#~ "the \"First\" checkbox below if your column is the first of the "
+#~ "row<br>and check the \"Last\" checkbox if your column is the last of the "
+#~ "row."
+#~ msgstr ""
+#~ "Une ligne se compose d'une série de colonnes (col-X) qui s'additionnent  "
+#~ "jusqu'à 12.<br>Cochez la case « First » ci-dessous si votre colonne est "
+#~ "le premier de la ligne<br>et cochez la case « Dernier » si votre colonne "
+#~ "est la dernière de la ligne."
+
+#~ msgid "First"
+#~ msgstr "Premier"
+
+#~ msgid "Last"
+#~ msgstr "Dernier"
+
+#~ msgid "This shortcode is deprecated or is from a disabled plugin"
+#~ msgstr "Ce shortcode est obsolète ou provient d’un plugin désactivé"
+
+#~ msgid "%s settings"
+#~ msgstr "Réglages %s"
+
+#~ msgid "Duplicate element"
+#~ msgstr "Dupliquer l'élément"
+
+#~ msgid "Move element"
+#~ msgstr "Déplacer l'élément"
+
+#~ msgid "Move section"
+#~ msgstr "Déplacer la section"
+
+#~ msgid "Collapse section"
+#~ msgstr "Visibilité de la section"
+
+#~ msgid "Section settings"
+#~ msgstr "Paramètres de la section"
+
+#~ msgid "Duplicate section"
+#~ msgstr "Dupliquer la section"
+
+#~ msgid "Remove section"
+#~ msgstr "Supprimer la section"
+
+#~ msgid "Add a row of columns"
+#~ msgstr "Ajouter une rangée de colonnes"
+
+#~ msgid "Move row"
+#~ msgstr "Déplacer la rangée"
+
+#~ msgid "Duplicate row"
+#~ msgstr "Déplacer la rangée"
+
+#~ msgid "Remove row"
+#~ msgstr "Supprimer la rangée"
+
+#~ msgid "Row settings"
+#~ msgstr "Réglages de la rangée"
+
+#~ msgid "Add element"
+#~ msgstr "Ajouter un élément"
+
+#~ msgid "Hide permanently"
+#~ msgstr "Ne jamais afficher"
+
+#~ msgid "Start by adding your first section"
+#~ msgstr "Commencez par ajouter votre première section"
+
+#~ msgid "There is no settings for this element. You can save it as is."
+#~ msgstr ""
+#~ "Il n’y a pas de paramètres pour cet élément. Vous pouvez enregistrer tel "
+#~ "quel."
+
+#~ msgid "Choose a file"
+#~ msgstr "Choisir un fichier"
+
+#~ msgid "Choose a video file"
+#~ msgstr "Choisissez un fichier vidéo"
+
+#~ msgid "Are you sure to want to reset all images ?"
+#~ msgstr "Êtes-vous sûr de vouloir réinitialiser toutes les images ?"
+
+#~ msgid "Clear all"
+#~ msgstr "Tout effacer"
+
+#~ msgid "%s Image"
+#~ msgstr "Image du %s"
+
+#~ msgid "100% width"
+#~ msgstr "Pleine largeur"
+
+#~ msgid "100% height"
+#~ msgstr "Pleine hauteur (100% de la partie visible de l’écran)"
+
+#~ msgid "repeat horizontally"
+#~ msgstr "répétition horizontale"
+
+#~ msgid "repeat vertically"
+#~ msgstr "répétez verticalement"
+
+#~ msgid "%s type"
+#~ msgstr "type de %s"
+
+#~ msgid "Self hosted"
+#~ msgstr "Auto-hébergé"
+
+#~ msgid "%s youtube URL"
+#~ msgstr "URL YouTube du %s "
+
+#~ msgid "%s vimeo URL"
+#~ msgstr "URL vimeo  du %s "
+
+#~ msgid "%s image fallback"
+#~ msgstr " Image pour mobile du %s"
+
+#~ msgid "Pause on hover (if autoplay)"
+#~ msgstr "Faire une pause au survol (si autoplay)"
+
+#~ msgid "Show navigation bullets"
+#~ msgstr "Afficher bulles de navigation"
+
+#~ msgid "Show navigation arrows"
+#~ msgstr "Afficher flèches de navigation"
+
+#~ msgid "Animation delay (in ms)"
+#~ msgstr "Délai de l'animation (ms)"
+
+#~ msgid "Minify CSS files"
+#~ msgstr "Utiliser le CSS minifié"
+
+#~ msgid "Minify JS files"
+#~ msgstr "Utiliser le JS minifié"
+
+#~ msgid "Enable animation on mobile devices"
+#~ msgstr "Permettre les animations sur les appareils mobiles"
+
+#~ msgid "Receive the last news directly into your mailbox!"
+#~ msgstr ""
+#~ "Recevez les dernières nouvelles directement dans votre boîte aux lettres!"
+
+#~ msgid "Fonts loader"
+#~ msgstr "Chargeur de polices"
+
+#~ msgid "Social profiles"
+#~ msgstr "Profils sociaux"
+
+#~ msgid "Landing page"
+#~ msgstr "Landing Page"
+
+#~ msgid "About us"
+#~ msgstr "À propos"
+
+#~ msgid "Coming soon"
+#~ msgstr "Arrive bientôt"
+
+#~ msgid "It must be a text file"
+#~ msgstr "Cela doit être un fichier texte"
+
+#~ msgid "or choose a template"
+#~ msgstr "ou choisissez un modèle"
+
+#~ msgid "All"
+#~ msgstr "Tout"
+
+#~ msgid "Search an element..."
+#~ msgstr "Rechercher un élément..."
+
+#~ msgid ""
+#~ "Error retrieving the element settings. It seems that this element doesn't "
+#~ "exist."
+#~ msgstr ""
+#~ "Erreur lors de la récupération des paramètres de l'élément. Il semble que "
+#~ "cet élément n'existe pas."
+
+#~ msgid "Tweet"
+#~ msgstr "Tweet"
+
+#~ msgid ""
+#~ "%1$s needs at least PHP %2$s installed on your server. You have version "
+#~ "%3$s currently installed. Please contact your hosting service provider if "
+#~ "you're not able to update PHP by yourself."
+#~ msgstr ""
+#~ "%1$s a besoins d'au moins PHP%2$s installés sur votre serveur. Vous avez "
+#~ "la version%3$s actuellement installés. S'il vous plaît contacter votre "
+#~ "fournisseur de services d'hébergement si vous n'êtes pas en mesure de "
+#~ "mettre à jour PHP par vous-même."
+
+#~ msgid ""
+#~ "Can be found in your MailChimp account -> Lists -> Your List Name -> "
+#~ "Settings -> List Name & default"
+#~ msgstr ""
+#~ "Peut-être trouvé dans votre compte MailChimp -&gt; Listes -&gt; Votre Nom "
+#~ "de liste -&gt; Paramètres -&gt; Nom & défaut Liste"
+
+#~ msgid "Submit text (default is \"Subscribe\")"
+#~ msgstr "Texte d'inscription (Défaut \"s'inscrire\")"
+
+#~ msgid "Always hide"
+#~ msgstr "Toujours cacher"
+
+#~ msgid "Video background controls"
+#~ msgstr "Contrôles de vidéo d’arrière-plan"
+
+#~ msgid ""
+#~ "The <strong>%1$s</strong> directory has to be writable. Please set the "
+#~ "folder permission to 775 through your FTP client <br>or with the command "
+#~ "line <strong>chmod 775 %2$s</strong>."
+#~ msgstr ""
+#~ "Le répertoire <strong>%1$s</strong> doit être accessible en écriture. S' "
+#~ "il vous plaît définir l'autorisation de dossier à 775 via votre client "
+#~ "FTP. <strong>chmod 775 %2$s</strong>"
+
+#~ msgid ""
+#~ "Error while trying to find the folder <strong>%1$s</strong>. Please "
+#~ "create it manually and set the permission to 775 through your FTP "
+#~ "client<br>or with the command line <strong>mkdir -m 775 %2$s</strong>"
+#~ msgstr ""
+#~ "Erreur en essayant de trouver le dossier <strong>%1$s</strong>. Veuillez "
+#~ "le créer manuellement et définir l'autorisation à  775 via votre client "
+#~ "FTP<br>ou avec la ligne de commande <strong>mkdir-m 775 %2$s</strong>"
+
+#~ msgid "Submit Text"
+#~ msgstr "Text \"Valider\""
+
+#~ msgid ""
+#~ "Wolf Page Builder needs at least PHP %1$s installed on your server. You "
+#~ "have version %2$s currently installed. Please contact your hosting "
+#~ "service provider if you're not able to update PHP by yourself."
+#~ msgstr ""
+#~ "Wolf Page Builder a besoin d'au moins PHP %1$s installé sur votre "
+#~ "serveur. Vous avez la version %2$s actuellement installé. Si vous n’êtes "
+#~ "pas en mesure de mettre à jour PHP par vous-même, veuillez contacter "
+#~ "votre hébergeur."
+
+#~ msgid ""
+#~ "You must do this change if you want to be able to import content via the "
+#~ "Wof Page Builder importer button."
+#~ msgstr ""
+#~ "Vous devez faire ce changement si vous voulez être en mesure d'importer "
+#~ "du contenu via le bouton importateur de Wof Page Builder."
+
+#~ msgid "An image/video slider"
+#~ msgstr "Un slider image/vidéo"
+
+#~ msgid "Button size"
+#~ msgstr "Taille de bouton."
+
+#~ msgid "Display a FB fan box"
+#~ msgstr "Affiche une boîte de fan FB"
+
+#~ msgid "Show cover"
+#~ msgstr "Afficher la jaquette"
+
+#~ msgid "Upcoming Shows Widget"
+#~ msgstr "Concerts à venir"
+
+#~ msgid "Disable parallax on mobile devices"
+#~ msgstr "Désactiver le mode parallaxe sur les appareils mobiles"
+
+#~ msgid "Disable animation on mobile devices"
+#~ msgstr "Désactiver l'animation sur des appareils mobiles"
+
+#~ msgid "You must set your mailchimp API key in the plugin settings"
+#~ msgstr ""
+#~ "Vous devez définir votre clé API de mailchimp dans la configuration du "
+#~ "plugin"
+
+#~ msgid "You must set a list ID!"
+#~ msgstr "Vous devez définir une ID de liste!"
+
+#~ msgid "Years"
+#~ msgstr "Ans"
+
+#~ msgid "Months"
+#~ msgstr "Mois"
+
+#~ msgid "Weeks"
+#~ msgstr "Semaines"
+
+#~ msgid "Days"
+#~ msgstr "Jours"
+
+#~ msgid "Hours"
+#~ msgstr "Heures"
+
+#~ msgid "Minutes"
+#~ msgstr "Minutes"
+
+#~ msgid "Button target"
+#~ msgstr "Cible du bouton"
+
+#~ msgid "<a href=\"%s\" target=\"_blank\">Font</a>"
+#~ msgstr "<a href=\"%s\" target=\"_blank\">Police</a>"
+
+#~ msgid "Wolf Page Builder"
+#~ msgstr "Wolf Page Builder"
+
+#~ msgid "http://wolfthemes.com/plugin/wolf-page-builder"
+#~ msgstr "http://wolfthemes.com/plugin/wolf-page-builder"
+
+#~ msgid "A Clean and Simple Page Builder for Wordpress"
+#~ msgstr "Un générateur de Page propre et Simple pour Wordpress"
+
+#~ msgid "WolfThemes"
+#~ msgstr "WolfThemes"
+
+#~ msgid "http://wolfthemes.com"
+#~ msgstr "http://wolfthemes.com"
+
+#~ msgid "Layer Slider"
+#~ msgstr "Layer Slider"
+
+#~ msgid "Display a Layer slider"
+#~ msgstr "Afficher un curseur de la couche"
+
+#~ msgid "Mailchimp"
+#~ msgstr "Mailchimp"
+
+#~ msgid "Submit text"
+#~ msgstr "Soumettre le texte"
+
+#~ msgid "Menu"
+#~ msgstr "Menu"
+
+#~ msgid "Dashboard"
+#~ msgstr "Tableau de bord"
+
+#~ msgid "Image Post Format"
+#~ msgstr "Format d’image"

@@ -1,0 +1,37 @@
+<wpml-config>
+	<custom-fields>
+		<custom-field action="ignore">_post_site_layout</custom-field>
+		<custom-field action="ignore">_post_accent_color</custom-field>
+		<custom-field action="ignore">_post_after_header_block</custom-field>
+		<custom-field action="ignore">_post_before_footer_block</custom-field>
+		<custom-field action="ignore">_post_hero_layout</custom-field>
+		<custom-field action="ignore">_post_hero_title_font_family</custom-field>
+		<custom-field action="ignore">_post_hero_title_font_transform</custom-field>
+		<custom-field action="ignore">_post_hero_title_bigtext</custom-field>
+		<custom-field action="ignore">_post_hero_font_tone</custom-field>
+		<custom-field action="ignore">_post_hero_background_type</custom-field>
+		<custom-field action="ignore">_post_hero_slideshow_ids</custom-field>
+		<custom-field action="ignore">_post_hero_background_color</custom-field>
+		<custom-field action="ignore">_post_hero_background_img</custom-field>
+		<custom-field action="ignore">_post_hero_background_repeat</custom-field>
+		<custom-field action="ignore">_post_hero_background_attachment</custom-field>
+		<custom-field action="ignore">_post_hero_background_size</custom-field>
+		<custom-field action="ignore">_post_hero_background_effect</custom-field>
+		<custom-field action="ignore">_post_hero_background_video_url</custom-field>
+		<custom-field action="ignore">_post_hero_overlay</custom-field>
+		<custom-field action="ignore">_post_hero_overlay_color</custom-field>
+		<custom-field action="ignore">_post_hero_overlay_opacity</custom-field>
+		<custom-field action="ignore">_post_menu_layout</custom-field>
+		<custom-field action="ignore">_post_menu_width</custom-field>
+		<custom-field action="ignore">_post_menu_style</custom-field>
+		<custom-field action="ignore">_post_menu_cta_content_type</custom-field>
+		<custom-field action="ignore">_post_footer_type</custom-field>
+		<custom-field action="ignore">_post_one_page_menu</custom-field>
+		<custom-field action="ignore">_post_scroller</custom-field>
+		<custom-field action="ignore">_post_layout</custom-field>
+		<custom-field action="ignore">_post_width</custom-field>
+		<custom-field action="ignore">_post_featured</custom-field>
+		<custom-field action="ignore">_post_layout</custom-field>
+		<custom-field action="ignore">_post_product_single_layout</custom-field>
+	</custom-fields>
+</wpml-config>

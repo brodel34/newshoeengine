@@ -1,0 +1,1 @@
+/var/www/vhosts/duragnation.com/httpdocs/wp-content/plugins/query-monitor/wp-content/db.php

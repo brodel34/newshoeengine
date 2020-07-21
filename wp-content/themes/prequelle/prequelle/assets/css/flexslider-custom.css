@@ -1,0 +1,109 @@
+/* Custom Flexslider Styles
+---------------------------------------*/
+/* reset */
+.flexslider {
+  margin: 0 0 0 0;
+  border: none;
+  background: none;
+  border-radius: 0;
+  box-shadow: none;
+  overflow: hidden;
+  /*a{
+  	border:none!important;
+  }*/
+}
+.flexslider img {
+  backface-visibility: hidden;
+  border: none !important;
+}
+.flexslider img:hover {
+  opacity: 1 !important;
+}
+.flexslider a:hover {
+  opacity: 1 !important;
+}
+.flexslider ul, .flexslider ol {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.flexslider ul.slides li {
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+  list-style-type: none !important;
+  position: relative;
+}
+.flexslider ul li {
+  list-style-type: none !important;
+}
+.flexslider .flex-caption {
+  margin-top: 0 !important;
+  backface-visibility: hidden;
+  max-width: 95%;
+  display: block;
+  position: absolute;
+  top: 20px;
+  padding: 0.5em 1em;
+  font-size: 0.95em;
+  background: #333;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+}
+.flexslider .flex-control-paging {
+  max-width: none !important;
+  z-index: 999;
+  height: 0;
+  bottom: 30px;
+  width: 100% !important;
+}
+.flexslider .flex-control-paging li a {
+  width: 8px;
+  height: 8px;
+}
+
+.flexslider .flex-direction-nav a {
+  background: none;
+  font-size: 0;
+  height: 70px;
+  margin-top: 0 !important;
+  transform: translateY(-50%) !important;
+}
+.flexslider .flex-direction-nav a:before {
+  display: inline-block;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: linea-arrows-10 !important;
+  content: "\e03f";
+  color: #fff;
+  font-size: 38px;
+}
+.flexslider .flex-direction-nav a.flex-prev:before {
+  content: "\e03f";
+}
+.flexslider .flex-direction-nav a.flex-next:before {
+  content: "\e04b";
+}
+
+.flex-control-nav li {
+  margin-left: 8px !important;
+  margin-right: 8px !important;
+}
+
+.flex-control-paging li a {
+  background: white !important;
+  box-shadow: none;
+  transition: all .2s ease;
+}
+.flex-control-paging li a:hover {
+  box-shadow: 0 0 0 1px white;
+}
+.flex-control-paging li a.flex-active {
+  box-shadow: 0 0 0 1px #fff;
+}
+.flex-control-paging li a.flex-active:hover {
+  box-shadow: inset 0 0 0 11px white;
+}

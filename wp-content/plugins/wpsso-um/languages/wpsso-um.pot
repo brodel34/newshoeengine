@@ -1,0 +1,163 @@
+# Copyright (C) 2019 WPSSO Update Manager
+# This file is distributed under the same license as the WPSSO Update Manager package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPSSO Update Manager 1.19.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpsso-um\n"
+"POT-Creation-Date: 2019-MO-DA HO:MI+ZONE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: lib/actions.php:62
+msgid "Plugin and add-on information has been refreshed."
+msgstr ""
+
+#: lib/com/update.php:130 lib/gettext-com.php:6
+msgid "No plugins defined for updates."
+msgstr ""
+
+#: lib/com/update.php:180 lib/gettext-com.php:7
+msgid "Update information for %s has been retrieved and saved."
+msgstr ""
+
+#: lib/com/update.php:194 lib/gettext-com.php:8
+msgid "An error was returned while getting update information for %s."
+msgstr ""
+
+#: lib/com/update.php:209 lib/gettext-com.php:9
+msgid "Failed saving retrieved update information for %s."
+msgstr ""
+
+#: lib/com/update.php:378 lib/com/update.php:806 lib/gettext-com.php:10
+#: lib/gettext-com.php:16
+msgid ""
+"An inconsistency was found in the %1$s update server information &mdash;"
+msgstr ""
+
+#: lib/com/update.php:381 lib/com/update.php:809 lib/gettext-com.php:11
+#: lib/gettext-com.php:17
+msgid "Update checks for %1$s are disabled while this inconsistency persists."
+msgstr ""
+
+#: lib/com/update.php:385 lib/com/update.php:813 lib/gettext-com.php:12
+#: lib/gettext-com.php:18
+msgid ""
+"You may <a href=\"%1$s\">open a new support ticket</a> if you believe this "
+"error message is incorrect."
+msgstr ""
+
+#: lib/com/update.php:413 lib/gettext-com.php:13
+msgid "invalid authentication URL (%1$s)."
+msgstr ""
+
+#: lib/com/update.php:452 lib/gettext-com.php:14
+msgid ""
+"Please note that one or more non-stable / development %s have been selected."
+msgstr ""
+
+#: lib/com/update.php:453 lib/gettext-com.php:15
+#: lib/sitesubmenu/site-um-general.php:115 lib/submenu/um-general.php:97
+msgctxt "metabox title"
+msgid "Update Version Filters"
+msgstr ""
+
+#: lib/com/update.php:824 lib/gettext-com.php:19
+msgid "the update server URL (%1$s) does not appear to be a valid URL."
+msgstr ""
+
+#: lib/com/update.php:858 lib/gettext-com.php:20
+msgid ""
+"the IPv4 address (%1$s) from the local host does not match the DNS IPv4 "
+"address (%2$s)."
+msgstr ""
+
+#: lib/com/update.php:942 lib/gettext-com.php:21
+msgid "Update error from the WordPress wp_remote_get() function: %s"
+msgstr ""
+
+#: lib/com/update.php:1072 lib/gettext-com.php:22
+msgid ""
+"The %1$s plugin (%2$s) version number is missing from the WordPress plugins "
+"array."
+msgstr ""
+
+#: lib/gettext-config.php:6 lib/gettext-config.php:7
+msgctxt "lib file description"
+msgid "Update Manager"
+msgstr ""
+
+#: lib/gettext-config.php:8
+msgctxt "plugin description"
+msgid ""
+"WPSSO Core add-on provides updates for the WPSSO Core Pro plugin and its "
+"complementary Pro add-ons."
+msgstr ""
+
+#: lib/sitesubmenu/site-um-general.php:49
+msgctxt "submit button"
+msgid "Check for Updates for Site ID %d"
+msgstr ""
+
+#: lib/sitesubmenu/site-um-general.php:73
+msgctxt "metabox title"
+msgid "Network Update Manager"
+msgstr ""
+
+#: lib/sitesubmenu/site-um-general.php:110 lib/submenu/um-general.php:93
+msgctxt "option label"
+msgid "Refresh Update Information"
+msgstr ""
+
+#: lib/submenu/um-general.php:50
+msgctxt "submit button"
+msgid "Check for Updates"
+msgstr ""
+
+#: lib/submenu/um-general.php:62
+msgctxt "metabox title"
+msgid "Update Manager"
+msgstr ""
+
+#: wpsso-um.php:102
+msgid ""
+"%1$s is an add-on for the %2$s plugin &mdash; please install and activate "
+"the %3$s plugin before activating %4$s."
+msgstr ""
+
+#: wpsso-um.php:104
+msgid ""
+"The %1$s add-on requires the %2$s plugin &mdash; install and activate the "
+"%3$s plugin or <a href=\"%4$s\">deactivate the %5$s add-on</a>."
+msgstr ""
+
+#: wpsso-um.php:250
+msgid ""
+"The %1$s version %2$s add-on requires %3$s version %4$s or newer (version "
+"%5$s is currently installed)."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WPSSO Update Manager"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wpsso.com/extend/plugins/wpsso-um/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"WPSSO Core add-on provides updates for the WPSSO Core Pro plugin and its "
+"complementary Pro add-ons."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "JS Morisset"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wpsso.com/"
+msgstr ""

@@ -1,0 +1,21 @@
+.entry-attachment {
+  position: relative;
+  padding: 0;
+  margin: 0;
+}
+
+.entry-attachment-masonry img {
+  width: 100%;
+}
+
+.grid-padding-yes .entry-attachment-masonry_horizontal {
+  margin: 8px;
+}
+
+.entry-attachment-masonry_horizontal {
+  float: left;
+}
+.entry-attachment-masonry_horizontal img {
+  display: block;
+  width: auto;
+}

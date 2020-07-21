@@ -1,0 +1,207 @@
+# Copyright (C) 2016 Wolf Themes
+# This file is distributed under the same license as the WolfGram package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WolfGram 1.4.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wolf-gram\n"
+"POT-Creation-Date: 2016-03-02 17:58+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-03-02 18:02+0100\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;"
+"_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;"
+"esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Last-Translator: WolfThemes <help@wolfthemes.com>\n"
+"Language: fr\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wolf-gram-widget.php:30
+msgid "Display your last instagram shots"
+msgstr "Afficher vos derniers clichés instagram"
+
+#: wolf-gram-widget.php:32
+msgid "Instagram"
+msgstr "Instagram"
+
+#: wolf-gram-widget.php:111
+msgid "Instagrams"
+msgstr "Instagrams"
+
+#: wolf-gram-widget.php:130
+msgid "Title"
+msgstr "Titre"
+
+#: wolf-gram-widget.php:134
+msgid "Optional Text"
+msgstr "Texte facultatif"
+
+#: wolf-gram-widget.php:138
+msgid "Count"
+msgstr "Nombre"
+
+#: wolf-gram-widget.php:142
+msgid "Display"
+msgstr "Afficher"
+
+#: wolf-gram-widget.php:144
+msgid "thumbnails"
+msgstr "vignettes"
+
+#: wolf-gram-widget.php:145
+msgid "slideshow"
+msgstr "diaporama"
+
+#: wolf-gram-widget.php:149
+msgid "Time between animation in milliseconds"
+msgstr "Temps entre l'animation en millisecondes"
+
+#: wolf-gram.php:177
+msgid "Number of photos to display in the Instagram gallery (max 30)"
+msgstr "Nombre de photos à afficher dans la Galerie Instagram (max 30)"
+
+#: wolf-gram.php:178
+msgid "Lightbox (thumbnails widgets)"
+msgstr "Lightbox (widgets de vignettes)"
+
+#: wolf-gram.php:179
+msgid "Widget Images Link"
+msgstr "Lien des vignettes du widget"
+
+#: wolf-gram.php:180
+msgid "Gallery Images Link"
+msgstr "Lien des images de la gallerie"
+
+#: wolf-gram.php:181
+msgid "Instructions"
+msgstr "Instructions"
+
+#: wolf-gram.php:269 wolf-gram.php:282
+msgid "Open in lightbox"
+msgstr "Ouvrir le lien dans une lightbox"
+
+#: wolf-gram.php:270 wolf-gram.php:283
+msgid "Open Instagram Page"
+msgstr "Ouvrir la Page Instagram"
+
+#: wolf-gram.php:294
+msgid ""
+"To display the full width Instagram gallery, create an empty page with the "
+"\"Instagram Gallery\" template."
+msgstr ""
+
+#: wolf-gram.php:295
+msgid ""
+"Additionally, you can display the gallery in your post or page with the "
+"following shortcde:"
+msgstr ""
+
+#: wolf-gram.php:314
+msgid ""
+"WolfGram is a Wordpress plugin that uses the Instagram API to display your "
+"Instgram feed."
+msgstr ""
+"WolfGram est un plugin pour Wordpress qui utilise l'API de Instagram pour "
+"afficher votre flux Instgram."
+
+#: wolf-gram.php:315
+msgid ""
+"You need to link the WolfGram app to your Instagram account and get your "
+"access key to be able to use the WolfGram features."
+msgstr ""
+"Vous devez lier l'app WolfGram à votre compte Instagram et obtenir votre "
+"clé d'accès pour pouvoir utiliser les fonctionnalités de WolfGram."
+
+#: wolf-gram.php:316
+msgid "To do so, simply follow the link below and follow the instructions."
+msgstr ""
+"Pour ce faire, il suffit de suivre le lien ci-dessous et suivez les "
+"instructions."
+
+#: wolf-gram.php:317
+msgid "Get your access key"
+msgstr "Obtenir votre clé d'accès"
+
+#: wolf-gram.php:320
+msgid "Access Key"
+msgstr "Clé d'Accès"
+
+#: wolf-gram.php:321
+msgid "Link your Instagram account"
+msgstr "Liez votre compte Instagram"
+
+#: wolf-gram.php:330
+msgid "Wrong code"
+msgstr "Code incorrect"
+
+#: wolf-gram.php:339
+msgid ""
+"You can now use the Instagram Widget and  the Instagram Gallery template."
+msgstr ""
+"Vous pouvez maintenant utiliser le Instagram Widget et le modèle de la "
+"Galerie Instagram."
+
+#: wolf-gram.php:340
+msgid "You can log out to change your account and get a new code."
+msgstr ""
+"Vous pouvez fermer la session pour modifier votre compte et obtenir un "
+"nouveau code."
+
+#: wolf-gram.php:344
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: wolf-gram.php:347
+msgid "Settings"
+msgstr "Réglages"
+
+#: wolf-gram.php:351
+msgid "Save Changes"
+msgstr "Sauvegarde des changements"
+
+#: wolf-gram.php:489
+msgid ""
+"Please enter your access key and link your Instagram account through your "
+"admin panel to display your images."
+msgstr ""
+
+#: wolf-gram.php:491
+msgid "No Instagram image yet."
+msgstr "Aucune image d' Instagram pour l'instant."
+
+#: wolf-gram.php:497
+msgid "No Instagram photo found. Try to reset your access key."
+msgstr ""
+"Pas trouvé de photo Instagram. Essayez de réinitialiser votre clé d'accès."
+
+#: wolf-gram.php:499
+msgid "No Instagram photo found."
+msgstr "Pas trouvé de photo Instagram."
+
+#. Plugin Name of the plugin/theme
+msgid "WolfGram"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wolfgram.wolfthemes.com/download"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"WolfGram is a Wordpress plugin that uses the Instagram API to display your "
+"Instagram Feed. It includes a shortcode and a widget."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Wolf Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wolfthemes.com"
+msgstr ""

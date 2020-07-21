@@ -1,0 +1,3788 @@
+# Copyright (C) 2018 WolfThemes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Prequelle 1.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2018-07-13 11:56:11+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: 404.php:16
+msgid "404"
+msgstr ""
+
+#: 404.php:17
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:20
+msgid "back home"
+msgstr ""
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:75
+msgid "Leave a Comment"
+msgstr ""
+
+#: components/filter/filter-work.php:80 config/vc-post-modules.php:750
+msgid "All"
+msgstr ""
+
+#: components/page/display/content.php:21 components/post/content-single.php:38
+#: components/post/display/content-standard.php:66
+msgid "Pages:"
+msgstr ""
+
+#: components/page/display/content.php:25 inc/frontend/template-tags.php:19
+msgid "Edit"
+msgstr ""
+
+#: components/post/author.php:27
+msgid "View all posts by %s &nbsp; &rarr;"
+msgstr ""
+
+#: components/post/content-none.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: components/post/content-none.php:21
+msgid "Ouch. It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: components/post/display/content-grid_classic.php:37
+#: components/post/display/content-grid_classic.php:60
+#: components/post/display/content-standard.php:34 config/metaboxes.php:481
+#: config/metaboxes.php:629 config/vc-post-modules.php:751
+#: inc/frontend/template-tags.php:1335
+msgid "Featured"
+msgstr ""
+
+#: components/post/display/content-grid_classic.php:73
+#: inc/frontend/hooks/post.php:97 inc/frontend/hooks/post.php:101
+#: inc/frontend/hooks/post.php:118
+msgid "In"
+msgstr ""
+
+#: components/post/display/content-grid_classic.php:73
+#: components/post/display/content-standard.php:83
+#: inc/frontend/hooks/post.php:97 inc/frontend/hooks/post.php:101
+#: inc/frontend/hooks/post.php:119 inc/frontend/template-tags.php:237
+msgid ", "
+msgstr ""
+
+#: components/post/related-posts.php:17
+msgid "More Posts"
+msgstr ""
+
+#: config/config.php:31 config/metaboxes.php:143 config/metaboxes.php:282
+#: config/metaboxes.php:306 config/metaboxes.php:531
+#: inc/customizer/extensions/preview-colors.php:71
+#: inc/customizer/mods/navigation.php:120
+msgid "Light"
+msgstr ""
+
+#: config/config.php:46 config/metaboxes.php:144 config/metaboxes.php:283
+#: config/metaboxes.php:307 config/metaboxes.php:532
+#: inc/customizer/extensions/preview-colors.php:85
+#: inc/customizer/mods/navigation.php:121
+msgid "Dark"
+msgstr ""
+
+#: config/importer.php:27
+msgid "All Demo Pages"
+msgstr ""
+
+#: config/importer.php:28 config/metaboxes.php:105 config/metaboxes.php:511
+#: config/metaboxes.php:600 config/vc-post-modules.php:63
+#: inc/admin/gallery-settings.php:39 inc/customizer/mods/artists.php:29
+#: inc/customizer/mods/blog.php:27 inc/customizer/mods/blog.php:41
+#: inc/customizer/mods/discography.php:28 inc/customizer/mods/events.php:29
+#: inc/customizer/mods/footer.php:28 inc/customizer/mods/header.php:28
+#: inc/customizer/mods/layout.php:55 inc/customizer/mods/photos.php:29
+#: inc/customizer/mods/portfolio.php:29 inc/customizer/mods/shop.php:28
+#: inc/customizer/mods/shop.php:49 inc/customizer/mods/videos.php:28
+#: inc/theme-functions.php:441 inc/theme-functions.php:1760
+msgid "Standard"
+msgstr ""
+
+#: config/metaboxes.php:23 inc/customizer/mods/layout.php:25
+msgid "General"
+msgstr ""
+
+#: config/metaboxes.php:29 inc/admin/admin-functions.php:415
+#: inc/customizer/mods/colors.php:68
+msgid "Accent Color"
+msgstr ""
+
+#: config/metaboxes.php:35
+msgid "Content Background Color"
+msgstr ""
+
+#: config/metaboxes.php:38
+msgid ""
+"If you use the page builder and set your row background setting to \"no "
+"background\", you may want to change the overall content background color."
+msgstr ""
+
+#: config/metaboxes.php:42 inc/customizer/mods/loading.php:24
+#: inc/theme-functions.php:1636
+msgid "Loading Animation Type"
+msgstr ""
+
+#: config/metaboxes.php:46 config/metaboxes.php:65 config/metaboxes.php:104
+#: config/metaboxes.php:124 config/metaboxes.php:142 config/metaboxes.php:179
+#: config/metaboxes.php:200 config/metaboxes.php:238 config/metaboxes.php:256
+#: config/metaboxes.php:267 config/metaboxes.php:281 config/metaboxes.php:293
+#: config/metaboxes.php:305 config/metaboxes.php:319 config/metaboxes.php:334
+#: config/metaboxes.php:345 config/metaboxes.php:358 config/metaboxes.php:370
+#: config/metaboxes.php:398 config/metaboxes.php:464 config/metaboxes.php:510
+#: config/metaboxes.php:530 config/metaboxes.php:701
+#: inc/admin/gallery-settings.php:58
+#: inc/customizer/extensions/preview-colors.php:56
+#: inc/customizer/mods/fonts.php:24 inc/customizer/mods/header.php:63
+#: inc/theme-functions.php:1137 inc/theme-functions.php:1759
+#: inc/theme-functions.php:1777
+msgid "Default"
+msgstr ""
+
+#: config/metaboxes.php:47 config/metaboxes.php:196
+#: config/vc-post-modules.php:407 inc/customizer/mods/navigation.php:34
+#: inc/theme-functions.php:1641
+msgid "Overlay"
+msgstr ""
+
+#: config/metaboxes.php:48
+msgid "Overlay with percent animation"
+msgstr ""
+
+#: config/metaboxes.php:49 config/metaboxes.php:57 config/metaboxes.php:66
+#: config/metaboxes.php:126 config/metaboxes.php:182 config/metaboxes.php:202
+#: config/metaboxes.php:325 config/metaboxes.php:346 config/metaboxes.php:702
+#: config/vc-post-modules.php:186 config/vc-post-modules.php:569
+#: config/vc-post-modules.php:812
+#: inc/admin/class-menu-item-custom-fields.php:125
+#: inc/admin/class-menu-item-custom-fields.php:180
+#: inc/admin/class-menu-item-custom-fields.php:183
+#: inc/admin/gallery-settings.php:63 inc/core-functions.php:87
+#: inc/customizer/mods/artists.php:63 inc/customizer/mods/discography.php:62
+#: inc/customizer/mods/fonts.php:75 inc/customizer/mods/fonts.php:86
+#: inc/customizer/mods/fonts.php:136 inc/customizer/mods/header.php:44
+#: inc/customizer/mods/header.php:65 inc/customizer/mods/layout.php:68
+#: inc/customizer/mods/loading.php:29 inc/customizer/mods/navigation.php:68
+#: inc/customizer/mods/navigation.php:135
+#: inc/customizer/mods/navigation.php:153 inc/customizer/mods/portfolio.php:66
+#: inc/customizer/mods/videos.php:79 inc/theme-functions.php:321
+#: inc/theme-functions.php:1640 inc/theme-functions.php:1651
+#: inc/theme-functions.php:1659
+msgid "None"
+msgstr ""
+
+#: config/metaboxes.php:73 inc/customizer/mods/layout.php:74
+#: inc/theme-functions.php:1666
+msgid "No Content Block Yet"
+msgstr ""
+
+#: config/metaboxes.php:77 inc/customizer/mods/layout.php:78
+msgid "Post-header Block"
+msgstr ""
+
+#: config/metaboxes.php:84 inc/customizer/mods/layout.php:86
+msgid "Pre-footer Block"
+msgstr ""
+
+#: config/metaboxes.php:94
+msgid "Header"
+msgstr ""
+
+#: config/metaboxes.php:100 inc/customizer/mods/header.php:19
+msgid "Header Layout"
+msgstr ""
+
+#: config/metaboxes.php:106 inc/customizer/mods/header.php:29
+#: inc/theme-functions.php:1761
+msgid "Big"
+msgstr ""
+
+#: config/metaboxes.php:107 inc/customizer/mods/header.php:30
+#: inc/theme-functions.php:1762
+msgid "Small"
+msgstr ""
+
+#: config/metaboxes.php:108 inc/customizer/mods/header.php:31
+#: inc/theme-functions.php:1763
+msgid "Full Height"
+msgstr ""
+
+#: config/metaboxes.php:109
+msgid "No Header"
+msgstr ""
+
+#: config/metaboxes.php:114
+msgid "Title Font Family"
+msgstr ""
+
+#: config/metaboxes.php:120
+msgid "Font Transform"
+msgstr ""
+
+#: config/metaboxes.php:125 inc/customizer/mods/fonts.php:76
+#: inc/customizer/mods/fonts.php:87 inc/customizer/mods/fonts.php:137
+msgid "Uppercase"
+msgstr ""
+
+#: config/metaboxes.php:131
+msgid "Big Text"
+msgstr ""
+
+#: config/metaboxes.php:134
+msgid "Enable \"Big Text\" for the title?"
+msgstr ""
+
+#: config/metaboxes.php:138
+msgid "Font Tone"
+msgstr ""
+
+#: config/metaboxes.php:149
+msgid "Background Type"
+msgstr ""
+
+#: config/metaboxes.php:153
+msgid "Featured Image"
+msgstr ""
+
+#: config/metaboxes.php:154
+msgid "Image"
+msgstr ""
+
+#: config/metaboxes.php:155
+msgid "Video"
+msgstr ""
+
+#: config/metaboxes.php:156
+msgid "Slideshow"
+msgstr ""
+
+#: config/metaboxes.php:161
+msgid "Slideshow Images"
+msgstr ""
+
+#: config/metaboxes.php:168
+msgid "Background"
+msgstr ""
+
+#: config/metaboxes.php:175
+msgid "Background Effect"
+msgstr ""
+
+#: config/metaboxes.php:180 config/metaboxes.php:680
+#: inc/customizer/mods/header.php:43
+msgid "Zoom"
+msgstr ""
+
+#: config/metaboxes.php:181 config/metaboxes.php:678
+#: inc/customizer/class-customizer-library.php:659
+#: inc/customizer/mods/header.php:42
+msgid "Parallax"
+msgstr ""
+
+#: config/metaboxes.php:188
+msgid "Video URL"
+msgstr ""
+
+#: config/metaboxes.php:192
+msgid ""
+"A mp4 or YouTube URL. The featured image will be used as image fallback "
+"when the video cannot be displayed."
+msgstr ""
+
+#: config/metaboxes.php:201 inc/customizer/mods/header.php:64
+msgid "Custom"
+msgstr ""
+
+#: config/metaboxes.php:207 config/vc-post-modules.php:461
+#: inc/customizer/mods/header.php:70
+msgid "Overlay Color"
+msgstr ""
+
+#: config/metaboxes.php:215 inc/customizer/mods/header.php:77
+msgid "Overlay Opacity (in percent)"
+msgstr ""
+
+#: config/metaboxes.php:217 inc/customizer/mods/header.php:79
+msgid "Adapt the header overlay opacity if needed"
+msgstr ""
+
+#: config/metaboxes.php:229 inc/frontend/template-tags.php:824
+#: inc/theme-functions.php:583
+msgid "Menu"
+msgstr ""
+
+#: config/metaboxes.php:234
+msgid "Menu Layout"
+msgstr ""
+
+#: config/metaboxes.php:239 inc/customizer/mods/navigation.php:28
+msgid "Top Right"
+msgstr ""
+
+#: config/metaboxes.php:240 inc/customizer/mods/navigation.php:29
+msgid "Top Justify"
+msgstr ""
+
+#: config/metaboxes.php:241 inc/customizer/mods/navigation.php:30
+msgid "Top Justify Left"
+msgstr ""
+
+#: config/metaboxes.php:242 config/metaboxes.php:611
+#: inc/customizer/mods/footer.php:64 inc/customizer/mods/navigation.php:31
+msgid "Centered"
+msgstr ""
+
+#: config/metaboxes.php:243 inc/customizer/mods/navigation.php:32
+msgid "Top Left"
+msgstr ""
+
+#: config/metaboxes.php:247
+msgid "No Menu"
+msgstr ""
+
+#: config/metaboxes.php:252
+msgid "Menu Width"
+msgstr ""
+
+#: config/metaboxes.php:257 config/metaboxes.php:601
+#: inc/customizer/mods/footer.php:41 inc/customizer/mods/layout.php:32
+#: inc/customizer/mods/navigation.php:44 inc/customizer/mods/navigation.php:84
+msgid "Wide"
+msgstr ""
+
+#: config/metaboxes.php:258 inc/customizer/mods/footer.php:40
+#: inc/customizer/mods/layout.php:38 inc/customizer/mods/navigation.php:45
+#: inc/customizer/mods/navigation.php:83
+msgid "Boxed"
+msgstr ""
+
+#: config/metaboxes.php:263
+msgid "Menu Style"
+msgstr ""
+
+#: config/metaboxes.php:268 inc/customizer/mods/navigation.php:57
+msgid "Solid"
+msgstr ""
+
+#: config/metaboxes.php:269 inc/customizer/mods/navigation.php:55
+msgid "Semi-transparent White"
+msgstr ""
+
+#: config/metaboxes.php:270 inc/customizer/mods/navigation.php:56
+msgid "Semi-transparent Black"
+msgstr ""
+
+#: config/metaboxes.php:271 inc/customizer/mods/navigation.php:58
+msgid "Transparent"
+msgstr ""
+
+#: config/metaboxes.php:277
+msgid "Menu Skin"
+msgstr ""
+
+#: config/metaboxes.php:290 inc/customizer/mods/navigation.php:99
+msgid "Sticky Menu"
+msgstr ""
+
+#: config/metaboxes.php:294 inc/customizer/mods/navigation.php:102
+msgid "Disabled"
+msgstr ""
+
+#: config/metaboxes.php:295 inc/customizer/mods/navigation.php:103
+msgid "Sticky on scroll up"
+msgstr ""
+
+#: config/metaboxes.php:296 inc/customizer/mods/navigation.php:104
+msgid "Always sticky"
+msgstr ""
+
+#: config/metaboxes.php:301 inc/customizer/mods/navigation.php:117
+msgid "Sticky Menu Skin"
+msgstr ""
+
+#: config/metaboxes.php:314 inc/customizer/mods/navigation.php:129
+msgid "Additional Content"
+msgstr ""
+
+#: config/metaboxes.php:322 inc/customizer/mods/navigation.php:133
+msgid "Search Icon"
+msgstr ""
+
+#: config/metaboxes.php:323 functions.php:46
+#: inc/customizer/mods/navigation.php:134
+msgid "Secondary Menu"
+msgstr ""
+
+#: config/metaboxes.php:331
+msgid "Show Navigation Player"
+msgstr ""
+
+#: config/metaboxes.php:335 config/metaboxes.php:409 config/metaboxes.php:651
+#: config/metaboxes.php:667 config/vc-post-modules.php:163
+#: config/vc-post-modules.php:422 config/vc-post-modules.php:783
+#: inc/admin/gallery-settings.php:51 inc/customizer/mods/artists.php:52
+#: inc/customizer/mods/blog.php:50 inc/customizer/mods/blog.php:94
+#: inc/customizer/mods/blog.php:104 inc/customizer/mods/discography.php:51
+#: inc/customizer/mods/events.php:52 inc/customizer/mods/header.php:53
+#: inc/customizer/mods/photos.php:49 inc/customizer/mods/portfolio.php:48
+#: inc/customizer/mods/videos.php:41
+msgid "Yes"
+msgstr ""
+
+#: config/metaboxes.php:336 config/metaboxes.php:408 config/metaboxes.php:650
+#: config/metaboxes.php:666 config/vc-post-modules.php:164
+#: config/vc-post-modules.php:423 config/vc-post-modules.php:784
+#: config/vc-post-modules.php:923 inc/admin/gallery-settings.php:52
+#: inc/customizer/mods/artists.php:53 inc/customizer/mods/blog.php:51
+#: inc/customizer/mods/blog.php:95 inc/customizer/mods/blog.php:105
+#: inc/customizer/mods/discography.php:52 inc/customizer/mods/events.php:53
+#: inc/customizer/mods/header.php:54 inc/customizer/mods/photos.php:50
+#: inc/customizer/mods/portfolio.php:49 inc/customizer/mods/videos.php:42
+msgid "No"
+msgstr ""
+
+#: config/metaboxes.php:342 inc/customizer/mods/navigation.php:150
+#: inc/frontend/template-tags.php:822 inc/theme-functions.php:576
+msgid "Side Panel"
+msgstr ""
+
+#: config/metaboxes.php:347 inc/customizer/mods/navigation.php:154
+msgid "At Right"
+msgstr ""
+
+#: config/metaboxes.php:348 inc/customizer/mods/navigation.php:155
+msgid "At Left"
+msgstr ""
+
+#: config/metaboxes.php:350
+msgid ""
+"Note that it will be disable with a vertical menu layout (overlay, "
+"offcanvas etc...)."
+msgstr ""
+
+#: config/metaboxes.php:355
+msgid "Logo Visibility"
+msgstr ""
+
+#: config/metaboxes.php:359 inc/customizer/mods/logo.php:57
+msgid "Always"
+msgstr ""
+
+#: config/metaboxes.php:360 inc/customizer/mods/logo.php:58
+msgid "When menu is sticky only"
+msgstr ""
+
+#: config/metaboxes.php:361 config/metaboxes.php:372 config/metaboxes.php:624
+msgid "Hidden"
+msgstr ""
+
+#: config/metaboxes.php:367
+msgid "Menu Items Visibility"
+msgstr ""
+
+#: config/metaboxes.php:371
+msgid "Visible"
+msgstr ""
+
+#: config/metaboxes.php:374
+msgid ""
+"If, for some reason, you need to hide the menu items but leave the logo, "
+"additional content and side panel."
+msgstr ""
+
+#: config/metaboxes.php:379
+msgid "Mobile Menu Breakpoint"
+msgstr ""
+
+#: config/metaboxes.php:381
+msgid "Use this field if you want to overwrite the mobile menu breakpoint."
+msgstr ""
+
+#: config/metaboxes.php:389 inc/customizer/mods/footer.php:19
+msgid "Footer"
+msgstr ""
+
+#: config/metaboxes.php:394
+msgid "Page Footer"
+msgstr ""
+
+#: config/metaboxes.php:399 inc/customizer/mods/footer.php:30
+msgid "No Footer"
+msgstr ""
+
+#: config/metaboxes.php:404
+msgid "Hide Bottom Bar"
+msgstr ""
+
+#: config/metaboxes.php:421
+msgid "Page"
+msgstr ""
+
+#: config/metaboxes.php:436 config/metaboxes.php:557
+msgid "WooCommerce not installed"
+msgstr ""
+
+#: config/metaboxes.php:444 config/metaboxes.php:565
+msgid "Not linked"
+msgstr ""
+
+#: config/metaboxes.php:450 config/metaboxes.php:571
+msgid "No product yet"
+msgstr ""
+
+#: config/metaboxes.php:456
+msgid "Post"
+msgstr ""
+
+#: config/metaboxes.php:460
+msgid "Post Layout"
+msgstr ""
+
+#: config/metaboxes.php:465 config/metaboxes.php:512
+#: inc/customizer/mods/blog.php:82 inc/customizer/mods/videos.php:98
+msgid "Sidebar Right"
+msgstr ""
+
+#: config/metaboxes.php:466 config/metaboxes.php:513
+#: inc/customizer/mods/blog.php:83 inc/customizer/mods/videos.php:99
+msgid "Sidebar Left"
+msgstr ""
+
+#: config/metaboxes.php:467 inc/customizer/mods/blog.php:84
+#: inc/customizer/mods/videos.php:100
+msgid "No Sidebar"
+msgstr ""
+
+#: config/metaboxes.php:468 inc/customizer/mods/artists.php:30
+#: inc/customizer/mods/blog.php:28 inc/customizer/mods/blog.php:85
+#: inc/customizer/mods/discography.php:29 inc/customizer/mods/events.php:30
+#: inc/customizer/mods/photos.php:30 inc/customizer/mods/portfolio.php:30
+#: inc/customizer/mods/shop.php:31 inc/customizer/mods/videos.php:29
+#: inc/customizer/mods/videos.php:101
+msgid "Full width"
+msgstr ""
+
+#: config/metaboxes.php:473
+msgid "Feature a Product"
+msgstr ""
+
+#: config/metaboxes.php:477
+msgid "A \"Shop Now\" buton will be displayed in the metro layout."
+msgstr ""
+
+#: config/metaboxes.php:484
+msgid "Will be displayed bigger in the \"metro\" layout (auto pattern)."
+msgstr ""
+
+#: config/metaboxes.php:494 inc/vc-extend.php:105
+msgid "Product"
+msgstr ""
+
+#: config/metaboxes.php:499
+msgid "Label"
+msgstr ""
+
+#: config/metaboxes.php:502
+msgid "-30%"
+msgstr ""
+
+#: config/metaboxes.php:506 config/metaboxes.php:607
+#: config/vc-post-modules.php:403 inc/admin/gallery-settings.php:29
+#: inc/customizer/mods/artists.php:26 inc/customizer/mods/discography.php:25
+#: inc/customizer/mods/events.php:26 inc/customizer/mods/layout.php:19
+#: inc/customizer/mods/photos.php:26 inc/customizer/mods/videos.php:25
+msgid "Layout"
+msgstr ""
+
+#: config/metaboxes.php:514 config/metaboxes.php:602
+#: inc/customizer/mods/navigation.php:85 inc/customizer/mods/shop.php:52
+msgid "Full Width"
+msgstr ""
+
+#: config/metaboxes.php:526
+msgid "Menu Font Tone"
+msgstr ""
+
+#: config/metaboxes.php:534
+msgid ""
+"By default the menu style is set to \"solid\" on single product page. If "
+"you change the menu style, you may need to adujst the menu color tone here."
+msgstr ""
+
+#: config/metaboxes.php:538 inc/theme-functions.php:1742
+msgid "Stacked Images with Sticky Product Details"
+msgstr ""
+
+#: config/metaboxes.php:541 inc/theme-functions.php:1745
+msgid "Not compatible with sidebar layouts."
+msgstr ""
+
+#: config/metaboxes.php:545
+msgid "Disable Image Zoom"
+msgstr ""
+
+#: config/metaboxes.php:548
+msgid "Disable image zoom on this product if it's enabled in the customizer."
+msgstr ""
+
+#: config/metaboxes.php:579 inc/vc-extend.php:85
+msgid "Work"
+msgstr ""
+
+#: config/metaboxes.php:584 inc/frontend/template-tags.php:247
+msgid "Client"
+msgstr ""
+
+#: config/metaboxes.php:590 inc/frontend/template-tags.php:255
+msgid "Link"
+msgstr ""
+
+#: config/metaboxes.php:596
+msgid "Width"
+msgstr ""
+
+#: config/metaboxes.php:612
+msgid "Excerpt & Info at Right"
+msgstr ""
+
+#: config/metaboxes.php:613
+msgid "Excerpt & Info at Left"
+msgstr ""
+
+#: config/metaboxes.php:618
+msgid "Excerpt & Info Position"
+msgstr ""
+
+#: config/metaboxes.php:622
+msgid "After Content"
+msgstr ""
+
+#: config/metaboxes.php:623
+msgid "Before Content"
+msgstr ""
+
+#: config/metaboxes.php:632
+msgid "The featured image will be display bigger in the \"metro\" layout."
+msgstr ""
+
+#: config/metaboxes.php:642
+msgid "One-Page"
+msgstr ""
+
+#: config/metaboxes.php:646
+msgid "One-Page Navigation"
+msgstr ""
+
+#: config/metaboxes.php:653
+msgid ""
+"Activate to replace the main menu by a one-page scroll navigation. "
+"<strong>NB: Every row must have a unique name set in the row settings "
+"\"Advanced\" tab.</strong>"
+msgstr ""
+
+#: config/metaboxes.php:656
+msgid "One-Page Bullet Navigation"
+msgstr ""
+
+#: config/metaboxes.php:659
+msgid ""
+"Activate to create a section scroller navigation. <strong>NB: Every row "
+"must have a unique name set in the row settings \"Advanced\" tab.</strong>"
+msgstr ""
+
+#: config/metaboxes.php:662
+msgid "Enable %s animations"
+msgstr ""
+
+#: config/metaboxes.php:669
+msgid ""
+"Activate to enable advanced scroll animations between sections. Some of "
+"your row setting may be disabled to suit the global page design."
+msgstr ""
+
+#: config/metaboxes.php:673
+msgid "%s animation transition"
+msgstr ""
+
+#: config/metaboxes.php:677 inc/theme-functions.php:1778
+msgid "Special"
+msgstr ""
+
+#: config/metaboxes.php:679 inc/core-functions.php:89
+msgid "Fade"
+msgstr ""
+
+#: config/metaboxes.php:681
+msgid "Curtain"
+msgstr ""
+
+#: config/metaboxes.php:682
+msgid "Slide"
+msgstr ""
+
+#: config/metaboxes.php:688
+msgid "%s animation duration"
+msgstr ""
+
+#: config/metaboxes.php:707 inc/theme-functions.php:1673
+msgid "Vertical Bar"
+msgstr ""
+
+#: config/metaboxes.php:712
+msgid "Disable Vertical Bar"
+msgstr ""
+
+#: config/metaboxes.php:719 inc/theme-functions.php:1679
+msgid "Content Type Top"
+msgstr ""
+
+#: config/metaboxes.php:727 inc/theme-functions.php:1686
+msgid "Content Type Middle"
+msgstr ""
+
+#: config/metaboxes.php:735 inc/theme-functions.php:1693
+msgid "Content Type Bottom"
+msgstr ""
+
+#: config/metaboxes.php:743 inc/theme-functions.php:1700
+msgid "Overlay Content"
+msgstr ""
+
+#: config/metaboxes.php:745 inc/theme-functions.php:1702
+msgid ""
+"If you choose the \"Toggle Overlay\" option above, select the <a "
+"href=\"%s\" target=\"_blank\">Content Block</a> to use as overlay content"
+msgstr ""
+
+#: config/metaboxes.php:752 inc/customizer/class-customizer-library.php:474
+#: inc/theme-functions.php:1722
+msgid "Background Color"
+msgstr ""
+
+#: config/metaboxes.php:758 inc/customizer/class-customizer-library.php:427
+#: inc/theme-functions.php:1728
+msgid "Font Color"
+msgstr ""
+
+#: config/metaboxes.php:764 inc/theme-functions.php:1734
+msgid "Transparent at top"
+msgstr ""
+
+#: config/plugins.php:24
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#: config/plugins.php:31
+msgid "Slider Revolution"
+msgstr ""
+
+#: config/plugins.php:38
+msgid "Wolf WPBakery Page Builder Extension"
+msgstr ""
+
+#: config/plugins.php:46
+msgid "Wolf WPBPB Content Blocks"
+msgstr ""
+
+#: config/plugins.php:53
+msgid "Wolf Portfolio"
+msgstr ""
+
+#: config/plugins.php:60
+msgid "Wolf Share"
+msgstr ""
+
+#: config/plugins.php:67
+msgid "Wolf Custom Post Meta"
+msgstr ""
+
+#: config/plugins.php:74
+msgid "Wolf Twitter"
+msgstr ""
+
+#: config/plugins.php:81
+msgid "Wolf Instagram"
+msgstr ""
+
+#: config/plugins.php:88
+msgid "Wolf Video Thumbnail Generator"
+msgstr ""
+
+#: config/plugins.php:95
+msgid "Wolf Metaboxes"
+msgstr ""
+
+#: config/plugins.php:102
+msgid "WooCommerce"
+msgstr ""
+
+#: config/plugins.php:107
+msgid "Wolf WooCommerce Wishlist"
+msgstr ""
+
+#: config/plugins.php:114
+msgid "Wolf WooCommerce Quickview"
+msgstr ""
+
+#: config/plugins.php:121
+msgid "Contact Form 7"
+msgstr ""
+
+#: config/plugins.php:126
+msgid "Envato Market Items Updater"
+msgstr ""
+
+#: config/plugins.php:133
+msgid "One Click Demo Import"
+msgstr ""
+
+#: config/vc-post-modules.php:16 config/vc-post-modules.php:124
+#: inc/customizer/mods/blog.php:122
+msgid "Date"
+msgstr ""
+
+#: config/vc-post-modules.php:17 config/vc-post-modules.php:704
+#: config/vc-post-modules.php:949
+msgid "ID"
+msgstr ""
+
+#: config/vc-post-modules.php:18 config/vc-post-modules.php:127
+#: inc/customizer/mods/blog.php:125
+msgid "Author"
+msgstr ""
+
+#: config/vc-post-modules.php:19
+msgid "Title"
+msgstr ""
+
+#: config/vc-post-modules.php:20
+msgid "Modified"
+msgstr ""
+
+#: config/vc-post-modules.php:21
+msgid "Random"
+msgstr ""
+
+#: config/vc-post-modules.php:22
+msgid "Comment count"
+msgstr ""
+
+#: config/vc-post-modules.php:23
+msgid "Menu order"
+msgstr ""
+
+#: config/vc-post-modules.php:28
+msgid "Descending"
+msgstr ""
+
+#: config/vc-post-modules.php:29
+msgid "Ascending"
+msgstr ""
+
+#: config/vc-post-modules.php:40
+msgid "Posts"
+msgstr ""
+
+#: config/vc-post-modules.php:41
+msgid "Display your posts using the theme layouts"
+msgstr ""
+
+#: config/vc-post-modules.php:43 config/vc-post-modules.php:343
+#: config/vc-post-modules.php:695 config/vc-post-modules.php:941
+msgid "Content"
+msgstr ""
+
+#: config/vc-post-modules.php:52 config/vc-post-modules.php:352
+msgid "Index ID"
+msgstr ""
+
+#: config/vc-post-modules.php:55 config/vc-post-modules.php:355
+msgid "A unique identifier for the post module (required)."
+msgstr ""
+
+#: config/vc-post-modules.php:60
+msgid "Post Display"
+msgstr ""
+
+#: config/vc-post-modules.php:71 config/vc-post-modules.php:722
+msgid "Metro Pattern"
+msgstr ""
+
+#: config/vc-post-modules.php:81
+msgid "Alternate thumbnail position"
+msgstr ""
+
+#: config/vc-post-modules.php:91 config/vc-post-modules.php:370
+#: config/vc-post-modules.php:768
+msgid "Module"
+msgstr ""
+
+#: config/vc-post-modules.php:94 config/vc-post-modules.php:363
+#: config/vc-post-modules.php:373 config/vc-post-modules.php:771
+#: inc/customizer/mods/discography.php:42 inc/customizer/mods/photos.php:40
+#: inc/customizer/mods/portfolio.php:39 inc/customizer/mods/shop.php:41
+#: inc/customizer/mods/videos.php:52 inc/theme-functions.php:443
+#: inc/theme-functions.php:470 inc/theme-functions.php:1515
+msgid "Grid"
+msgstr ""
+
+#: config/vc-post-modules.php:95 config/vc-post-modules.php:374
+#: config/vc-post-modules.php:772
+msgid "Carousel"
+msgstr ""
+
+#: config/vc-post-modules.php:106
+msgid "Post Excerpt Lenght"
+msgstr ""
+
+#: config/vc-post-modules.php:109
+msgid "Shorten"
+msgstr ""
+
+#: config/vc-post-modules.php:110 inc/admin/gallery-settings.php:45
+msgid "Full"
+msgstr ""
+
+#: config/vc-post-modules.php:120
+msgid "Elements"
+msgstr ""
+
+#: config/vc-post-modules.php:123 inc/admin/gallery-settings.php:42
+#: inc/customizer/mods/blog.php:121
+msgid "Thumbnail"
+msgstr ""
+
+#: config/vc-post-modules.php:125 inc/customizer/mods/blog.php:123
+msgid "Text"
+msgstr ""
+
+#: config/vc-post-modules.php:126 config/vc-post-modules.php:245
+#: config/vc-post-modules.php:759 config/vc-post-modules.php:824
+#: inc/customizer/mods/blog.php:124 inc/frontend/template-tags.php:241
+#: woocommerce/single-product/meta.php:34
+msgid "Category"
+msgstr ""
+
+#: config/vc-post-modules.php:128 config/vc-post-modules.php:254
+#: inc/customizer/mods/blog.php:126
+msgid "Tags"
+msgstr ""
+
+#: config/vc-post-modules.php:129 inc/customizer/mods/blog.php:127
+msgid "Extra Meta"
+msgstr ""
+
+#: config/vc-post-modules.php:136 inc/customizer/mods/blog.php:129
+msgid "Note that some options may be ignored depending on the post display."
+msgstr ""
+
+#: config/vc-post-modules.php:142
+msgid "Post Excerpt Type"
+msgstr ""
+
+#: config/vc-post-modules.php:145 config/vc-post-modules.php:302
+#: config/vc-post-modules.php:464 config/vc-post-modules.php:652
+#: config/vc-post-modules.php:888 config/vc-post-modules.php:1049
+#: inc/core-functions.php:879 inc/customizer/mods/blog.php:71
+#: inc/customizer/mods/shop.php:62
+msgid "Auto"
+msgstr ""
+
+#: config/vc-post-modules.php:146 inc/customizer/mods/blog.php:72
+msgid "Manual"
+msgstr ""
+
+#: config/vc-post-modules.php:149
+msgid ""
+"When using the manual excerpt, you must split your post using a \"<a "
+"href=\"%s\">More Tag</a>\"."
+msgstr ""
+
+#: config/vc-post-modules.php:160 config/vc-post-modules.php:419
+#: config/vc-post-modules.php:780 inc/admin/gallery-settings.php:49
+#: inc/customizer/mods/artists.php:49 inc/customizer/mods/events.php:49
+#: inc/customizer/mods/photos.php:46 inc/customizer/mods/videos.php:38
+msgid "Padding"
+msgstr ""
+
+#: config/vc-post-modules.php:183 config/vc-post-modules.php:566
+#: config/vc-post-modules.php:809
+msgid "Pagination"
+msgstr ""
+
+#: config/vc-post-modules.php:187 config/vc-post-modules.php:570
+#: config/vc-post-modules.php:813 inc/frontend/hooks/navigation.php:324
+#: inc/frontend/scripts.php:196
+msgid "Load More"
+msgstr ""
+
+#: config/vc-post-modules.php:188 config/vc-post-modules.php:814
+#: inc/customizer/mods/artists.php:64 inc/customizer/mods/blog.php:61
+#: inc/customizer/mods/discography.php:63 inc/customizer/mods/portfolio.php:67
+#: inc/customizer/mods/videos.php:80
+msgid "Numeric Pagination"
+msgstr ""
+
+#: config/vc-post-modules.php:189
+msgid "Link to Blog Archives"
+msgstr ""
+
+#: config/vc-post-modules.php:196 config/vc-post-modules.php:547
+#: config/vc-post-modules.php:790 config/vc-post-modules.php:976
+msgid "Animation"
+msgstr ""
+
+#: config/vc-post-modules.php:204 config/vc-post-modules.php:798
+msgid "Posts Per Page"
+msgstr ""
+
+#: config/vc-post-modules.php:212 config/vc-post-modules.php:578
+#: config/vc-post-modules.php:832 config/vc-post-modules.php:994
+msgid "Additional CSS inline style"
+msgstr ""
+
+#: config/vc-post-modules.php:220 config/vc-post-modules.php:604
+#: config/vc-post-modules.php:840
+msgid "Offset"
+msgstr ""
+
+#: config/vc-post-modules.php:222 config/vc-post-modules.php:842
+msgid ""
+"The amount of posts that should be skipped in the beginning of the query. "
+"If an offset is set, sticky posts will be ignored."
+msgstr ""
+
+#: config/vc-post-modules.php:223 config/vc-post-modules.php:232
+#: config/vc-post-modules.php:240 config/vc-post-modules.php:249
+#: config/vc-post-modules.php:258 config/vc-post-modules.php:268
+#: config/vc-post-modules.php:278 config/vc-post-modules.php:286
+#: config/vc-post-modules.php:294 config/vc-post-modules.php:590
+#: config/vc-post-modules.php:599 config/vc-post-modules.php:608
+#: config/vc-post-modules.php:618 config/vc-post-modules.php:628
+#: config/vc-post-modules.php:636 config/vc-post-modules.php:644
+#: config/vc-post-modules.php:843 config/vc-post-modules.php:854
+#: config/vc-post-modules.php:864 config/vc-post-modules.php:872
+#: config/vc-post-modules.php:880 config/vc-post-modules.php:1005
+#: config/vc-post-modules.php:1013 config/vc-post-modules.php:1021
+#: config/vc-post-modules.php:1031 config/vc-post-modules.php:1041
+msgid "Query"
+msgstr ""
+
+#: config/vc-post-modules.php:229
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+#: config/vc-post-modules.php:231
+msgid ""
+"It will still include the sticky posts but it will not prioritize them in "
+"the query."
+msgstr ""
+
+#: config/vc-post-modules.php:237
+msgid "Exclude Sticky Posts"
+msgstr ""
+
+#: config/vc-post-modules.php:238
+msgid "It will still exclude the sticky posts."
+msgstr ""
+
+#: config/vc-post-modules.php:247 config/vc-post-modules.php:761
+msgid ""
+"Include only one or several categories. Paste category slug(s) separated by "
+"a comma"
+msgstr ""
+
+#: config/vc-post-modules.php:248 config/vc-post-modules.php:589
+#: config/vc-post-modules.php:598 config/vc-post-modules.php:762
+msgid "my-category, other-category"
+msgstr ""
+
+#: config/vc-post-modules.php:256
+msgid "Include only one or several tags. Paste tag slug(s) separated by a comma"
+msgstr ""
+
+#: config/vc-post-modules.php:257
+msgid "my-tag, other-tag"
+msgstr ""
+
+#: config/vc-post-modules.php:263 config/vc-post-modules.php:613
+#: config/vc-post-modules.php:849 config/vc-post-modules.php:1026
+msgid "Order by"
+msgstr ""
+
+#: config/vc-post-modules.php:267 config/vc-post-modules.php:617
+msgid "Select how to sort retrieved posts. More at %s."
+msgstr ""
+
+#: config/vc-post-modules.php:273 config/vc-post-modules.php:623
+#: config/vc-post-modules.php:859 config/vc-post-modules.php:1036
+msgid "Sort order"
+msgstr ""
+
+#: config/vc-post-modules.php:277 config/vc-post-modules.php:627
+#: config/vc-post-modules.php:863 config/vc-post-modules.php:1040
+msgid "Designates the ascending or descending order. More at %s."
+msgstr ""
+
+#: config/vc-post-modules.php:283 config/vc-post-modules.php:633
+#: config/vc-post-modules.php:869 config/vc-post-modules.php:1010
+msgid "Post IDs"
+msgstr ""
+
+#: config/vc-post-modules.php:284 config/vc-post-modules.php:634
+#: config/vc-post-modules.php:870 config/vc-post-modules.php:1011
+msgid ""
+"By default, your last posts will be displayed. You can choose the posts you "
+"want to display by entering a list of IDs separated by a comma."
+msgstr ""
+
+#: config/vc-post-modules.php:291 config/vc-post-modules.php:641
+#: config/vc-post-modules.php:877 config/vc-post-modules.php:1018
+msgid "Exclude Post IDs"
+msgstr ""
+
+#: config/vc-post-modules.php:292 config/vc-post-modules.php:642
+#: config/vc-post-modules.php:878 config/vc-post-modules.php:1019
+msgid ""
+"You can choose the posts you don't want to display by entering a list of "
+"IDs separated by a comma."
+msgstr ""
+
+#: config/vc-post-modules.php:299 config/vc-post-modules.php:649
+#: config/vc-post-modules.php:885 config/vc-post-modules.php:1046
+#: inc/customizer/mods/shop.php:59
+msgid "Columns"
+msgstr ""
+
+#: config/vc-post-modules.php:303 config/vc-post-modules.php:653
+#: config/vc-post-modules.php:889 config/vc-post-modules.php:1050
+msgid "Two"
+msgstr ""
+
+#: config/vc-post-modules.php:304 config/vc-post-modules.php:654
+#: config/vc-post-modules.php:890 config/vc-post-modules.php:1051
+msgid "Three"
+msgstr ""
+
+#: config/vc-post-modules.php:305 config/vc-post-modules.php:655
+#: config/vc-post-modules.php:891 config/vc-post-modules.php:1052
+msgid "Four"
+msgstr ""
+
+#: config/vc-post-modules.php:306 config/vc-post-modules.php:656
+#: config/vc-post-modules.php:892 config/vc-post-modules.php:1053
+msgid "Six"
+msgstr ""
+
+#: config/vc-post-modules.php:307 config/vc-post-modules.php:657
+#: config/vc-post-modules.php:893 config/vc-post-modules.php:1054
+msgid "One"
+msgstr ""
+
+#: config/vc-post-modules.php:311 config/vc-post-modules.php:661
+#: config/vc-post-modules.php:897 config/vc-post-modules.php:1058
+msgid ""
+"By default, columns are set automatically depending on the container's "
+"width. Set a column count here to overwrite the default behavior."
+msgstr ""
+
+#: config/vc-post-modules.php:316 config/vc-post-modules.php:666
+#: config/vc-post-modules.php:902 config/vc-post-modules.php:1063
+#: inc/customizer/mods/extra.php:19
+msgid "Extra"
+msgstr ""
+
+#: config/vc-post-modules.php:340
+msgid "Works"
+msgstr ""
+
+#: config/vc-post-modules.php:341
+msgid "Display your works using the theme layouts"
+msgstr ""
+
+#: config/vc-post-modules.php:360
+msgid "Work Display"
+msgstr ""
+
+#: config/vc-post-modules.php:385
+msgid "Thumbnail Size"
+msgstr ""
+
+#: config/vc-post-modules.php:388
+msgid "Default Thumbnail"
+msgstr ""
+
+#: config/vc-post-modules.php:389
+msgid "Landscape"
+msgstr ""
+
+#: config/vc-post-modules.php:390 inc/admin/gallery-settings.php:40
+#: inc/customizer/mods/layout.php:56
+msgid "Square"
+msgstr ""
+
+#: config/vc-post-modules.php:391 inc/admin/gallery-settings.php:41
+msgid "Portrait"
+msgstr ""
+
+#: config/vc-post-modules.php:406 config/vc-post-modules.php:714
+msgid "Classic"
+msgstr ""
+
+#: config/vc-post-modules.php:430
+msgid "Caption Text Alignement"
+msgstr ""
+
+#: config/vc-post-modules.php:434 config/vc-post-modules.php:536
+#: config/vc-post-modules.php:736
+msgid "Center"
+msgstr ""
+
+#: config/vc-post-modules.php:435 config/vc-post-modules.php:537
+#: config/vc-post-modules.php:737
+msgid "Left"
+msgstr ""
+
+#: config/vc-post-modules.php:436 config/vc-post-modules.php:538
+#: config/vc-post-modules.php:738
+msgid "Right"
+msgstr ""
+
+#: config/vc-post-modules.php:445
+msgid "Caption Vertical Alignement"
+msgstr ""
+
+#: config/vc-post-modules.php:449
+msgid "Middle"
+msgstr ""
+
+#: config/vc-post-modules.php:450
+msgid "Bottom"
+msgstr ""
+
+#: config/vc-post-modules.php:451
+msgid "Top"
+msgstr ""
+
+#: config/vc-post-modules.php:467 config/vc-post-modules.php:502
+msgid "Custom color"
+msgstr ""
+
+#: config/vc-post-modules.php:470 config/vc-post-modules.php:505
+msgid "Select an overlay color."
+msgstr ""
+
+#: config/vc-post-modules.php:478
+msgid "Overlay Custom Color"
+msgstr ""
+
+#: config/vc-post-modules.php:487
+msgid "Overlay Opacity in Percent"
+msgstr ""
+
+#: config/vc-post-modules.php:497
+msgid "Overlay Text Color"
+msgstr ""
+
+#: config/vc-post-modules.php:513
+msgid "Overlay Custom Text Color"
+msgstr ""
+
+#: config/vc-post-modules.php:520
+msgid "Category Filter"
+msgstr ""
+
+#: config/vc-post-modules.php:523
+msgid "The pagination will not be disabled."
+msgstr ""
+
+#: config/vc-post-modules.php:532
+msgid "Filter Text Alignement"
+msgstr ""
+
+#: config/vc-post-modules.php:555
+msgid "Number of Posts"
+msgstr ""
+
+#: config/vc-post-modules.php:559 config/vc-post-modules.php:802
+#: config/vc-post-modules.php:988
+msgid "Leave empty to display all post at once."
+msgstr ""
+
+#: config/vc-post-modules.php:571
+msgid "Link to Portfolio"
+msgstr ""
+
+#: config/vc-post-modules.php:586
+msgid "Include Category"
+msgstr ""
+
+#: config/vc-post-modules.php:588 config/vc-post-modules.php:597
+msgid "Enter one or several categories. Paste category slug(s) separated by a comma"
+msgstr ""
+
+#: config/vc-post-modules.php:595
+msgid "Exclude Category"
+msgstr ""
+
+#: config/vc-post-modules.php:605
+msgid "."
+msgstr ""
+
+#: config/vc-post-modules.php:607
+msgid "The amount of posts that should be skipped in the beginning of the query."
+msgstr ""
+
+#: config/vc-post-modules.php:692
+msgid "Products"
+msgstr ""
+
+#: config/vc-post-modules.php:693 config/vc-post-modules.php:939
+msgid "Display your pages using the theme layouts"
+msgstr ""
+
+#: config/vc-post-modules.php:711
+msgid "Product Display"
+msgstr ""
+
+#: config/vc-post-modules.php:732
+msgid "Product Text Alignement"
+msgstr ""
+
+#: config/vc-post-modules.php:747
+#: inc/admin/lib/class-tgm-plugin-activation.php:2504
+msgid "Type"
+msgstr ""
+
+#: config/vc-post-modules.php:752
+msgid "On Sale"
+msgstr ""
+
+#: config/vc-post-modules.php:815
+msgid "Link to Category"
+msgstr ""
+
+#: config/vc-post-modules.php:816
+msgid "Link to Shop Archive"
+msgstr ""
+
+#: config/vc-post-modules.php:853
+msgid "Select how to sort retrieved products. More at %s."
+msgstr ""
+
+#: config/vc-post-modules.php:938
+msgid "Pages"
+msgstr ""
+
+#: config/vc-post-modules.php:956
+msgid "Page Display"
+msgstr ""
+
+#: config/vc-post-modules.php:959 inc/theme-functions.php:456
+msgid "Image Grid"
+msgstr ""
+
+#: config/vc-post-modules.php:984
+msgid "Number of Page to display"
+msgstr ""
+
+#: config/vc-post-modules.php:1002
+msgid "Pages By Parent"
+msgstr ""
+
+#: config/vc-post-modules.php:1030
+msgid "Select how to sort retrieved pages. More at %s."
+msgstr ""
+
+#: functions.php:45
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:47
+msgid "Mobile Menu (optional)"
+msgstr ""
+
+#: inc/admin/admin-functions.php:54
+msgid ""
+"Hey there, would you like to import the demo content to help you to get "
+"started?"
+msgstr ""
+
+#: inc/admin/admin-functions.php:58
+msgid "In this case, please ignore the plugin page setups."
+msgstr ""
+
+#: inc/admin/admin-functions.php:62 inc/admin/admin-functions.php:78
+msgid ""
+"<a href=\"%1$s\" class=\"button button-primary button-hero\">Install demo "
+"data</a><br>"
+msgstr ""
+
+#: inc/admin/admin-functions.php:66
+msgid "No thanks"
+msgstr ""
+
+#: inc/admin/admin-functions.php:75
+msgid "The demo data successfully. "
+msgstr ""
+
+#: inc/admin/admin-functions.php:87
+msgid ""
+"Please use the main text editor to showcase your media content and the "
+"\"excerpt\" box to insert an explanatory text in the page."
+msgstr ""
+
+#: inc/admin/admin-functions.php:90 inc/admin/admin-functions.php:98
+#: inc/admin/admin-functions.php:106 inc/admin/admin-functions.php:117
+msgid "Got it"
+msgstr ""
+
+#: inc/admin/admin-functions.php:95
+msgid ""
+"You can use the main text editor to showcase your media content usign the "
+"page builder, with a playlist for example. In this case it is recommended "
+"to set your row \"Content Width\" to \"Full Width\" and the background "
+"settings to \"No Background\"."
+msgstr ""
+
+#: inc/admin/admin-functions.php:103
+msgid ""
+"You can use the main text editor for the \"Biography\" tab and the "
+"\"Excerpt\" box for an additional text below the artist's name. If you use "
+"the page builder for the bio, it is recommended to set your row \"Content "
+"Width\" to \"Full Width\". If you want to use the page builder to build "
+"your page entirely, you must choose the \"Custom\" layout option in the "
+"options below the text editor."
+msgstr ""
+
+#: inc/admin/admin-functions.php:113
+msgid ""
+"If your post content is designed with the page builder, it is recommended "
+"to enter a post text sample in the \"excerpt\" box."
+msgstr ""
+
+#: inc/admin/admin-functions.php:114
+msgid ""
+"In this case it is recommended to set your row \"Content Width\" to \"Full "
+"Width\" and the background settings to \"No Background\"."
+msgstr ""
+
+#: inc/admin/admin-functions.php:141
+msgid "Hide permanently"
+msgstr ""
+
+#: inc/admin/admin-functions.php:312 inc/customizer/mods/footer.php:72
+#: inc/theme-functions.php:322 inc/theme-functions.php:1708
+msgid "Socials"
+msgstr ""
+
+#: inc/admin/admin-functions.php:316 inc/theme-functions.php:338
+msgid "Shop Icons"
+msgstr ""
+
+#: inc/admin/admin-functions.php:320
+msgid "Language Switcher"
+msgstr ""
+
+#: inc/admin/admin-functions.php:386
+msgid "No slider yet"
+msgstr ""
+
+#: inc/admin/admin-scripts.php:46
+msgid "No result"
+msgstr ""
+
+#: inc/admin/admin-scripts.php:47
+msgid "Reset"
+msgstr ""
+
+#: inc/admin/admin-scripts.php:48
+msgid "Subheading"
+msgstr ""
+
+#: inc/admin/admin-scripts.php:49
+msgid "Are you sure to want to reset all mods to default? There is no way back."
+msgstr ""
+
+#: inc/admin/admin-update-functions.php:93
+msgid ""
+"There is a new version of <strong>%s</strong> available. You have version "
+"%s installed. It is recommended to update."
+msgstr ""
+
+#: inc/admin/admin-update-functions.php:104
+msgid "Update to version %s"
+msgstr ""
+
+#: inc/admin/admin-update-functions.php:108
+msgid "Hide update notices permanently"
+msgstr ""
+
+#: inc/admin/class-about-page.php:46
+msgid "About the Theme"
+msgstr ""
+
+#: inc/admin/class-about-page.php:75
+msgid "Welcome to %s %s"
+msgstr ""
+
+#: inc/admin/class-about-page.php:78
+msgid "Version %s"
+msgstr ""
+
+#: inc/admin/class-about-page.php:131 inc/admin/class-about-page.php:233
+msgid "Install Recommended Plugins"
+msgstr ""
+
+#: inc/admin/class-about-page.php:137
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/class-about-page.php:153
+msgid "Welcome"
+msgstr ""
+
+#: inc/admin/class-about-page.php:155 inc/admin/class-about-page.php:269
+msgid "System Status"
+msgstr ""
+
+#: inc/admin/class-about-page.php:158
+msgid "Changelog"
+msgstr ""
+
+#: inc/admin/class-about-page.php:210
+msgid "Thank you for updating to the latest version!"
+msgstr ""
+
+#: inc/admin/class-about-page.php:212
+msgid "Thanks for using %s theme!"
+msgstr ""
+
+#: inc/admin/class-about-page.php:217
+msgid "%s We hope you will enjoy using it."
+msgstr ""
+
+#: inc/admin/class-about-page.php:221
+msgid ""
+"%s <br> %s is now more stable and secure than ever.<br>We hope you enjoy "
+"using it."
+msgstr ""
+
+#: inc/admin/class-about-page.php:224
+msgid "%s We hope you enjoy using it."
+msgstr ""
+
+#: inc/admin/class-about-page.php:230
+msgid "Getting Started"
+msgstr ""
+
+#: inc/admin/class-about-page.php:232
+msgid "Before Getting Started"
+msgstr ""
+
+#: inc/admin/class-about-page.php:234
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/admin/class-about-page.php:238
+msgid "Troubleshooting"
+msgstr ""
+
+#: inc/admin/class-about-page.php:240
+msgid "Issue Importing the Demo"
+msgstr ""
+
+#: inc/admin/class-about-page.php:241
+msgid "404 error page"
+msgstr ""
+
+#: inc/admin/class-about-page.php:242
+msgid "FAQ"
+msgstr ""
+
+#: inc/admin/class-about-page.php:246
+msgid "Help"
+msgstr ""
+
+#: inc/admin/class-about-page.php:248
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/admin/class-about-page.php:249
+msgid "Update the Theme"
+msgstr ""
+
+#: inc/admin/class-about-page.php:250
+msgid "Bundled Plugin Activation"
+msgstr ""
+
+#: inc/admin/class-about-page.php:272
+msgid "Check that all the requirements below are fulfiled and labeled in green."
+msgstr ""
+
+#: inc/admin/class-about-page.php:275
+msgid "WordPress Environment"
+msgstr ""
+
+#: inc/admin/class-about-page.php:291
+msgid "It is recommended to update the theme to the latest version"
+msgstr ""
+
+#: inc/admin/class-about-page.php:294
+msgid "Theme Version"
+msgstr ""
+
+#: inc/admin/class-about-page.php:303
+msgid "It is recommended to update WordPress to the latest version"
+msgstr ""
+
+#: inc/admin/class-about-page.php:306
+msgid "WP Version"
+msgstr ""
+
+#: inc/admin/class-about-page.php:315
+msgid "It is recommended to increase your WP memory limit to %s at least"
+msgstr ""
+
+#: inc/admin/class-about-page.php:318
+msgid "WP  Limit"
+msgstr ""
+
+#: inc/admin/class-about-page.php:326
+msgid "Server Environment"
+msgstr ""
+
+#: inc/admin/class-about-page.php:333
+msgid "The theme needs at least PHP %s installed on your server"
+msgstr ""
+
+#: inc/admin/class-about-page.php:336
+msgid "PHP Version"
+msgstr ""
+
+#: inc/admin/class-about-page.php:345
+msgid "It is recommended to increase your server max_input_var value to %s at least"
+msgstr ""
+
+#: inc/admin/class-about-page.php:348
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: inc/admin/class-about-page.php:357
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: inc/admin/class-about-page.php:366
+msgid "It is recommended to increase your server memory limit to %s at least"
+msgstr ""
+
+#: inc/admin/class-about-page.php:369
+msgid "Server Memory Limit"
+msgstr ""
+
+#: inc/admin/class-about-page.php:378
+msgid "Max Upload Size"
+msgstr ""
+
+#: inc/admin/class-about-page.php:386
+msgid ""
+"Please check the <a target=\"_blank\" href=\"%s\">server requirements</a> "
+"recommended by WordPress. You can find more informations <a href=\"%s\" "
+"target=\"_blank\">here</a>."
+msgstr ""
+
+#: inc/admin/class-font-options.php:38 inc/admin/class-font-options.php:156
+msgid "Fonts Loader"
+msgstr ""
+
+#: inc/admin/class-font-options.php:38
+msgid "Font Loader"
+msgstr ""
+
+#: inc/admin/class-font-options.php:57
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/admin/class-font-options.php:59
+msgid "Typekit fonts"
+msgstr ""
+
+#: inc/admin/class-font-options.php:90
+msgid ""
+"You can get your fonts on the <a href=\"%s\" target=\"_blank\">Google "
+"Fonts</a> website."
+msgstr ""
+
+#: inc/admin/class-font-options.php:108
+msgid ""
+"You need <a href=\"%s\" target=\"_blank\">Typekit Fonts for WordPress</a> "
+"plugin to import your font kit into your website. <a href=\"%s\" "
+"target=\"_blank\">More infos</a>"
+msgstr ""
+
+#: inc/admin/class-font-options.php:160
+msgid "Save Changes"
+msgstr ""
+
+#: inc/admin/class-menu-item-custom-fields.php:104
+msgid "Mega Menu (only available for first level items)"
+msgstr ""
+
+#: inc/admin/class-menu-item-custom-fields.php:111
+msgid "Mega Menu 2nd level or dropdown item"
+msgstr ""
+
+#: inc/admin/class-menu-item-custom-fields.php:118
+msgid "Hide item on mega menu (for mega menu 2nd level only)"
+msgstr ""
+
+#: inc/admin/class-menu-item-custom-fields.php:126
+msgid "Primary"
+msgstr ""
+
+#: inc/admin/class-menu-item-custom-fields.php:127
+msgid "Secondary"
+msgstr ""
+
+#: inc/admin/class-menu-item-custom-fields.php:129
+msgid "Button Style (only available for first level items)"
+msgstr ""
+
+#: inc/admin/class-menu-item-custom-fields.php:135
+msgid "New"
+msgstr ""
+
+#: inc/admin/class-menu-item-custom-fields.php:141
+msgid "Hot"
+msgstr ""
+
+#: inc/admin/class-menu-item-custom-fields.php:147
+msgid "Sale"
+msgstr ""
+
+#: inc/admin/class-menu-item-custom-fields.php:153
+msgid "Scroll to an anchor"
+msgstr ""
+
+#: inc/admin/class-menu-item-custom-fields.php:157
+msgid "Mega Menu Columns"
+msgstr ""
+
+#: inc/admin/class-menu-item-custom-fields.php:170
+msgid "Optional Mega Menu Tagline (only available for first level items)"
+msgstr ""
+
+#: inc/admin/class-menu-item-custom-fields.php:177
+msgid "Icon"
+msgstr ""
+
+#: inc/admin/class-menu-item-custom-fields.php:194
+msgid "Icon position"
+msgstr ""
+
+#: inc/admin/class-menu-item-custom-fields.php:197
+msgid "before"
+msgstr ""
+
+#: inc/admin/class-menu-item-custom-fields.php:198
+msgid "after"
+msgstr ""
+
+#: inc/admin/gallery-settings.php:31 inc/theme-functions.php:1177
+#: inc/theme-functions.php:1781
+msgid "Simple"
+msgstr ""
+
+#: inc/admin/gallery-settings.php:32
+msgid "Mosaic"
+msgstr ""
+
+#: inc/admin/gallery-settings.php:33
+msgid "Slider (settings below won't be applied)"
+msgstr ""
+
+#: inc/admin/gallery-settings.php:37
+msgid "Custom size"
+msgstr ""
+
+#: inc/admin/gallery-settings.php:43
+msgid "Medium"
+msgstr ""
+
+#: inc/admin/gallery-settings.php:44
+msgid "Large"
+msgstr ""
+
+#: inc/admin/gallery-settings.php:56
+msgid "Hover effect"
+msgstr ""
+
+#: inc/admin/gallery-settings.php:59
+msgid "Scale + Colored to Black and white"
+msgstr ""
+
+#: inc/admin/gallery-settings.php:60
+msgid "Black and white to colored"
+msgstr ""
+
+#: inc/admin/gallery-settings.php:61
+msgid "Colored to Black and white"
+msgstr ""
+
+#: inc/admin/gallery-settings.php:62
+msgid "Scale + Black and white to colored"
+msgstr ""
+
+#: inc/admin/gallery-settings.php:65
+msgid "Note that not all browser support the black and white effect"
+msgstr ""
+
+#: inc/admin/import-functions.php:128
+msgid "Install demo content"
+msgstr ""
+
+#: inc/admin/import-functions.php:131
+msgid ""
+"Importing demo data is the easiest way to setup your theme. It will allow "
+"you to quickly edit everything instead of creating content from scratch."
+msgstr ""
+
+#: inc/admin/import-functions.php:136
+msgid "When you import the data, the following things might happen"
+msgstr ""
+
+#: inc/admin/import-functions.php:139
+msgid ""
+"No existing posts, pages, categories, images, custom post types or any "
+"other data will be deleted or modified."
+msgstr ""
+
+#: inc/admin/import-functions.php:140
+msgid ""
+"Posts, pages, images, widgets, menus and other theme settings will get "
+"imported."
+msgstr ""
+
+#: inc/admin/import-functions.php:141
+msgid "Images will be downloaded from our server."
+msgstr ""
+
+#: inc/admin/import-functions.php:142
+msgid ""
+"Please click on the \"Import\" button only once and wait, it can take a few "
+"minutes."
+msgstr ""
+
+#: inc/admin/import-functions.php:146
+msgid "Important"
+msgstr ""
+
+#: inc/admin/import-functions.php:152
+msgid ""
+"Before you begin, <strong>make sure that your server settings fulfill the "
+"<a href=\"%s\">server requirements</a></strong>."
+msgstr ""
+
+#: inc/admin/import-functions.php:156
+msgid "Make sure all the required plugins are activated."
+msgstr ""
+
+#: inc/admin/import-functions.php:157
+msgid "Deactivate all 3rd party plugins except the one recommended by the theme."
+msgstr ""
+
+#: inc/admin/import-functions.php:158
+msgid ""
+"It is recommended to delete all pages that may have been created by plugins "
+"and empty the trash to avoid duplicate content."
+msgstr ""
+
+#: inc/admin/import-functions.php:159
+msgid ""
+"It is always recommended to run the import on a fresh WordPress "
+"installation."
+msgstr ""
+
+#: inc/admin/import-functions.php:160
+msgid ""
+"Some of the images may be replaced by placeholder images if they are "
+"copyrighted material."
+msgstr ""
+
+#: inc/admin/import-functions.php:161
+msgid ""
+"As custom scripts may be used on the demo website to showcase layout "
+"variation options, some layout example pages may show the default "
+"customizer settings."
+msgstr ""
+
+#: inc/admin/import-functions.php:164
+msgid ""
+"In the case of import failure, we recommend resetting your install before "
+"try it again using <a href=\"%s\" target=\"_blank\">WordPress Reset</a> "
+"plugin."
+msgstr ""
+
+#: inc/admin/import-functions.php:170
+msgid ""
+"If you have any issue importing the demo content, please check the <a "
+"href=\"%s\" target=\"_blank\">plugin troubleshooting documentation</a>."
+msgstr ""
+
+#: inc/admin/import-functions.php:175
+msgid ""
+"Importing the demo content may <strong>take a while</strong>. Have a snack "
+"and don't refresh the page or close the window until it's done!"
+msgstr ""
+
+#: inc/admin/import-functions.php:179
+msgid "Warning"
+msgstr ""
+
+#: inc/admin/import-functions.php:182
+msgid ""
+"Successfully importing the demo data into WordPress is not something we can "
+"guaranty at 100&#37; for all users.<br>There are a lot of variables that "
+"come into play, over which we have no control. Most of the time, the main "
+"issues are <a href=\"%s\" target=\"_blank\">bad shared hosting servers</a>."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:330
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:332
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:370
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:386
+#: inc/admin/lib/class-tgm-plugin-activation.php:861
+#: inc/admin/lib/class-tgm-plugin-activation.php:2488
+#: inc/admin/lib/class-tgm-plugin-activation.php:3435
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:387
+#: inc/admin/lib/class-tgm-plugin-activation.php:3052
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:388
+#: inc/admin/lib/class-tgm-plugin-activation.php:2855
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:390
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:392
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:394
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:580
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:581
+msgid "Update Required"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:695
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:958
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:958
+#: inc/admin/lib/class-tgm-plugin-activation.php:961
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:961
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:1950
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2228
+msgid "Required"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2231
+msgid "Recommended"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2247
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2250
+msgid "External Source"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2253
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2270
+msgid "Not Installed"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2274
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2276
+msgid "Active"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2282
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2285
+msgid "Requires Update"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2288
+msgid "Update recommended"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2347
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2351
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2355
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2445
+msgid "Installed version:"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2453
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2465
+msgid "Available version:"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2488
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2502
+msgid "Plugin"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2503
+msgid "Source"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2508
+msgid "Version"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2509
+msgid "Status"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2556
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2560
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2564
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2632
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2665
+msgid "Install"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2671
+msgid "Update"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2674
+msgid "Activate"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2702
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2704
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2733
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2735
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2819
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2839
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:3051
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:3361
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:3364
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:3366
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:3371
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:3371
+#: inc/admin/lib/class-tgm-plugin-activation.php:3378
+msgid "Show Details"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:3371
+#: inc/admin/lib/class-tgm-plugin-activation.php:3378
+msgid "Hide Details"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:3372
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:3374
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:3376
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:3378
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:3379
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:3381
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/core-functions.php:90
+msgid "Fade Up"
+msgstr ""
+
+#: inc/core-functions.php:91
+msgid "Fade Down"
+msgstr ""
+
+#: inc/core-functions.php:92
+msgid "Fade Left"
+msgstr ""
+
+#: inc/core-functions.php:93
+msgid "Fade Right"
+msgstr ""
+
+#: inc/core-functions.php:94
+msgid "Fade Up Right"
+msgstr ""
+
+#: inc/core-functions.php:95
+msgid "Fade Up Left"
+msgstr ""
+
+#: inc/core-functions.php:96
+msgid "Fade Down Right"
+msgstr ""
+
+#: inc/core-functions.php:97
+msgid "Fade Down Left"
+msgstr ""
+
+#: inc/core-functions.php:99
+msgid "Flip Up"
+msgstr ""
+
+#: inc/core-functions.php:100
+msgid "Flip Down"
+msgstr ""
+
+#: inc/core-functions.php:101
+msgid "Flip Left"
+msgstr ""
+
+#: inc/core-functions.php:102
+msgid "Flip Right"
+msgstr ""
+
+#: inc/core-functions.php:104
+msgid "Slide Up"
+msgstr ""
+
+#: inc/core-functions.php:105
+msgid "Slide Down"
+msgstr ""
+
+#: inc/core-functions.php:106
+msgid "Slide Left"
+msgstr ""
+
+#: inc/core-functions.php:107
+msgid "Slide Right"
+msgstr ""
+
+#: inc/core-functions.php:109
+msgid "Zoom In"
+msgstr ""
+
+#: inc/core-functions.php:110
+msgid "Zoom In Up"
+msgstr ""
+
+#: inc/core-functions.php:111
+msgid "Zoom In Down"
+msgstr ""
+
+#: inc/core-functions.php:112
+msgid "Zoom In Left"
+msgstr ""
+
+#: inc/core-functions.php:113
+msgid "Zoom In Right"
+msgstr ""
+
+#: inc/core-functions.php:114
+msgid "Zoom Out"
+msgstr ""
+
+#: inc/core-functions.php:115
+msgid "Zoom Out Up"
+msgstr ""
+
+#: inc/core-functions.php:116
+msgid "Zoom Out Down"
+msgstr ""
+
+#: inc/core-functions.php:117
+msgid "Zoom Out Left"
+msgstr ""
+
+#: inc/core-functions.php:118
+msgid "Zoom Out Right"
+msgstr ""
+
+#: inc/core-functions.php:880 inc/core-functions.php:881
+#: inc/core-functions.php:882 inc/core-functions.php:883
+#: inc/core-functions.php:884 inc/core-functions.php:885
+msgid "Pattern %d (loop of %d)"
+msgstr ""
+
+#: inc/customizer/class-customizer-library.php:78
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/class-customizer-library.php:451
+msgid "No Background"
+msgstr ""
+
+#: inc/customizer/class-customizer-library.php:497
+msgid "Background Color Opacity (in percent)"
+msgstr ""
+
+#: inc/customizer/class-customizer-library.php:520
+#: inc/customizer/mods/background-image.php:18
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/class-customizer-library.php:544
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/customizer/class-customizer-library.php:571
+msgid "Background Position"
+msgstr ""
+
+#: inc/customizer/class-customizer-library.php:605
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/customizer/class-customizer-library.php:630
+msgid "Background Size"
+msgstr ""
+
+#: inc/customizer/class-customizer-library.php:633
+msgid "Cover"
+msgstr ""
+
+#: inc/customizer/class-customizer-library.php:634
+msgid "Contain"
+msgstr ""
+
+#: inc/customizer/class-customizer-library.php:635
+msgid "100% width"
+msgstr ""
+
+#: inc/customizer/class-customizer-library.php:636
+msgid "100% height"
+msgstr ""
+
+#: inc/customizer/class-customizer-library.php:637
+msgid "Inherit"
+msgstr ""
+
+#: inc/customizer/extensions/preview-layout.php:55
+msgid "hot"
+msgstr ""
+
+#: inc/customizer/extensions/preview-layout.php:59
+msgid "new"
+msgstr ""
+
+#: inc/customizer/extensions/preview-layout.php:63
+msgid "sale"
+msgstr ""
+
+#: inc/customizer/mods/artists.php:20
+msgid "Artists"
+msgstr ""
+
+#: inc/customizer/mods/artists.php:31 inc/customizer/mods/blog.php:29
+#: inc/customizer/mods/discography.php:30 inc/customizer/mods/events.php:31
+#: inc/customizer/mods/shop.php:29 inc/customizer/mods/shop.php:50
+#: inc/customizer/mods/videos.php:30
+msgid "Sidebar at right"
+msgstr ""
+
+#: inc/customizer/mods/artists.php:32 inc/customizer/mods/blog.php:30
+#: inc/customizer/mods/discography.php:31 inc/customizer/mods/events.php:32
+#: inc/customizer/mods/shop.php:30 inc/customizer/mods/shop.php:51
+#: inc/customizer/mods/videos.php:31
+msgid "Sidebar at left"
+msgstr ""
+
+#: inc/customizer/mods/artists.php:35 inc/customizer/mods/blog.php:33
+#: inc/customizer/mods/discography.php:34 inc/customizer/mods/events.php:35
+#: inc/customizer/mods/videos.php:33
+msgid "For \"Sidebar\" layouts, the sidebar will be visible if it contains widgets."
+msgstr ""
+
+#: inc/customizer/mods/artists.php:40 inc/customizer/mods/discography.php:39
+#: inc/customizer/mods/events.php:40 inc/customizer/mods/videos.php:49
+msgid "Display"
+msgstr ""
+
+#: inc/customizer/mods/artists.php:43 inc/customizer/mods/events.php:43
+msgid "List"
+msgstr ""
+
+#: inc/customizer/mods/artists.php:60
+msgid "Artists Archive Pagination"
+msgstr ""
+
+#: inc/customizer/mods/artists.php:65 inc/customizer/mods/blog.php:62
+#: inc/customizer/mods/discography.php:64 inc/customizer/mods/portfolio.php:68
+#: inc/customizer/mods/videos.php:81
+msgid "Load More Button"
+msgstr ""
+
+#: inc/customizer/mods/artists.php:67 inc/customizer/mods/discography.php:66
+#: inc/customizer/mods/portfolio.php:70 inc/customizer/mods/videos.php:83
+msgid ""
+"You must set a number of posts per page below. The category filter will not "
+"be disabled."
+msgstr ""
+
+#: inc/customizer/mods/artists.php:71
+msgid "Artists per Page"
+msgstr ""
+
+#: inc/customizer/mods/blog.php:19
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/mods/blog.php:24
+msgid "Blog Archive Layout"
+msgstr ""
+
+#: inc/customizer/mods/blog.php:38
+msgid "Blog Archive Display"
+msgstr ""
+
+#: inc/customizer/mods/blog.php:47 inc/customizer/mods/portfolio.php:45
+msgid "Padding (for grid style display only)"
+msgstr ""
+
+#: inc/customizer/mods/blog.php:58
+msgid "Blog Archive Pagination"
+msgstr ""
+
+#: inc/customizer/mods/blog.php:68
+msgid "Blog Archive Post Excerpt Type"
+msgstr ""
+
+#: inc/customizer/mods/blog.php:74
+msgid ""
+"Only for the \"Standard\" display type. To split your post manually, you "
+"can use the <a href=\"%s\" target=\"_blank\">\"read more\"</a> tag."
+msgstr ""
+
+#: inc/customizer/mods/blog.php:79 inc/customizer/mods/videos.php:95
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/customizer/mods/blog.php:91
+msgid "Single Post Author Box"
+msgstr ""
+
+#: inc/customizer/mods/blog.php:101
+msgid "Single Post Related Posts"
+msgstr ""
+
+#: inc/customizer/mods/blog.php:110
+msgid "Blog Archive Item Animation"
+msgstr ""
+
+#: inc/customizer/mods/blog.php:118
+msgid "Elements to show by default"
+msgstr ""
+
+#: inc/customizer/mods/blog.php:137
+msgid "Enable Custom Post Meta"
+msgstr ""
+
+#: inc/customizer/mods/blog.php:141
+msgid "Views"
+msgstr ""
+
+#: inc/customizer/mods/blog.php:142
+msgid "Likes"
+msgstr ""
+
+#: inc/customizer/mods/blog.php:143
+msgid "Reading Time"
+msgstr ""
+
+#: inc/customizer/mods/colors.php:24
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer/mods/colors.php:27
+msgid "Color scheme"
+msgstr ""
+
+#: inc/customizer/mods/colors.php:36
+msgid "Body Background Color"
+msgstr ""
+
+#: inc/customizer/mods/colors.php:44
+msgid "Page Background Color"
+msgstr ""
+
+#: inc/customizer/mods/colors.php:52
+msgid "Submenu Background Color"
+msgstr ""
+
+#: inc/customizer/mods/colors.php:60
+msgid "Submenu Font Color"
+msgstr ""
+
+#: inc/customizer/mods/colors.php:75
+msgid "Main Text Color"
+msgstr ""
+
+#: inc/customizer/mods/colors.php:82
+msgid "Strong Text Color"
+msgstr ""
+
+#: inc/customizer/mods/colors.php:86
+msgid "Heading, \"strong\" tags etc..."
+msgstr ""
+
+#: inc/customizer/mods/discography.php:20
+msgid "Discography"
+msgstr ""
+
+#: inc/customizer/mods/discography.php:48
+msgid "Padding (for grid display)"
+msgstr ""
+
+#: inc/customizer/mods/discography.php:59
+msgid "Discography Archive Pagination"
+msgstr ""
+
+#: inc/customizer/mods/discography.php:70
+msgid "Releases per Page"
+msgstr ""
+
+#: inc/customizer/mods/events.php:20 inc/vc-extend.php:101
+msgid "Events"
+msgstr ""
+
+#: inc/customizer/mods/extra.php:23
+msgid "Enable Scroll Animations on Mobile (not recommended)"
+msgstr ""
+
+#: inc/customizer/mods/extra.php:28
+msgid "Enable Parallax on Mobile (not recommended)"
+msgstr ""
+
+#: inc/customizer/mods/fonts.php:32
+msgid "Fonts"
+msgstr ""
+
+#: inc/customizer/mods/fonts.php:38
+msgid "Body Font Name"
+msgstr ""
+
+#: inc/customizer/mods/fonts.php:46
+msgid "Body Font Size"
+msgstr ""
+
+#: inc/customizer/mods/fonts.php:50
+msgid "Don't ommit px. Leave empty to use the default font size."
+msgstr ""
+
+#: inc/customizer/mods/fonts.php:57
+msgid "Menu Font"
+msgstr ""
+
+#: inc/customizer/mods/fonts.php:64
+msgid "Menu Font Weight"
+msgstr ""
+
+#: inc/customizer/mods/fonts.php:72
+msgid "Menu Font Transform"
+msgstr ""
+
+#: inc/customizer/mods/fonts.php:83
+msgid "Submenu Font Transform"
+msgstr ""
+
+#: inc/customizer/mods/fonts.php:93
+msgid "Submenu Font Weight"
+msgstr ""
+
+#: inc/customizer/mods/fonts.php:100
+msgid "Menu Letter Spacing (omit px)"
+msgstr ""
+
+#: inc/customizer/mods/fonts.php:107
+msgid "Submenu Letter Spacing (omit px)"
+msgstr ""
+
+#: inc/customizer/mods/fonts.php:117
+msgid "Heading Font"
+msgstr ""
+
+#: inc/customizer/mods/fonts.php:124
+msgid "Heading Font weight"
+msgstr ""
+
+#: inc/customizer/mods/fonts.php:127
+msgid ""
+"For example: \"400\" is normal, \"700\" is bold.The available font weights "
+"depend on the font."
+msgstr ""
+
+#: inc/customizer/mods/fonts.php:133
+msgid "Heading Font Transform"
+msgstr ""
+
+#: inc/customizer/mods/fonts.php:143
+msgid "Heading Letter Spacing (omit px)"
+msgstr ""
+
+#: inc/customizer/mods/footer-bg.php:18
+msgid "Footer Background"
+msgstr ""
+
+#: inc/customizer/mods/footer.php:24
+msgid "Footer Type"
+msgstr ""
+
+#: inc/customizer/mods/footer.php:29
+msgid "Uncover"
+msgstr ""
+
+#: inc/customizer/mods/footer.php:36
+msgid "Footer Width"
+msgstr ""
+
+#: inc/customizer/mods/footer.php:47
+msgid "Foot Widgets Layout"
+msgstr ""
+
+#: inc/customizer/mods/footer.php:51
+msgid "3 Columns"
+msgstr ""
+
+#: inc/customizer/mods/footer.php:52
+msgid "4 Columns"
+msgstr ""
+
+#: inc/customizer/mods/footer.php:53
+msgid "1 Half/2 Quarters"
+msgstr ""
+
+#: inc/customizer/mods/footer.php:54
+msgid "2 Quarters/1 Half"
+msgstr ""
+
+#: inc/customizer/mods/footer.php:60
+msgid "Bottom Bar Layout"
+msgstr ""
+
+#: inc/customizer/mods/footer.php:65
+msgid "Inline"
+msgstr ""
+
+#: inc/customizer/mods/footer.php:74
+msgid ""
+"The list of social services to display in the bottom bar. (eg: "
+"facebook,twitter,instagram)"
+msgstr ""
+
+#: inc/customizer/mods/footer.php:79
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/mods/footer.php:88
+msgid ""
+"This is the default footer settings. You can leave the fields below empty "
+"and use a <a href=\"%s\" target=\"_blank\">content block</a> instead for "
+"more flexibility. See the customizer \"Layout\" tab or the page options "
+"below your text editor."
+msgstr ""
+
+#: inc/customizer/mods/header-image.php:20
+msgid "Header Image"
+msgstr ""
+
+#: inc/customizer/mods/header.php:24
+msgid "Page Header Layout"
+msgstr ""
+
+#: inc/customizer/mods/header.php:32 inc/theme-functions.php:1764
+msgid "No header"
+msgstr ""
+
+#: inc/customizer/mods/header.php:39
+msgid "Header Image Effect"
+msgstr ""
+
+#: inc/customizer/mods/header.php:50
+msgid "Scroll Down arrow"
+msgstr ""
+
+#: inc/customizer/mods/header.php:59
+msgid "Header Overlay"
+msgstr ""
+
+#: inc/customizer/mods/header.php:89
+msgid ""
+"The header can be overwritten by a <a href=\"%s\" target=\"_blank\">content "
+"block</a> on all pages or on specific pages. See the customizer \"Layout\" "
+"tab or the page options below your text editor."
+msgstr ""
+
+#: inc/customizer/mods/layout.php:44
+msgid "Frame"
+msgstr ""
+
+#: inc/customizer/mods/layout.php:52
+msgid "Button Shape"
+msgstr ""
+
+#: inc/customizer/mods/layout.php:57
+msgid "Round"
+msgstr ""
+
+#: inc/customizer/mods/layout.php:82
+msgid "A block to display below to header or in replacement of the header."
+msgstr ""
+
+#: inc/customizer/mods/layout.php:90
+msgid "A block to display above to footer or in replacement of the footer."
+msgstr ""
+
+#: inc/customizer/mods/loading.php:19 inc/frontend/scripts.php:194
+#: inc/theme-functions.php:1631
+msgid "Loading"
+msgstr ""
+
+#: inc/customizer/mods/loading.php:28
+msgid "Spinner"
+msgstr ""
+
+#: inc/customizer/mods/logo.php:21
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer/mods/logo.php:25
+msgid "Your theme recommends a logo size of <strong>%d &times; %d</strong> pixels."
+msgstr ""
+
+#: inc/customizer/mods/logo.php:36
+msgid "Logo - Dark Version"
+msgstr ""
+
+#: inc/customizer/mods/logo.php:42
+msgid "Logo - Light Version"
+msgstr ""
+
+#: inc/customizer/mods/logo.php:48
+msgid "Logo Max Width (don't ommit px )"
+msgstr ""
+
+#: inc/customizer/mods/logo.php:54
+msgid "Visibility"
+msgstr ""
+
+#: inc/customizer/mods/navigation.php:19
+msgid "Navigation"
+msgstr ""
+
+#: inc/customizer/mods/navigation.php:24
+msgid "Main Menu Layout"
+msgstr ""
+
+#: inc/customizer/mods/navigation.php:33
+msgid "Off Canvas"
+msgstr ""
+
+#: inc/customizer/mods/navigation.php:35
+msgid "Lateral"
+msgstr ""
+
+#: inc/customizer/mods/navigation.php:41
+msgid "Main Menu Width"
+msgstr ""
+
+#: inc/customizer/mods/navigation.php:52
+msgid "Main Menu Style"
+msgstr ""
+
+#: inc/customizer/mods/navigation.php:65
+msgid "Main Menu Hover Style"
+msgstr ""
+
+#: inc/customizer/mods/navigation.php:69
+msgid "Opacity"
+msgstr ""
+
+#: inc/customizer/mods/navigation.php:70 inc/theme-functions.php:1175
+msgid "Underline"
+msgstr ""
+
+#: inc/customizer/mods/navigation.php:71
+msgid "Underline Centered"
+msgstr ""
+
+#: inc/customizer/mods/navigation.php:72
+msgid "Border Top"
+msgstr ""
+
+#: inc/customizer/mods/navigation.php:73
+msgid "Plain"
+msgstr ""
+
+#: inc/customizer/mods/navigation.php:80
+msgid "Mega Menu Width"
+msgstr ""
+
+#: inc/customizer/mods/navigation.php:92
+msgid "Main Menu Breakpoint"
+msgstr ""
+
+#: inc/customizer/mods/navigation.php:94
+msgid ""
+"Below each width would you like to display the mobile menu? 0 will always "
+"show the desktop menu and 99999 will always show the mobile menu."
+msgstr ""
+
+#: inc/customizer/mods/navigation.php:124
+msgid "Can be overwite on single page."
+msgstr ""
+
+#: inc/customizer/mods/navigation.php:143
+msgid "Menu Socials"
+msgstr ""
+
+#: inc/customizer/mods/navigation.php:145
+msgid ""
+"The list of social services to display in the menu. (eg: "
+"facebook,twitter,instagram)"
+msgstr ""
+
+#: inc/customizer/mods/navigation.php:157
+msgid ""
+"Note that it will be disable with a vertical menu layout (offcanvas and "
+"lateral layout)."
+msgstr ""
+
+#: inc/customizer/mods/photos.php:20
+msgid "Stock Photos"
+msgstr ""
+
+#: inc/customizer/mods/photos.php:37
+msgid "Photos Display"
+msgstr ""
+
+#: inc/customizer/mods/photos.php:57
+msgid "Display Author on Single Page"
+msgstr ""
+
+#: inc/customizer/mods/photos.php:63
+msgid "Display Likes"
+msgstr ""
+
+#: inc/customizer/mods/photos.php:69
+msgid "Allow multiple sizes options for downloadable photos."
+msgstr ""
+
+#: inc/customizer/mods/photos.php:74
+msgid "Photos per Page"
+msgstr ""
+
+#: inc/customizer/mods/photos.php:81
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/customizer/mods/photos.php:84
+msgid "Infinite Scroll"
+msgstr ""
+
+#: inc/customizer/mods/photos.php:85
+msgid "Numbers"
+msgstr ""
+
+#: inc/customizer/mods/portfolio.php:21
+msgid "Portfolio"
+msgstr ""
+
+#: inc/customizer/mods/portfolio.php:26
+msgid "Portfolio Layout"
+msgstr ""
+
+#: inc/customizer/mods/portfolio.php:36
+msgid "Portfolio Display"
+msgstr ""
+
+#: inc/customizer/mods/portfolio.php:55
+msgid "Portfolio Post Animation"
+msgstr ""
+
+#: inc/customizer/mods/portfolio.php:63
+msgid "Portfolio Archive Pagination"
+msgstr ""
+
+#: inc/customizer/mods/portfolio.php:74
+msgid "Works per Page"
+msgstr ""
+
+#: inc/customizer/mods/shop.php:19
+msgid "Shop"
+msgstr ""
+
+#: inc/customizer/mods/shop.php:25
+msgid "Products Layout"
+msgstr ""
+
+#: inc/customizer/mods/shop.php:38
+msgid "Products Archive Display"
+msgstr ""
+
+#: inc/customizer/mods/shop.php:46
+msgid "Single Product Layout"
+msgstr ""
+
+#: inc/customizer/mods/shop.php:71
+msgid "Shop Archive Item Animation"
+msgstr ""
+
+#: inc/customizer/mods/shop.php:78
+msgid "Single Product Zoom"
+msgstr ""
+
+#: inc/customizer/mods/shop.php:84
+msgid "Related Products Carousel"
+msgstr ""
+
+#: inc/customizer/mods/shop.php:90
+msgid "Add a \"Cart\" Menu Item"
+msgstr ""
+
+#: inc/customizer/mods/shop.php:96
+msgid "Add a \"Account\" Menu Item"
+msgstr ""
+
+#: inc/customizer/mods/shop.php:102
+msgid "Search Menu Item"
+msgstr ""
+
+#: inc/customizer/mods/shop.php:108
+msgid "Products per Page"
+msgstr ""
+
+#: inc/customizer/mods/shop.php:119
+msgid "Wishlist Menu Item"
+msgstr ""
+
+#: inc/customizer/mods/socials.php:22
+msgid "Social Networks"
+msgstr ""
+
+#: inc/customizer/mods/videos.php:19 inc/vc-extend.php:97
+msgid "Videos"
+msgstr ""
+
+#: inc/customizer/mods/videos.php:57
+msgid "Video Archive Item Animation"
+msgstr ""
+
+#: inc/customizer/mods/videos.php:64
+msgid "On Click"
+msgstr ""
+
+#: inc/customizer/mods/videos.php:68
+msgid "Open Video in Lightbox"
+msgstr ""
+
+#: inc/customizer/mods/videos.php:69
+msgid "Go to the Video Page"
+msgstr ""
+
+#: inc/customizer/mods/videos.php:76
+msgid "Video Archive Pagination"
+msgstr ""
+
+#: inc/customizer/mods/videos.php:87
+msgid "Videos per Page"
+msgstr ""
+
+#: inc/customizer/mods/wvc.php:19
+msgid "Add newsletter form below single post"
+msgstr ""
+
+#: inc/customizer/mods/wvc.php:21
+msgid "Display a newsletter sign up form at the bottom of each blog post."
+msgstr ""
+
+#: inc/frontend/class-walker-comment.php:62
+msgid "Edit this comment"
+msgstr ""
+
+#: inc/frontend/class-walker-comment.php:64
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/frontend/class-walker-comment.php:71
+msgid "Reply"
+msgstr ""
+
+#: inc/frontend/featured-media.php:31 inc/frontend/featured-media.php:108
+#: inc/frontend/featured-media.php:138
+msgid "Permalink to %s"
+msgstr ""
+
+#: inc/frontend/hooks/navigation.php:249
+msgid "View more posts"
+msgstr ""
+
+#: inc/frontend/hooks/navigation.php:257 inc/frontend/hooks/navigation.php:265
+msgid "View more products"
+msgstr ""
+
+#: inc/frontend/hooks/navigation.php:273
+msgid "View more works"
+msgstr ""
+
+#: inc/frontend/hooks/navigation.php:281
+msgid "View more events"
+msgstr ""
+
+#: inc/frontend/hooks/navigation.php:289
+msgid "View more videos"
+msgstr ""
+
+#: inc/frontend/hooks/navigation.php:296
+msgid "View more albums"
+msgstr ""
+
+#: inc/frontend/hooks/navigation.php:303
+msgid "View more releases"
+msgstr ""
+
+#: inc/frontend/hooks/navigation.php:310
+msgid "View more photos"
+msgstr ""
+
+#: inc/frontend/hooks/post.php:37
+#. translators: 1: number of comments, 2: post title
+msgid "%d result"
+msgid_plural "%d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/frontend/hooks/post.php:66
+msgid "Posted On %s"
+msgstr ""
+
+#: inc/frontend/hooks/post.php:71
+msgid "In <a href=\"%s\" title=\"View all posts in the %s category\">%s</a>"
+msgstr ""
+
+#: inc/frontend/hooks/post.php:87 inc/frontend/template-tags.php:177
+#: inc/frontend/template-tags.php:194
+msgid "View all posts by %s"
+msgstr ""
+
+#: inc/frontend/hooks/post.php:109
+msgid "<a class=\"scroll link\" href=\"#content\">%d Photos</a>"
+msgstr ""
+
+#: inc/frontend/hooks/post.php:328
+msgid "Previous"
+msgstr ""
+
+#: inc/frontend/hooks/post.php:341
+msgid "Main Page"
+msgstr ""
+
+#: inc/frontend/hooks/post.php:353
+msgid "Next"
+msgstr ""
+
+#: inc/frontend/hooks/site.php:88
+msgid "Back to the top"
+msgstr ""
+
+#: inc/frontend/menu-functions.php:254
+msgid "Add Menu"
+msgstr ""
+
+#: inc/frontend/post.php:878
+msgid "No past event."
+msgstr ""
+
+#: inc/frontend/post.php:882
+msgid "No upcoming shows scheduled."
+msgstr ""
+
+#: inc/frontend/post.php:888
+msgid "No release yet."
+msgstr ""
+
+#: inc/frontend/post.php:892
+msgid "Is there a featured image set for each of your releases?"
+msgstr ""
+
+#: inc/frontend/post.php:897
+msgid "No video yet."
+msgstr ""
+
+#: inc/frontend/post.php:901
+msgid "Is there a featured image set for each of your videos?"
+msgstr ""
+
+#: inc/frontend/post.php:906
+msgid "No work yet."
+msgstr ""
+
+#: inc/frontend/query-functions.php:89
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/frontend/query-functions.php:93
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/frontend/scripts.php:192
+msgid "Post a comment"
+msgstr ""
+
+#: inc/frontend/scripts.php:193
+msgid "Edit Post"
+msgstr ""
+
+#: inc/frontend/scripts.php:195
+msgid "No more post to load"
+msgstr ""
+
+#: inc/frontend/scripts.php:197
+msgid "The infinitescroll is disabled in live preview mode"
+msgstr ""
+
+#: inc/frontend/scripts.php:198 inc/theme-functions.php:1605
+msgid "Add to cart"
+msgstr ""
+
+#: inc/frontend/scripts.php:199
+msgid "View cart"
+msgstr ""
+
+#: inc/frontend/scripts.php:200
+msgid "Added to cart"
+msgstr ""
+
+#: inc/frontend/scripts.php:201
+msgid "Play"
+msgstr ""
+
+#: inc/frontend/scripts.php:202
+msgid "Pause"
+msgstr ""
+
+#: inc/frontend/template-tags.php:63
+msgid "<span class=\"wolf-likes-count\">%s</span> likes"
+msgstr ""
+
+#: inc/frontend/template-tags.php:74
+msgid "%s views"
+msgstr ""
+
+#: inc/frontend/template-tags.php:79
+msgid "%s min"
+msgstr ""
+
+#: inc/frontend/template-tags.php:86
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/frontend/template-tags.php:111 inc/frontend/template-tags.php:112
+msgid "%s ago"
+msgstr ""
+
+#: inc/frontend/template-tags.php:195
+msgid "by"
+msgstr ""
+
+#: inc/frontend/template-tags.php:447
+msgid "Visit %s's %s profile"
+msgstr ""
+
+#: inc/frontend/template-tags.php:452
+msgid "Send an email to %s"
+msgstr ""
+
+#: inc/frontend/template-tags.php:466
+msgid "Visit %s's Facebook profile"
+msgstr ""
+
+#: inc/frontend/template-tags.php:473
+msgid "Visit %s's Google+ profile"
+msgstr ""
+
+#: inc/frontend/template-tags.php:478
+msgid "Visit %s's website"
+msgstr ""
+
+#: inc/frontend/template-tags.php:538 inc/frontend/template-tags.php:545
+msgid "Sign In or Register"
+msgstr ""
+
+#: inc/frontend/template-tags.php:542
+msgid "My account"
+msgstr ""
+
+#: inc/frontend/template-tags.php:614
+msgid "Cart"
+msgstr ""
+
+#: inc/frontend/template-tags.php:712
+msgid "Subtotal"
+msgstr ""
+
+#: inc/frontend/template-tags.php:721
+msgid "View Cart"
+msgstr ""
+
+#: inc/frontend/template-tags.php:725
+msgid "Checkout"
+msgstr ""
+
+#: inc/frontend/template-tags.php:729
+msgid "No product in cart yet."
+msgstr ""
+
+#: inc/frontend/template-tags.php:954 inc/frontend/template-tags.php:973
+msgid "Search results for %s"
+msgstr ""
+
+#: inc/frontend/template-tags.php:1057
+msgid ""
+"This content is password protected. To view it please enter your password "
+"below:"
+msgstr ""
+
+#: inc/frontend/template-tags.php:1058
+msgid "Password:"
+msgstr ""
+
+#: inc/frontend/template-tags.php:1073
+msgid "Continue reading"
+msgstr ""
+
+#: inc/frontend/template-tags.php:1346
+msgid "Watch"
+msgstr ""
+
+#: inc/frontend/template-tags.php:1355
+msgid "Listen"
+msgstr ""
+
+#: inc/frontend/template-tags.php:1376
+msgid "Shop Now"
+msgstr ""
+
+#: inc/frontend/template-tags.php:1382
+msgid "View post"
+msgstr ""
+
+#: inc/sidebars.php:26
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:28
+msgid "Add widgets here to appear in your blog sidebar."
+msgstr ""
+
+#: inc/sidebars.php:39
+msgid "Page Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:41
+msgid "Add widgets here to appear in your page sidebar."
+msgstr ""
+
+#: inc/sidebars.php:52
+msgid "Side Panel Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:54
+msgid "Add widgets here to appear in your side panel if enabled."
+msgstr ""
+
+#: inc/sidebars.php:65
+msgid "Footer Widget Area"
+msgstr ""
+
+#: inc/sidebars.php:67
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: inc/sidebars.php:79
+msgid "Discography Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:81
+msgid "Appears on the discography pages if a layout with sidebar is set"
+msgstr ""
+
+#: inc/sidebars.php:94
+msgid "Videos Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:96
+msgid "Appears on the videos pages if a layout with sidebar is set"
+msgstr ""
+
+#: inc/sidebars.php:109
+msgid "Albums Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:111
+msgid "Appears on the albums pages if a layout with sidebar is set"
+msgstr ""
+
+#: inc/sidebars.php:124
+msgid "Photo Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:126
+msgid "Appears before the image details on single photo pages"
+msgstr ""
+
+#: inc/sidebars.php:136
+msgid "Photo Sidebar Secondary"
+msgstr ""
+
+#: inc/sidebars.php:138
+msgid "Appears after the image details on single photo pages"
+msgstr ""
+
+#: inc/sidebars.php:151
+msgid "Events Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:153
+msgid "Appears on the events pages if a layout with sidebar is set"
+msgstr ""
+
+#: inc/sidebars.php:166
+msgid "Artists Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:168
+msgid "Appears on the artists pages if a layout with sidebar is set"
+msgstr ""
+
+#: inc/sidebars.php:181
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:183
+msgid "Add widgets here to appear in your shop page if a sidebar is visible."
+msgstr ""
+
+#: inc/theme-functions.php:111
+msgid "Tertiary Menu (Vertical bar optional menu)"
+msgstr ""
+
+#: inc/theme-functions.php:323
+msgid "Tertiary Menu"
+msgstr ""
+
+#: inc/theme-functions.php:324
+msgid "Toggle Panel (vertical bar widgets area content)"
+msgstr ""
+
+#: inc/theme-functions.php:325
+msgid "Toggle Overlay Menu"
+msgstr ""
+
+#: inc/theme-functions.php:326
+msgid "Tagline or Copyright Text"
+msgstr ""
+
+#: inc/theme-functions.php:330
+msgid "Toggle Overlay (set the overlay content below)"
+msgstr ""
+
+#: inc/theme-functions.php:334
+msgid "Toggle Newsletter Pop-up"
+msgstr ""
+
+#: inc/theme-functions.php:374
+msgid "Newsletter"
+msgstr ""
+
+#: inc/theme-functions.php:419
+msgid "Vertical Bar Panel Sidebar"
+msgstr ""
+
+#: inc/theme-functions.php:421
+msgid "Add widgets here to appear in the vertical bar panel."
+msgstr ""
+
+#: inc/theme-functions.php:442 inc/theme-functions.php:1517
+msgid "Metro"
+msgstr ""
+
+#: inc/theme-functions.php:457 inc/theme-functions.php:471
+#: inc/theme-functions.php:1516
+msgid "Masonry"
+msgstr ""
+
+#: inc/theme-functions.php:580
+msgid "Show Panel"
+msgstr ""
+
+#: inc/theme-functions.php:731 woocommerce/single-product/meta.php:57
+msgid "Wishlist"
+msgstr ""
+
+#: inc/theme-functions.php:735
+msgid "View details"
+msgstr ""
+
+#: inc/theme-functions.php:809 woocommerce/single-product/product-image.php:57
+msgid "Awaiting product image"
+msgstr ""
+
+#: inc/theme-functions.php:823 inc/theme-functions.php:1408
+msgid "Read more"
+msgstr ""
+
+#: inc/theme-functions.php:854
+msgid "Theme Secondary Accent Color"
+msgstr ""
+
+#: inc/theme-functions.php:922
+msgid "Search Product Icon"
+msgstr ""
+
+#: inc/theme-functions.php:959
+msgid "Details & Info"
+msgstr ""
+
+#: inc/theme-functions.php:1069 inc/theme-functions.php:1082
+#: inc/theme-functions.php:1096 inc/theme-functions.php:1114
+msgid "Button Type"
+msgstr ""
+
+#: inc/theme-functions.php:1087
+msgid "Button"
+msgstr ""
+
+#: inc/theme-functions.php:1101
+msgid "Button 1"
+msgstr ""
+
+#: inc/theme-functions.php:1119
+msgid "Button 2"
+msgstr ""
+
+#: inc/theme-functions.php:1132
+msgid "Style"
+msgstr ""
+
+#: inc/theme-functions.php:1136
+msgid "Theme Style"
+msgstr ""
+
+#: inc/theme-functions.php:1171
+msgid "Hover Effect"
+msgstr ""
+
+#: inc/theme-functions.php:1176
+msgid "Big White Border"
+msgstr ""
+
+#: inc/theme-functions.php:1432
+msgid "You May Also Like"
+msgstr ""
+
+#: inc/theme-functions.php:1622
+msgid "Secondary Accent Color"
+msgstr ""
+
+#: inc/theme-functions.php:1642
+msgid "Overlay with animation"
+msgstr ""
+
+#: inc/theme-functions.php:1710
+msgid ""
+"The list of social services to display if the \"social icons\" option is "
+"chosen. (eg: facebook,twitter,instagram)"
+msgstr ""
+
+#: inc/theme-functions.php:1715
+msgid "Tagline"
+msgstr ""
+
+#: inc/theme-functions.php:1717
+msgid "A short text to display if the \"tagline\" option is chosen."
+msgstr ""
+
+#: inc/theme-functions.php:1748
+msgid "Product Thumbnail Padding"
+msgstr ""
+
+#: inc/theme-functions.php:1755
+msgid "Single Post Header Layout"
+msgstr ""
+
+#: inc/theme-functions.php:1779
+msgid "Outline"
+msgstr ""
+
+#: inc/theme-functions.php:1780
+msgid "Outline Secondary"
+msgstr ""
+
+#: inc/vc-extend.php:35
+msgid "Theme Accent Color"
+msgstr ""
+
+#: inc/vc-extend.php:89
+msgid "Gallery"
+msgstr ""
+
+#: inc/vc-extend.php:93
+msgid "Release"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:28
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:29
+msgid "SKU"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:29
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:36
+msgid "Tag"
+msgid_plural "Tags"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Prequelle"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid ""
+"https://themeforest.net/item/prequelle-elegant-and-modern-woocommerce-theme/"
+"22202312?ref=wolf-themes"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Elegant and Modern WooCommerce Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WolfThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wolfthemes.com"
+msgstr ""
+
+#: comments.php:34
+#. translators: %s: post title
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:38
+#. translators: 1: number of comments, 2: post title
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:1121
+#: inc/admin/lib/class-tgm-plugin-activation.php:2851
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2297
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2343
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/lib/class-tgm-plugin-activation.php:2437
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/fonts.php:77
+#. Translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: inc/frontend/template-tags.php:1058
+msgctxt "post password form"
+msgid "Enter"
+msgstr ""
+
+#: inc/theme-functions.php:831
+msgctxt "placeholder"
+msgid "Search&hellip;"
+msgstr ""
+
+#: searchform.php:17
+msgctxt "placeholder"
+msgid "Type and hit enter&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:27
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+#: searchform.php:15 woocommerce/product-searchform.php:27
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:18
+msgctxt "submit button"
+msgid "Type and hit enter"
+msgstr ""
+
+#: woocommerce/product-searchform.php:28
+msgctxt "submit button"
+msgid "Search"
+msgstr ""

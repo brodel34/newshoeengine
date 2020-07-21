@@ -1,0 +1,65 @@
+.fancybox-mediaelement-container,
+body,
+html,
+iframe {
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: transparent;
+}
+
+.fancybox-mediaelement-container {
+  width: 100%;
+  height: 100%;
+  display: table;
+}
+
+.fancybox-mediaelement-inner {
+  display: table-cell;
+  width: 100%;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.fancybox-mediaelement-container .wp-video,
+.fancybox-mediaelement-container video.wp-video-shortcode,
+.fancybox-mediaelement-container .mejs-container,
+.fancybox-mediaelement-container .mejs-poster,
+.fancybox-mediaelement-container .mejs-overlay.load {
+  width: 100% !important;
+}
+.fancybox-mediaelement-container .mejs-poster {
+  height: 100% !important;
+}
+.fancybox-mediaelement-container .mejs-layer {
+  height: auto;
+}
+.fancybox-mediaelement-container video {
+  width: 100% !important;
+  height: 100% !important;
+}
+.fancybox-mediaelement-container .mejs-container {
+  height: auto !important;
+  padding-top: 56.25%;
+}
+.fancybox-mediaelement-container .wp-video, .fancybox-mediaelement-container video.wp-video-shortcode {
+  max-width: 100% !important;
+}
+.fancybox-mediaelement-container video.wp-video-shortcode {
+  position: relative;
+}
+.fancybox-mediaelement-container .mejs-mediaelement {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.fancybox-mediaelement-container .mejs-overlay-play {
+  display: none !important;
+}
+.fancybox-mediaelement-container .mejs-overlay-loading {
+  display: none;
+}

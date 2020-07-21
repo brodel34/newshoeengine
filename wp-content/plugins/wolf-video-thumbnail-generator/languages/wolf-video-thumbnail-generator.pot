@@ -1,0 +1,98 @@
+# Copyright (C) 2018 WolfThemes
+# This file is distributed under the same license as the Wolf Video Thumbnail Generator package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Wolf Video Thumbnail Generator 1.0.5\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/wolf-video-thumbnail-generator\n"
+"POT-Creation-Date: 2018-01-05 19:18:36+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: inc/admin/class-wvtg-video-thumbnail.php:98
+msgid ""
+"Error retrieving video information from the URL <a href=\"%1$s\">%1$s</a>. "
+"If opening that URL in your web browser returns anything else than an error "
+"page, the problem may be related to your web server and might be something "
+"your host administrator can solve."
+msgstr ""
+
+#: inc/admin/class-wvtg-video-thumbnail.php:442
+#: inc/admin/class-wvtg-video-thumbnail.php:601
+msgid "Reset"
+msgstr ""
+
+#: inc/admin/class-wvtg-video-thumbnail.php:443
+#: inc/admin/class-wvtg-video-thumbnail.php:602
+msgid "Delete"
+msgstr ""
+
+#: inc/admin/class-wvtg-video-thumbnail.php:468
+msgid "Remove featured image"
+msgstr ""
+
+#: inc/admin/class-wvtg-video-thumbnail.php:479
+msgid "Working..."
+msgstr ""
+
+#: inc/admin/class-wvtg-video-thumbnail.php:524
+msgid "Set featured image"
+msgstr ""
+
+#: inc/admin/class-wvtg-video-thumbnail.php:597
+msgid "No video URL in the post."
+msgstr ""
+
+#: inc/admin/class-wvtg-video-thumbnail.php:598
+msgid ""
+"A video has been attached to this post. Click on \"Generate\" to create a "
+"thumbnail from this video"
+msgstr ""
+
+#: inc/admin/class-wvtg-video-thumbnail.php:599
+msgid ""
+"You will be able to generate a video thumbnail and use it as featured image "
+"for this post when it is published."
+msgstr ""
+
+#: inc/admin/class-wvtg-video-thumbnail.php:600
+msgid "Generate"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Wolf Video Thumbnail Generator"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wolfthemes.com/plugin/wolf-video-thumbnail-generator"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Generate an image from the first video in the post. Supports YouTube and "
+"Vimeo."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WolfThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wolfthemes.com"
+msgstr ""

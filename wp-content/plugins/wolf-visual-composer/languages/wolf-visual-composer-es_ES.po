@@ -1,0 +1,4374 @@
+# Copyright (C) 2017 WolfThemes
+# This file is distributed under the same license as the Wolf WPBakery Page Builder Extension package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Wolf WPBakery Page Builder Extension 3.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wolf-visual-"
+"composer\n"
+"POT-Creation-Date: 2017-11-30 17:39:22+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-11-30 19:22+0100\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Last-Translator: WolfThemes <help@wolfthemes.com>\n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: dev\n"
+"X-Poedit-SearchPathExcluded-1: pack\n"
+
+#: inc/admin/admin-options.php:85
+msgid "Google Map"
+msgstr ""
+
+#: inc/admin/admin-options.php:92
+msgid "Google Map API key"
+msgstr ""
+
+#: inc/admin/admin-options.php:94
+msgid ""
+"You can get a Google Map API key <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: inc/admin/admin-options.php:102 inc/elements/mailchimp.php:17
+msgid "MailChimp"
+msgstr ""
+
+#: inc/admin/admin-options.php:109
+msgid "MailChimp API key"
+msgstr ""
+
+#: inc/admin/admin-options.php:111
+msgid ""
+"You can get a MailChimp API key <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: inc/admin/admin-options.php:119
+msgid "Default MailChimp list ID"
+msgstr ""
+
+#: inc/admin/admin-options.php:121
+msgid "<a href=\"%s\" target=\"_blank\">Find Your List ID</a>."
+msgstr ""
+
+#: inc/admin/admin-options.php:129
+msgid "Newsletter form title"
+msgstr ""
+
+#: inc/admin/admin-options.php:130 inc/admin/class-options.php:378
+msgid "Subscribe to our newsletter"
+msgstr ""
+
+#: inc/admin/admin-options.php:136
+msgid "\"Subscribe\" button text"
+msgstr ""
+
+#: inc/admin/admin-options.php:137 inc/admin/class-options.php:379
+#: inc/mailchimp.php:30 templates/wvc_mailchimp.php:21
+msgid "Subscribe"
+msgstr ""
+
+#: inc/admin/admin-options.php:143
+msgid "Form input placeholder"
+msgstr ""
+
+#: inc/admin/admin-options.php:144
+msgid "e.g: your email"
+msgstr ""
+
+#: inc/admin/admin-options.php:150
+msgid "Background image"
+msgstr ""
+
+#: inc/admin/admin-options.php:157
+msgid "Fonts Loader"
+msgstr ""
+
+#: inc/admin/admin-options.php:164
+msgid "Google fonts"
+msgstr ""
+
+#: inc/admin/admin-options.php:166
+msgid ""
+"You can get your fonts on the <a href=\"%s\" target=\"_blank\">Google Fonts</"
+"a> website."
+msgstr ""
+
+#: inc/admin/admin-options.php:174
+msgid "Social Profiles"
+msgstr ""
+
+#: inc/admin/admin-scripts.php:40
+msgid "Select an image"
+msgstr ""
+
+#: inc/admin/admin-scripts.php:41
+msgid "Select a set of images"
+msgstr ""
+
+#: inc/admin/admin-scripts.php:42
+msgid "Select a file"
+msgstr ""
+
+#: inc/admin/admin-scripts.php:43
+msgid "This will remove the entire image set"
+msgstr ""
+
+#: inc/admin/class-admin.php:62
+msgid "Settings"
+msgstr ""
+
+#: inc/admin/class-options.php:205 inc/admin/class-options.php:235
+msgid "Clear"
+msgstr ""
+
+#: inc/admin/class-options.php:206 inc/admin/class-options.php:236
+msgid "Choose an image"
+msgstr ""
+
+#: inc/admin/class-options.php:218 inc/admin/tinymce/popup/highlight.php:39
+#: inc/elements/progress-bar.php:68 inc/elements/progress-bar.php:110
+#: inc/elements/separator.php:74 inc/elements/service-table.php:114
+#: inc/elements/service-table.php:146 inc/elements/zigzag.php:25
+#: inc/params/button-params.php:88
+msgid "Color"
+msgstr ""
+
+#: inc/admin/class-options.php:230 inc/elements/advanced-slide.php:267
+#: inc/elements/advanced-slide.php:275 inc/elements/audio.php:34
+#: inc/elements/banner.php:26 inc/elements/image-link.php:26
+#: inc/elements/interactive-link-item.php:37 inc/elements/item-price.php:78
+#: inc/elements/single-image.php:34 inc/elements/video-self-hosted.php:32
+#: inc/params/icon-params.php:36
+msgid "Image"
+msgstr ""
+
+#: inc/admin/class-options.php:247
+msgid "Repeat"
+msgstr ""
+
+#: inc/admin/class-options.php:273 inc/params/icon-params.php:419
+msgid "Position"
+msgstr ""
+
+#: inc/admin/class-options.php:287
+msgid "cover (resize)"
+msgstr ""
+
+#: inc/admin/class-options.php:288 inc/elements/typed.php:92
+msgid "normal"
+msgstr ""
+
+#: inc/admin/class-options.php:289
+msgid "responsive (hard resize)"
+msgstr ""
+
+#: inc/admin/class-options.php:294 inc/admin/tinymce/popup/button.php:60
+#: inc/admin/tinymce/popup/mailchimp.php:23
+#: inc/admin/tinymce/popup/socials.php:37
+#: inc/elements/bandsintown-tracking-button.php:33
+#: inc/elements/mailchimp.php:58 inc/elements/social-icons.php:135
+#: inc/params/button-params.php:146 inc/params/icon-params.php:445
+msgid "Size"
+msgstr ""
+
+#: inc/admin/class-options.php:314
+msgid "Attachment"
+msgstr ""
+
+#: inc/admin/class-options.php:339
+msgid "Page Builder Settings"
+msgstr ""
+
+#: inc/admin/class-options.php:342
+msgid "Settings saved."
+msgstr ""
+
+#: inc/admin/class-options.php:348
+msgid "Save Changes"
+msgstr ""
+
+#: inc/admin/class-options.php:380
+msgid "your email"
+msgstr ""
+
+#: inc/admin/class-tiny-mce-shortcodes.php:115
+#: inc/admin/tinymce/popup/anchor.php:11
+msgid "Anchor"
+msgstr ""
+
+#: inc/admin/class-tiny-mce-shortcodes.php:116
+#: inc/admin/tinymce/popup/dropcap.php:18
+msgid "Dropcap"
+msgstr ""
+
+#: inc/admin/class-tiny-mce-shortcodes.php:117
+#: inc/admin/tinymce/popup/button.php:31 inc/admin/tinymce/popup/button.php:37
+#: inc/params/button-params.php:62
+msgid "Button"
+msgstr ""
+
+#: inc/admin/class-tiny-mce-shortcodes.php:118
+msgid "Notifications"
+msgstr ""
+
+#: inc/admin/class-tiny-mce-shortcodes.php:119
+msgid "Highlight"
+msgstr ""
+
+#: inc/admin/class-tiny-mce-shortcodes.php:120
+msgid "Spacer"
+msgstr ""
+
+#: inc/admin/class-tiny-mce-shortcodes.php:122
+#: inc/admin/tinymce/popup/fittext.php:18
+msgid "Headline"
+msgstr ""
+
+#: inc/admin/class-tiny-mce-shortcodes.php:123
+#: inc/admin/tinymce/popup/socials.php:11 inc/class-widget-socials.php:36
+#: inc/elements/social-icons-custom.php:47 inc/elements/team-member.php:215
+msgid "Socials"
+msgstr ""
+
+#: inc/admin/class-tiny-mce-shortcodes.php:124
+msgid "Fonts"
+msgstr ""
+
+#: inc/admin/class-tiny-mce-shortcodes.php:125
+msgid "Insert a shortcode"
+msgstr ""
+
+#: inc/admin/tinymce/load.php:22
+msgid "Wrap selection"
+msgstr ""
+
+#: inc/admin/tinymce/load.php:22
+msgid "Insert"
+msgstr ""
+
+#: inc/admin/tinymce/load.php:82 inc/elements/progress-bar.php:54
+msgid "Label"
+msgstr ""
+
+#: inc/admin/tinymce/popup/alert.php:11 inc/elements/message.php:17
+msgid "Notification"
+msgstr ""
+
+#: inc/admin/tinymce/popup/alert.php:16
+msgid "Message"
+msgstr ""
+
+#: inc/admin/tinymce/popup/alert.php:17
+msgid "Your notification message"
+msgstr ""
+
+#: inc/admin/tinymce/popup/alert.php:22 inc/admin/tinymce/popup/button.php:67
+#: inc/admin/tinymce/popup/socials.php:26 inc/elements/album-disc.php:38
+#: inc/elements/message.php:25 inc/elements/twitter.php:40
+msgid "Type"
+msgstr ""
+
+#: inc/admin/tinymce/popup/alert.php:25
+msgid "success"
+msgstr ""
+
+#: inc/admin/tinymce/popup/alert.php:26
+msgid "info"
+msgstr ""
+
+#: inc/admin/tinymce/popup/alert.php:27
+msgid "tip"
+msgstr ""
+
+#: inc/admin/tinymce/popup/alert.php:28
+msgid "error"
+msgstr ""
+
+#: inc/admin/tinymce/popup/anchor.php:16
+msgid "ID"
+msgstr ""
+
+#: inc/admin/tinymce/popup/button.php:12
+msgid "theme color"
+msgstr ""
+
+#: inc/admin/tinymce/popup/button.php:13
+msgid "theme color black/white on hover"
+msgstr ""
+
+#: inc/admin/tinymce/popup/button.php:14
+msgid "black/white"
+msgstr ""
+
+#: inc/admin/tinymce/popup/button.php:15
+msgid "black/white theme color on hover"
+msgstr ""
+
+#: inc/admin/tinymce/popup/button.php:19 inc/admin/tinymce/popup/socials.php:31
+#: inc/core-functions.php:275 inc/elements/social-icons.php:66
+#: inc/params/button-params.php:119 inc/params/icon-params.php:324
+msgid "Square"
+msgstr ""
+
+#: inc/admin/tinymce/popup/button.php:20 inc/params/button-params.php:118
+msgid "Round"
+msgstr ""
+
+#: inc/admin/tinymce/popup/button.php:24 inc/admin/tinymce/popup/socials.php:41
+#: inc/core-functions.php:279 inc/elements/social-icons.php:139
+#: inc/params/icon-params.php:449
+msgid "Medium"
+msgstr ""
+
+#: inc/admin/tinymce/popup/button.php:25 inc/admin/tinymce/popup/socials.php:40
+#: inc/elements/advanced-slide.php:398
+#: inc/elements/bandsintown-tracking-button.php:37
+#: inc/elements/social-icons.php:138 inc/params/icon-params.php:448
+msgid "Small"
+msgstr ""
+
+#: inc/admin/tinymce/popup/button.php:26
+#: inc/admin/tinymce/popup/mailchimp.php:27
+#: inc/admin/tinymce/popup/socials.php:42 inc/core-functions.php:278
+#: inc/elements/advanced-slide.php:397
+#: inc/elements/bandsintown-tracking-button.php:36
+#: inc/elements/mailchimp.php:62 inc/elements/social-icons.php:140
+#: inc/params/icon-params.php:450
+msgid "Large"
+msgstr ""
+
+#: inc/admin/tinymce/popup/button.php:36 inc/admin/tinymce/popup/fittext.php:23
+#: inc/elements/column-text.php:27 inc/elements/counter.php:103
+#: inc/elements/custom-heading.php:27 inc/elements/image-link.php:103
+#: inc/elements/interactive-link-item.php:36
+#: inc/elements/interactive-link-item.php:55 inc/elements/item-price.php:58
+#: inc/elements/process-item.php:80 inc/elements/testimonial-slide.php:26
+#: inc/params/bigtext-params.php:34 inc/params/button-params.php:72
+#: inc/params/icon-params.php:462 inc/params/icon-params.php:470
+#: inc/params/icon-params.php:477 inc/params/icon-params.php:489
+#: inc/params/icon-params.php:505 inc/params/icon-params.php:512
+#: inc/params/icon-params.php:517 inc/params/icon-params.php:520
+#: inc/params/icon-params.php:544 inc/params/icon-params.php:551
+msgid "Text"
+msgstr ""
+
+#: inc/admin/tinymce/popup/button.php:42 inc/elements/album-disc.php:64
+#: inc/elements/album-tracklist-item.php:77 inc/elements/custom-heading.php:165
+#: inc/elements/image-link.php:161 inc/elements/interactive-link-item.php:67
+#: inc/elements/process-item.php:88 inc/elements/service-table.php:87
+#: inc/elements/team-member.php:189 inc/elements/testimonial-slide.php:47
+#: inc/params/bigtext-params.php:119 inc/params/icon-params.php:542
+msgid "Link"
+msgstr ""
+
+#: inc/admin/tinymce/popup/button.php:43
+msgid "http://"
+msgstr ""
+
+#: inc/admin/tinymce/popup/button.php:48 inc/elements/banner.php:182
+#: inc/elements/image-link.php:116 inc/elements/pricing-table.php:49
+msgid "Tagline"
+msgstr ""
+
+#: inc/admin/tinymce/popup/button.php:74
+msgid "Open link in a new tab"
+msgstr ""
+
+#: inc/admin/tinymce/popup/button.php:81
+msgid "Scroll to anchor"
+msgstr ""
+
+#: inc/admin/tinymce/popup/button.php:88 inc/elements/counter.php:131
+msgid "Add Icon"
+msgstr ""
+
+#: inc/admin/tinymce/popup/button.php:95 inc/params/icon-params.php:34
+#: inc/params/icon-params.php:69 inc/params/icon-params.php:84
+#: inc/params/icon-params.php:100 inc/params/icon-params.php:116
+#: inc/params/icon-params.php:132 inc/params/icon-params.php:148
+#: inc/params/icon-params.php:164 inc/params/icon-params.php:179
+#: inc/params/icon-params.php:195 inc/params/icon-params.php:211
+#: inc/params/icon-params.php:227 inc/params/icon-params.php:243
+#: inc/params/icon-params.php:270
+msgid "Icon"
+msgstr ""
+
+#: inc/admin/tinymce/popup/button.php:102
+msgid "Icon position"
+msgstr ""
+
+#: inc/admin/tinymce/popup/button.php:105 inc/elements/pricing-table.php:75
+msgid "after"
+msgstr ""
+
+#: inc/admin/tinymce/popup/button.php:106 inc/elements/pricing-table.php:74
+msgid "before"
+msgstr ""
+
+#: inc/admin/tinymce/popup/dropcap.php:11
+#: inc/admin/tinymce/popup/fittext.php:11
+msgid "Default heading font"
+msgstr ""
+
+#: inc/admin/tinymce/popup/dropcap.php:23
+msgid "Letter"
+msgstr ""
+
+#: inc/admin/tinymce/popup/dropcap.php:28
+#: inc/admin/tinymce/popup/fittext.php:41 inc/elements/hoverbox.php:54
+#: inc/elements/hoverbox.php:77
+msgid "Font Family"
+msgstr ""
+
+#: inc/admin/tinymce/popup/fittext.php:24
+msgid "My Cool Headline"
+msgstr ""
+
+#: inc/admin/tinymce/popup/fittext.php:29 inc/elements/countdown.php:78
+#: inc/elements/counter.php:67 inc/elements/cta.php:84
+#: inc/elements/custom-heading.php:36 inc/elements/hoverbox.php:65
+#: inc/elements/hoverbox.php:88 inc/elements/interactive-links.php:69
+#: inc/elements/typed.php:83
+msgid "Font Size"
+msgstr ""
+
+#: inc/admin/tinymce/popup/fittext.php:35 inc/elements/custom-heading.php:138
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/admin/tinymce/popup/fittext.php:48
+msgid "Font Transform"
+msgstr ""
+
+#: inc/admin/tinymce/popup/fittext.php:51 inc/elements/typed.php:103
+msgid "uppercase"
+msgstr ""
+
+#: inc/admin/tinymce/popup/fittext.php:52 inc/elements/typed.php:104
+msgid "none"
+msgstr ""
+
+#: inc/admin/tinymce/popup/highlight.php:33
+msgid "Highlight Text"
+msgstr ""
+
+#: inc/admin/tinymce/popup/highlight.php:42
+msgid "yellow"
+msgstr ""
+
+#: inc/admin/tinymce/popup/highlight.php:43
+msgid "green"
+msgstr ""
+
+#: inc/admin/tinymce/popup/highlight.php:44
+msgid "red"
+msgstr ""
+
+#: inc/admin/tinymce/popup/highlight.php:45
+msgid "black"
+msgstr ""
+
+#: inc/admin/tinymce/popup/highlight.php:46
+msgid "white"
+msgstr ""
+
+#: inc/admin/tinymce/popup/highlight.php:47
+msgid "accent"
+msgstr ""
+
+#: inc/admin/tinymce/popup/highlight.php:53
+msgid "Wrap selected words"
+msgstr ""
+
+#: inc/admin/tinymce/popup/mailchimp.php:11
+msgid "Mailchimp signup"
+msgstr ""
+
+#: inc/admin/tinymce/popup/mailchimp.php:16 inc/elements/list.php:48
+#: inc/elements/twitter.php:44
+msgid "List"
+msgstr ""
+
+#: inc/admin/tinymce/popup/mailchimp.php:17
+msgid "Your mailchimp list ID."
+msgstr ""
+
+#: inc/admin/tinymce/popup/mailchimp.php:26
+#: inc/admin/tinymce/popup/socials.php:29 inc/elements/mailchimp.php:61
+msgid "Normal"
+msgstr ""
+
+#: inc/admin/tinymce/popup/mailchimp.php:33
+msgid "Submit"
+msgstr ""
+
+#: inc/admin/tinymce/popup/socials.php:16 inc/elements/music-network.php:46
+#: inc/elements/pricing-table.php:147 inc/elements/service-table.php:57
+#: inc/elements/social-icons.php:27
+msgid "Services"
+msgstr ""
+
+#: inc/admin/tinymce/popup/socials.php:18
+msgid ""
+"Leave empty to display them all.<br>* See the social networks available in "
+"the plugin options."
+msgstr ""
+
+#: inc/admin/tinymce/popup/socials.php:30 inc/elements/single-image.php:66
+#: inc/elements/social-icons.php:65 inc/params/icon-params.php:323
+msgid "Circle"
+msgstr ""
+
+#: inc/admin/tinymce/popup/socials.php:43 inc/elements/social-icons.php:141
+#: inc/params/icon-params.php:451
+msgid "Very Large"
+msgstr ""
+
+#: inc/admin/tinymce/popup/spacer.php:11 inc/admin/tinymce/popup/spacer.php:16
+#: inc/elements/empty-space.php:21 inc/elements/facebook-page-box.php:35
+#: inc/elements/music-network.php:28
+msgid "Height"
+msgstr ""
+
+#: inc/ajax/ajax-functions.php:29
+msgid "Subscription successful"
+msgstr ""
+
+#: inc/ajax/ajax-functions.php:32
+msgid "Please insert a valid email"
+msgstr ""
+
+#: inc/button.php:23 inc/params/button-params.php:74 templates/vc_button.php:18
+#: templates/vc_cta.php:26 templates/vc_hoverbox.php:58
+#: templates/wvc_advanced_slide.php:50 templates/wvc_advanced_slide.php:67
+msgid "My Button"
+msgstr ""
+
+#: inc/class-mailchimp.php:43 inc/class-mailchimp.php:50
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/class-widget-mailchimp.php:37
+msgid "Newsletter signup form"
+msgstr ""
+
+#: inc/class-widget-mailchimp.php:130 inc/class-widget-socials.php:101
+#: inc/elements/accordion-tab.php:25 inc/elements/accordion.php:64
+#: inc/elements/advanced-slide.php:299 inc/elements/album-tracklist-item.php:27
+#: inc/elements/banner.php:160 inc/elements/embed-video.php:32
+#: inc/elements/item-price.php:27 inc/elements/pricing-table.php:26
+#: inc/elements/process-item.php:57 inc/elements/service-table.php:65
+#: inc/elements/tab.php:25 inc/elements/toggle.php:25
+#: inc/elements/youtube.php:34 inc/params/icon-params.php:458
+msgid "Title"
+msgstr ""
+
+#: inc/class-widget-mailchimp.php:134 inc/elements/team-member.php:141
+msgid "Description"
+msgstr ""
+
+#: inc/class-widget-mailchimp.php:138 inc/elements/mailchimp.php:25
+msgid "List ID"
+msgstr ""
+
+#: inc/class-widget-mailchimp.php:141
+msgid ""
+"Can be found in your mailchimp account -> Lists -> Your List Name -> "
+"Settings -> List Name & default"
+msgstr ""
+
+#: inc/class-widget-mailchimp.php:146 inc/class-widget-mailchimp.php:154
+#: inc/elements/advanced-slide.php:193 inc/elements/album-disc.php:73
+#: inc/elements/album-tracklist.php:31 inc/elements/bandsintown-events.php:45
+#: inc/elements/bandsintown-events.php:54 inc/elements/events.php:41
+#: inc/elements/events.php:51 inc/elements/gallery.php:72
+#: inc/elements/gallery.php:137 inc/elements/gallery.php:149
+#: inc/elements/gallery.php:170 inc/elements/gallery.php:182
+#: inc/elements/gallery.php:194 inc/elements/mailchimp.php:38
+#: inc/elements/mailchimp.php:50 inc/elements/message.php:49
+#: inc/elements/message.php:59 inc/elements/single-image.php:84
+#: inc/elements/single-image.php:102 inc/elements/typed.php:135
+#: inc/elements/video-opener.php:31 inc/params/background-params.php:185
+#: inc/params/background-params.php:238 inc/params/background-params.php:294
+#: inc/params/row-params.php:89 inc/params/row-params.php:169
+#: inc/params/section-params.php:49 inc/vc-additional-params.php:114
+#: inc/vc-additional-params.php:124 inc/vc-additional-params.php:152
+#: inc/vc-additional-params.php:162 inc/vc-additional-params.php:377
+#: inc/vc-additional-params.php:388 inc/vc-additional-params.php:406
+#: inc/vc-additional-params.php:417 inc/vc-additional-params.php:471
+#: inc/vc-additional-params.php:497 inc/vc-additional-params.php:523
+msgid "Yes"
+msgstr ""
+
+#: inc/class-widget-mailchimp.php:147 inc/class-widget-mailchimp.php:155
+#: inc/elements/advanced-slide.php:192 inc/elements/album-disc.php:74
+#: inc/elements/album-tracklist.php:32 inc/elements/bandsintown-events.php:44
+#: inc/elements/bandsintown-events.php:55 inc/elements/events.php:40
+#: inc/elements/events.php:50 inc/elements/gallery.php:73
+#: inc/elements/gallery.php:138 inc/elements/gallery.php:150
+#: inc/elements/gallery.php:171 inc/elements/gallery.php:183
+#: inc/elements/gallery.php:195 inc/elements/mailchimp.php:39
+#: inc/elements/mailchimp.php:51 inc/elements/message.php:50
+#: inc/elements/message.php:60 inc/elements/typed.php:136
+#: inc/elements/video-opener.php:30 inc/params/background-params.php:186
+#: inc/params/background-params.php:237 inc/params/background-params.php:293
+#: inc/vc-additional-params.php:115 inc/vc-additional-params.php:125
+#: inc/vc-additional-params.php:153 inc/vc-additional-params.php:163
+#: inc/vc-additional-params.php:378 inc/vc-additional-params.php:389
+#: inc/vc-additional-params.php:407 inc/vc-additional-params.php:418
+#: inc/vc-additional-params.php:472 inc/vc-additional-params.php:498
+#: inc/vc-additional-params.php:524
+msgid "No"
+msgstr ""
+
+#: inc/class-widget-mailchimp.php:149 inc/elements/mailchimp.php:34
+msgid "Show Background"
+msgstr ""
+
+#: inc/class-widget-mailchimp.php:157
+msgid "Show Default Label"
+msgstr ""
+
+#: inc/class-widget-mailchimp.php:162 inc/elements/advanced-slide.php:384
+#: inc/elements/advanced-slide.php:410 inc/elements/album-disc.php:31
+#: inc/elements/audio.php:91 inc/elements/bandsintown-tracking-button.php:47
+#: inc/elements/banner.php:56 inc/elements/banner.php:141
+#: inc/elements/cta.php:48 inc/elements/custom-heading.php:75
+#: inc/elements/image-link.php:51 inc/elements/image-link.php:62
+#: inc/elements/interactive-links.php:33 inc/elements/mailchimp.php:72
+#: inc/elements/mailchimp.php:84 inc/elements/separator.php:64
+#: inc/elements/single-image.php:111 inc/elements/social-icons.php:45
+#: inc/elements/tabs.php:50 inc/elements/team-member.php:151
+#: inc/elements/testimonial-slider.php:32 inc/elements/twitter.php:54
+#: inc/params/button-params.php:165 inc/params/column-inner-params.php:39
+#: inc/params/column-inner-params.php:53 inc/params/column-params.php:50
+#: inc/params/column-params.php:64 inc/params/icon-params.php:436
+#: inc/params/row-params.php:153
+msgid "Center"
+msgstr ""
+
+#: inc/class-widget-mailchimp.php:163 inc/elements/advanced-slide.php:385
+#: inc/elements/advanced-slide.php:411 inc/elements/album-disc.php:30
+#: inc/elements/audio.php:90 inc/elements/bandsintown-tracking-button.php:48
+#: inc/elements/banner.php:57 inc/elements/banner.php:142
+#: inc/elements/cta.php:46 inc/elements/custom-heading.php:76
+#: inc/elements/image-link.php:52 inc/elements/image-link.php:63
+#: inc/elements/image-link.php:74 inc/elements/interactive-links.php:32
+#: inc/elements/mailchimp.php:73 inc/elements/mailchimp.php:85
+#: inc/elements/music-network.php:39 inc/elements/separator.php:65
+#: inc/elements/single-image.php:112 inc/elements/social-icons.php:46
+#: inc/elements/tabs.php:49 inc/elements/team-member.php:152
+#: inc/elements/testimonial-slider.php:33 inc/elements/twitter.php:55
+#: inc/elements/video-opener.php:74 inc/params/button-params.php:167
+#: inc/params/button-params.php:210 inc/params/column-inner-params.php:40
+#: inc/params/column-inner-params.php:52 inc/params/column-params.php:51
+#: inc/params/column-params.php:63 inc/params/icon-params.php:423
+#: inc/params/icon-params.php:437 inc/params/row-params.php:154
+msgid "Left"
+msgstr ""
+
+#: inc/class-widget-mailchimp.php:164 inc/elements/advanced-slide.php:386
+#: inc/elements/advanced-slide.php:412 inc/elements/album-disc.php:32
+#: inc/elements/audio.php:92 inc/elements/bandsintown-tracking-button.php:49
+#: inc/elements/banner.php:58 inc/elements/banner.php:143
+#: inc/elements/cta.php:47 inc/elements/custom-heading.php:77
+#: inc/elements/image-link.php:53 inc/elements/image-link.php:64
+#: inc/elements/image-link.php:75 inc/elements/interactive-links.php:34
+#: inc/elements/mailchimp.php:74 inc/elements/mailchimp.php:86
+#: inc/elements/music-network.php:40 inc/elements/separator.php:66
+#: inc/elements/single-image.php:113 inc/elements/social-icons.php:47
+#: inc/elements/tabs.php:51 inc/elements/team-member.php:153
+#: inc/elements/testimonial-slider.php:34 inc/elements/twitter.php:56
+#: inc/elements/video-opener.php:73 inc/params/button-params.php:168
+#: inc/params/button-params.php:211 inc/params/column-inner-params.php:41
+#: inc/params/column-inner-params.php:54 inc/params/column-params.php:52
+#: inc/params/column-params.php:65 inc/params/icon-params.php:425
+#: inc/params/icon-params.php:438 inc/params/row-params.php:155
+msgid "Right"
+msgstr ""
+
+#: inc/class-widget-mailchimp.php:166
+msgid "Text alignement"
+msgstr ""
+
+#: inc/class-widget-socials.php:37
+msgid "You social profiles with icons"
+msgstr ""
+
+#: inc/class-widget-socials.php:105
+msgid "Social Services"
+msgstr ""
+
+#: inc/class-widget-socials.php:108
+msgid "You can set your social profiles in the plugin settings."
+msgstr ""
+
+#: inc/core-functions.php:190
+msgid "Peacoc"
+msgstr ""
+
+#: inc/core-functions.php:191
+msgid "Chino"
+msgstr ""
+
+#: inc/core-functions.php:192
+msgid "Mulled Wine"
+msgstr ""
+
+#: inc/core-functions.php:193
+msgid "Vista Blue"
+msgstr ""
+
+#: inc/core-functions.php:194
+msgid "Grey"
+msgstr ""
+
+#: inc/core-functions.php:195
+msgid "Sky"
+msgstr ""
+
+#: inc/core-functions.php:196
+msgid "Juicy pink"
+msgstr ""
+
+#: inc/core-functions.php:197
+msgid "Sandy brown"
+msgstr ""
+
+#: inc/core-functions.php:198
+msgid "Purple"
+msgstr ""
+
+#: inc/core-functions.php:252 inc/elements/counter.php:141
+#: inc/elements/counter.php:169 inc/elements/counter.php:197
+#: inc/elements/custom-heading.php:87 inc/params/bigtext-params.php:47
+msgid "Gradient Red"
+msgstr ""
+
+#: inc/core-functions.php:253
+msgid "Gradient Red 2"
+msgstr ""
+
+#: inc/core-functions.php:254 inc/elements/counter.php:142
+#: inc/elements/counter.php:170 inc/elements/counter.php:198
+#: inc/elements/custom-heading.php:88 inc/params/bigtext-params.php:48
+msgid "Gradient Green"
+msgstr ""
+
+#: inc/core-functions.php:255
+msgid "Gradient Green Circle"
+msgstr ""
+
+#: inc/core-functions.php:256
+msgid "Gradient Orange"
+msgstr ""
+
+#: inc/core-functions.php:257
+msgid "Gradient Violet"
+msgstr ""
+
+#: inc/core-functions.php:274
+msgid "Landscape"
+msgstr ""
+
+#: inc/core-functions.php:276
+msgid "Portrait"
+msgstr ""
+
+#: inc/core-functions.php:277
+msgid "Extra large"
+msgstr ""
+
+#: inc/core-functions.php:280
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/core-functions.php:281
+msgid "Full"
+msgstr ""
+
+#: inc/core-functions.php:282 inc/elements/column-inner.php:50
+#: inc/elements/column-inner.php:62 inc/elements/column-inner.php:81
+#: inc/elements/column-inner.php:89 inc/elements/column.php:51
+#: inc/elements/column.php:63 inc/elements/column.php:82
+#: inc/elements/column.php:90 inc/elements/countdown.php:52
+#: inc/elements/row.php:146 inc/elements/row.php:158 inc/elements/row.php:177
+#: inc/elements/row.php:185 inc/params/section-params.php:126
+#: inc/params/style-params.php:24 inc/vc-additional-params.php:345
+#: inc/vc-additional-params.php:352
+msgid "Custom"
+msgstr ""
+
+#: inc/core-functions.php:299
+msgid "Theme Default"
+msgstr ""
+
+#: inc/core-functions.php:300 inc/elements/single-image.php:157
+#: inc/elements/social-icons.php:152 inc/params/button-params.php:189
+#: inc/params/icon-params.php:402
+msgid "Opacity"
+msgstr ""
+
+#: inc/core-functions.php:301
+msgid "Zoom In"
+msgstr ""
+
+#: inc/core-functions.php:302
+msgid "Zoom Out"
+msgstr ""
+
+#: inc/core-functions.php:303 inc/params/button-params.php:191
+msgid "Up"
+msgstr ""
+
+#: inc/core-functions.php:304
+msgid "Black and white to colored"
+msgstr ""
+
+#: inc/core-functions.php:305
+msgid "Colored to Black and white"
+msgstr ""
+
+#: inc/core-functions.php:705
+msgid "Image is missing"
+msgstr ""
+
+#: inc/elements/accordion-tab.php:17 inc/elements/accordion.php:56
+msgid "Section"
+msgstr ""
+
+#: inc/elements/accordion-tab.php:27 inc/elements/accordion.php:66
+msgid "Accordion section title."
+msgstr ""
+
+#: inc/elements/accordion.php:17
+msgid "Accordion"
+msgstr ""
+
+#: inc/elements/accordion.php:22 inc/elements/admin-helper-text.php:22
+#: inc/elements/advanced-slide.php:97 inc/elements/album-disc.php:20
+#: inc/elements/album-tracklist-item.php:21 inc/elements/album-tracklist.php:23
+#: inc/elements/albums.php:25 inc/elements/albums.php:59
+#: inc/elements/column-text.php:21 inc/elements/content-block.php:38
+#: inc/elements/countdown.php:21 inc/elements/counter.php:42
+#: inc/elements/cta.php:36 inc/elements/discography.php:25
+#: inc/elements/discography.php:65 inc/elements/events.php:24
+#: inc/elements/gmaps.php:21 inc/elements/hours.php:21
+#: inc/elements/interactive-link-item.php:21
+#: inc/elements/interactive-links.php:24 inc/elements/item-price.php:21
+#: inc/elements/last-posts.php:96 inc/elements/list.php:50
+#: inc/elements/message.php:20 inc/elements/oembed-gist.php:22
+#: inc/elements/portfolio.php:24 inc/elements/post-slider.php:35
+#: inc/elements/pricing-table.php:21 inc/elements/process-container.php:47
+#: inc/elements/process-item.php:50 inc/elements/progress-bar.php:23
+#: inc/elements/separator.php:20 inc/elements/service-table.php:51
+#: inc/elements/tabs.php:25 inc/elements/team-member.php:20
+#: inc/elements/testimonial-slide.php:21 inc/elements/testimonial-slider.php:24
+#: inc/elements/testimonials.php:26 inc/elements/toggle.php:20
+#: inc/elements/toggle.php:33 inc/elements/videos.php:25
+#: inc/params/button-params.php:65 inc/params/icon-params.php:27
+msgid "Content"
+msgstr ""
+
+#: inc/elements/accordion.php:23
+msgid "Collapsible panels"
+msgstr ""
+
+#: inc/elements/accordion.php:43
+msgid "Add section"
+msgstr ""
+
+#: inc/elements/accordion.php:47
+msgid "Section 1"
+msgstr ""
+
+#: inc/elements/accordion.php:48
+msgid "Section 2"
+msgstr ""
+
+#: inc/elements/admin-helper-text.php:19
+msgid "Admin Comment"
+msgstr ""
+
+#: inc/elements/admin-helper-text.php:20
+msgid "Helper text to display in the admin."
+msgstr ""
+
+#: inc/elements/admin-helper-text.php:29
+msgid "Comment"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:41 inc/elements/advanced-slide.php:78
+msgid "Button %d"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:94
+msgid "Advanced Slide"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:103 inc/elements/advanced-slide.php:143
+#: inc/elements/custom-heading.php:182 inc/elements/custom-heading.php:202
+#: inc/elements/custom-heading.php:217 inc/elements/custom-heading.php:231
+#: inc/params/button-params.php:190
+msgid "Background"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:106 inc/params/background-params.php:27
+msgid "Image and Color"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:107 inc/elements/post-slider.php:19
+#: inc/elements/video-self-hosted.php:26 inc/elements/video.php:18
+#: inc/params/background-params.php:29
+msgid "Video"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:115 inc/elements/advanced-slide.php:131
+#: inc/elements/bandsintown-tracking-button.php:56
+#: inc/elements/bandsintown-tracking-button.php:70
+#: inc/elements/hoverbox.php:101 inc/elements/hoverbox.php:116
+#: inc/elements/service-table.php:99 inc/elements/service-table.php:112
+#: inc/params/background-params.php:40 inc/params/background-params.php:57
+msgid "Background Color"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:118 inc/elements/advanced-slide.php:349
+#: inc/elements/bandsintown-tracking-button.php:59 inc/elements/cta.php:95
+#: inc/elements/custom-heading.php:120 inc/elements/custom-heading.php:131
+#: inc/elements/interactive-links.php:88 inc/elements/progress-bar.php:71
+#: inc/elements/separator.php:77 inc/elements/service-table.php:102
+#: inc/elements/service-table.php:134 inc/elements/single-image.php:65
+#: inc/elements/twitter.php:53 inc/elements/zigzag.php:28
+#: inc/params/background-params.php:26 inc/params/background-params.php:43
+#: inc/params/bigtext-params.php:90 inc/params/column-inner-params.php:26
+#: inc/params/column-inner-params.php:51 inc/params/column-params.php:37
+#: inc/params/column-params.php:62 inc/params/icon-params.php:485
+#: inc/params/row-params.php:99 inc/params/row-params.php:118
+#: inc/vc-custom-fields.php:61
+msgid "Default"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:119 inc/elements/advanced-slide.php:206
+#: inc/elements/bandsintown-tracking-button.php:60 inc/elements/banner.php:87
+#: inc/elements/column-inner.php:47 inc/elements/column.php:48
+#: inc/elements/counter.php:143 inc/elements/counter.php:171
+#: inc/elements/counter.php:199 inc/elements/custom-heading.php:89
+#: inc/elements/gmaps.php:72 inc/elements/hoverbox.php:106
+#: inc/elements/list.php:75 inc/elements/list.php:84 inc/elements/pie.php:41
+#: inc/elements/progress-bar.php:74 inc/elements/progress-bar.php:82
+#: inc/elements/progress-bar.php:115 inc/elements/row.php:143
+#: inc/elements/separator.php:80 inc/elements/separator.php:88
+#: inc/elements/service-table.php:104 inc/elements/service-table.php:136
+#: inc/elements/social-icons.php:85 inc/elements/social-icons.php:97
+#: inc/elements/social-icons.php:113 inc/elements/team-member.php:59
+#: inc/elements/zigzag.php:31 inc/elements/zigzag.php:39
+#: inc/params/background-params.php:45 inc/params/background-params.php:251
+#: inc/params/bigtext-params.php:49 inc/params/button-params.php:93
+#: inc/params/button-params.php:101 inc/params/icon-params.php:295
+#: inc/params/icon-params.php:308 inc/params/icon-params.php:348
+#: inc/params/icon-params.php:361 inc/params/icon-params.php:375
+msgid "Custom color"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:123
+#: inc/elements/bandsintown-tracking-button.php:64
+#: inc/elements/hoverbox.php:109 inc/params/background-params.php:49
+msgid "Select a background color."
+msgstr ""
+
+#: inc/elements/advanced-slide.php:151 inc/elements/custom-heading.php:188
+#: inc/params/background-params.php:80
+msgid "Background position"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:154 inc/elements/custom-heading.php:191
+#: inc/params/background-params.php:83
+msgid "center center"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:155 inc/elements/custom-heading.php:192
+#: inc/params/background-params.php:84
+msgid "center top"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:156 inc/elements/custom-heading.php:193
+#: inc/params/background-params.php:85
+msgid "left top"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:157 inc/elements/custom-heading.php:194
+#: inc/params/background-params.php:86
+msgid "right top"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:158 inc/elements/custom-heading.php:195
+#: inc/params/background-params.php:87
+msgid "center bottom"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:159 inc/elements/custom-heading.php:196
+#: inc/params/background-params.php:88
+msgid "left bottom"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:160 inc/elements/custom-heading.php:197
+#: inc/params/background-params.php:89
+msgid "right bottom"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:161 inc/elements/custom-heading.php:198
+#: inc/params/background-params.php:90
+msgid "left center"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:162 inc/elements/custom-heading.php:199
+#: inc/params/background-params.php:91
+msgid "right center"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:171 inc/elements/album-tracklist-item.php:57
+#: inc/elements/embed-video.php:25 inc/elements/video-opener.php:55
+#: inc/elements/video.php:27 inc/params/background-params.php:147
+msgid "Video URL"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:173 inc/params/background-params.php:150
+msgid "A YouTube or mp4 URL."
+msgstr ""
+
+#: inc/elements/advanced-slide.php:180 inc/params/background-params.php:199
+msgid "Video Image Fallback"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:182
+msgid "Used in case the video can't be displayed."
+msgstr ""
+
+#: inc/elements/advanced-slide.php:189 inc/params/background-params.php:234
+msgid "Add Overlay"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:200 inc/elements/banner.php:81
+#: inc/elements/image-link.php:149 inc/elements/team-member.php:53
+#: inc/params/background-params.php:245
+msgid "Overlay Color"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:203 inc/elements/audio.php:45
+#: inc/elements/banner.php:84 inc/elements/banner.php:108
+#: inc/elements/team-member.php:56 inc/elements/team-member.php:81
+#: inc/elements/video-self-hosted.php:43 inc/params/background-params.php:248
+msgid "Auto"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:209 inc/elements/banner.php:90
+#: inc/elements/banner.php:114 inc/elements/team-member.php:62
+#: inc/elements/team-member.php:87 inc/params/background-params.php:254
+msgid "Select an overlay color."
+msgstr ""
+
+#: inc/elements/advanced-slide.php:218 inc/elements/banner.php:97
+#: inc/elements/team-member.php:70 inc/params/background-params.php:263
+msgid "Overlay Custom Color"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:231 inc/elements/banner.php:130
+#: inc/elements/image-link.php:155 inc/elements/team-member.php:104
+#: inc/params/background-params.php:276
+msgid "Overlay Opacity in Percent"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:251 inc/elements/row-inner.php:39
+msgid "Font Color"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:254 inc/elements/column-inner.php:30
+#: inc/elements/column.php:30 inc/elements/gallery.php:206
+#: inc/elements/gallery.php:218 inc/elements/gmaps.php:52
+#: inc/elements/playlist.php:66 inc/elements/row-inner.php:44
+#: inc/elements/row.php:85 inc/elements/row.php:225
+#: inc/vc-additional-params.php:173
+msgid "Light"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:255 inc/elements/column-inner.php:31
+#: inc/elements/column.php:31 inc/elements/gallery.php:207
+#: inc/elements/gallery.php:219 inc/elements/gmaps.php:54
+#: inc/elements/playlist.php:65 inc/elements/row-inner.php:43
+#: inc/elements/row.php:86 inc/elements/row.php:224
+#: inc/vc-additional-params.php:174
+msgid "Dark"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:257 inc/elements/advanced-slide.php:269
+#: inc/elements/advanced-slide.php:281 inc/elements/advanced-slide.php:308
+#: inc/elements/advanced-slide.php:322 inc/elements/advanced-slide.php:331
+#: inc/elements/advanced-slide.php:340 inc/elements/advanced-slide.php:353
+#: inc/elements/advanced-slide.php:365 inc/elements/advanced-slide.php:375
+#: inc/elements/advanced-slide.php:388 inc/elements/advanced-slide.php:401
+#: inc/elements/advanced-slide.php:414 inc/elements/advanced-slide.php:427
+#: inc/elements/video-opener.php:81
+msgid "Caption"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:263
+msgid "Title Type"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:266
+msgid "Textfield"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:301
+msgid "My Awesome Title"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:314
+msgid "Title Font"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:328
+msgid "Title Font Weight"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:337 inc/params/icon-params.php:467
+msgid "Title Font Size"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:346
+msgid "Title Text Transform"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:350 inc/elements/album-disc.php:87
+#: inc/elements/album-tracklist-item.php:80 inc/elements/audio.php:44
+#: inc/elements/column-inner.php:44 inc/elements/column-inner.php:71
+#: inc/elements/column.php:44 inc/elements/column.php:72
+#: inc/elements/cta.php:96 inc/elements/custom-heading.php:121
+#: inc/elements/gallery.php:90 inc/elements/interactive-links.php:89
+#: inc/elements/row.php:140 inc/elements/row.php:167 inc/elements/row.php:199
+#: inc/elements/single-image.php:135 inc/elements/social-icons.php:64
+#: inc/elements/social-icons.php:151 inc/elements/video-opener.php:71
+#: inc/elements/video-self-hosted.php:42 inc/params/background-params.php:134
+#: inc/params/bigtext-params.php:80 inc/params/button-params.php:188
+#: inc/params/column-inner-params.php:78 inc/params/column-params.php:89
+#: inc/params/icon-params.php:322 inc/params/icon-params.php:401
+#: inc/params/icon-params.php:486
+msgid "None"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:351 inc/elements/cta.php:97
+#: inc/elements/custom-heading.php:122 inc/elements/interactive-links.php:90
+#: inc/params/bigtext-params.php:79 inc/params/icon-params.php:487
+msgid "Uppercase"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:359
+msgid "Caption Type"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:362
+msgid "Standard text"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:363
+msgid "Bigger text with semi-transparent background"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:371
+msgid "Caption Text"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:381
+msgid "Caption Text Alignment"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:394
+msgid "Caption Width"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:399
+msgid "Full Width"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:407 inc/elements/video-opener.php:68
+msgid "Caption Position"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:420
+msgid "Caption Vertical Position"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:423 inc/elements/banner.php:152
+#: inc/elements/image-link.php:73 inc/elements/interactive-links.php:43
+#: inc/elements/row.php:110 inc/elements/team-member.php:163
+#: inc/params/column-inner-params.php:28 inc/params/column-params.php:39
+#: inc/params/row-params.php:100 inc/params/row-params.php:120
+msgid "Middle"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:424 inc/elements/banner.php:153
+#: inc/elements/interactive-links.php:44 inc/elements/row.php:112
+#: inc/elements/team-member.php:164 inc/elements/video-opener.php:72
+#: inc/params/column-inner-params.php:29 inc/params/column-params.php:40
+#: inc/params/row-params.php:102 inc/params/row-params.php:121
+msgid "Bottom"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:425 inc/elements/banner.php:154
+#: inc/elements/interactive-links.php:45 inc/elements/row.php:111
+#: inc/elements/team-member.php:165 inc/elements/video-opener.php:75
+#: inc/params/column-inner-params.php:27 inc/params/column-params.php:38
+#: inc/params/icon-params.php:422 inc/params/row-params.php:101
+#: inc/params/row-params.php:119
+msgid "Top"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:433
+msgid "Add a First Button"
+msgstr ""
+
+#: inc/elements/advanced-slide.php:439
+msgid "Add a Second Button"
+msgstr ""
+
+#: inc/elements/advanced-slider.php:18
+msgid "Advanced Slider"
+msgstr ""
+
+#: inc/elements/advanced-slider.php:22
+msgid "A powerful image/video slider"
+msgstr ""
+
+#: inc/elements/advanced-slider.php:23 inc/elements/banner.php:20
+#: inc/elements/comparison_slider.php:22 inc/elements/embed-video.php:21
+#: inc/elements/gallery.php:20 inc/elements/image-device-slider.php:20
+#: inc/elements/image-link.php:20 inc/elements/single-image.php:20
+#: inc/elements/video-opener.php:22 inc/elements/video-self-hosted.php:21
+#: inc/elements/video.php:22 inc/elements/youtube.php:23
+msgid "Media"
+msgstr ""
+
+#: inc/elements/advanced-slider.php:28 inc/elements/post-slider.php:49
+msgid "Slider Height"
+msgstr ""
+
+#: inc/elements/advanced-slider.php:29
+msgid "Enter a value in % or px. 100% for a full height slider."
+msgstr ""
+
+#: inc/elements/album-disc.php:17
+msgid "Album Disc"
+msgstr ""
+
+#: inc/elements/album-disc.php:18
+msgid "A stylish presentation for your release"
+msgstr ""
+
+#: inc/elements/album-disc.php:26 inc/elements/audio.php:86
+#: inc/elements/bandsintown-tracking-button.php:44
+#: inc/elements/mailchimp.php:81 inc/elements/music-network.php:35
+#: inc/elements/separator.php:61 inc/elements/social-icons.php:42
+#: inc/elements/video-opener.php:44 inc/params/button-params.php:161
+msgid "Alignment"
+msgstr ""
+
+#: inc/elements/album-disc.php:41
+msgid "CD"
+msgstr ""
+
+#: inc/elements/album-disc.php:42
+msgid "Vinyl"
+msgstr ""
+
+#: inc/elements/album-disc.php:48 inc/elements/embed-video.php:40
+#: inc/elements/youtube.php:42
+msgid "Cover Image"
+msgstr ""
+
+#: inc/elements/album-disc.php:50 inc/elements/banner.php:29
+#: inc/elements/single-image.php:37
+msgid "Select image from media library."
+msgstr ""
+
+#: inc/elements/album-disc.php:56
+msgid "Disc Image"
+msgstr ""
+
+#: inc/elements/album-disc.php:58
+msgid "A secondary image that will be used for the CD or vinyl artwork."
+msgstr ""
+
+#: inc/elements/album-disc.php:70
+msgid "Worn Border Effect"
+msgstr ""
+
+#: inc/elements/album-disc.php:80
+msgid "Disc Rotate Effect"
+msgstr ""
+
+#: inc/elements/album-disc.php:84
+msgid "On Hover"
+msgstr ""
+
+#: inc/elements/album-disc.php:85
+msgid "Stop On Hover"
+msgstr ""
+
+#: inc/elements/album-disc.php:86
+msgid "Always"
+msgstr ""
+
+#: inc/elements/album-tracklist-item.php:18
+msgid "Track"
+msgstr ""
+
+#: inc/elements/album-tracklist-item.php:29
+msgid "My Awesome Song"
+msgstr ""
+
+#: inc/elements/album-tracklist-item.php:35 inc/elements/video-opener.php:89
+msgid "Duration"
+msgstr ""
+
+#: inc/elements/album-tracklist-item.php:43 inc/elements/audio.php:27
+msgid "Mp3 URL"
+msgstr ""
+
+#: inc/elements/album-tracklist-item.php:61 inc/elements/video-opener.php:59
+msgid "Support %1$s and %2$s"
+msgstr ""
+
+#: inc/elements/album-tracklist-item.php:69 inc/elements/item-price.php:50
+#: inc/elements/pricing-table.php:56
+msgid "Price"
+msgstr ""
+
+#: inc/elements/album-tracklist-item.php:81
+msgid "Buy Link"
+msgstr ""
+
+#: inc/elements/album-tracklist-item.php:83
+msgid "Free Download"
+msgstr ""
+
+#: inc/elements/album-tracklist-item.php:89
+#: inc/elements/album-tracklist-item.php:97
+#: inc/elements/album-tracklist-item.php:105
+msgid "%s URL"
+msgstr ""
+
+#: inc/elements/album-tracklist-item.php:113
+msgid "Other \"Buy\" URL"
+msgstr ""
+
+#: inc/elements/album-tracklist-item.php:128
+msgid "Not linked"
+msgstr ""
+
+#: inc/elements/album-tracklist-item.php:133
+msgid "No product yet"
+msgstr ""
+
+#: inc/elements/album-tracklist-item.php:140
+msgid "Link to Product"
+msgstr ""
+
+#: inc/elements/album-tracklist-item.php:144
+msgid "Select a product to link to add an \"Add to Cart\" button."
+msgstr ""
+
+#: inc/elements/album-tracklist.php:17
+msgid "Album Tracklist"
+msgstr ""
+
+#: inc/elements/album-tracklist.php:22
+msgid "A tracklist for your album songs"
+msgstr ""
+
+#: inc/elements/album-tracklist.php:28
+msgid "Show Tracklist Numbers"
+msgstr ""
+
+#: inc/elements/albums.php:22
+msgid "Albums"
+msgstr ""
+
+#: inc/elements/albums.php:23 inc/elements/toggle.php:18
+msgid "Showcase your albums from the gallery post type"
+msgstr ""
+
+#: inc/elements/albums.php:31 inc/elements/albums.php:65
+#: inc/elements/discography.php:31 inc/elements/events.php:30
+#: inc/elements/last-posts.php:19 inc/elements/portfolio.php:30
+#: inc/elements/post-slider.php:58 inc/elements/testimonials.php:32
+#: inc/elements/twitter.php:63 inc/elements/videos.php:31
+msgid "Count"
+msgstr ""
+
+#: inc/elements/albums.php:38 inc/elements/discography.php:38
+#: inc/elements/gallery.php:60 inc/elements/instagram-old.php:40
+#: inc/elements/instagram.php:34 inc/elements/last-posts.php:101
+#: inc/elements/portfolio.php:37 inc/elements/testimonials.php:39
+#: inc/elements/videos.php:38 inc/params/row-params.php:26
+msgid "Columns"
+msgstr ""
+
+#: inc/elements/albums.php:45 inc/elements/last-posts.php:41
+#: inc/elements/portfolio.php:47 inc/elements/post-slider.php:124
+#: inc/elements/testimonials.php:46 inc/elements/videos.php:45
+msgid "Category"
+msgstr ""
+
+#: inc/elements/albums.php:47 inc/elements/discography.php:47
+#: inc/elements/discography.php:54 inc/elements/discography.php:73
+#: inc/elements/discography.php:80 inc/elements/last-posts.php:43
+#: inc/elements/portfolio.php:49 inc/elements/post-slider.php:126
+#: inc/elements/testimonials.php:48 inc/elements/videos.php:47
+msgid ""
+"Include only one or several categories. Paste category slug(s) separated by "
+"a comma"
+msgstr ""
+
+#: inc/elements/albums.php:56
+msgid "Photos Widget (last photos)"
+msgstr ""
+
+#: inc/elements/albums.php:57
+msgid "Display the last photos uploaded in your albums"
+msgstr ""
+
+#: inc/elements/audio-embed.php:18
+msgid "Embed Audio Player"
+msgstr ""
+
+#: inc/elements/audio-embed.php:20
+msgid "Supports Mixcloud, ReverbNation, Soundcloud and Spotify"
+msgstr ""
+
+#: inc/elements/audio-embed.php:22 inc/elements/audio.php:22
+#: inc/elements/bandsintown-events.php:20
+#: inc/elements/bandsintown-tracking-button.php:20
+#: inc/elements/music-network.php:20 inc/elements/playlist.php:39
+#: inc/elements/soundcloud.php:24
+msgid "Music"
+msgstr ""
+
+#: inc/elements/audio-embed.php:27
+msgid "Player URL"
+msgstr ""
+
+#: inc/elements/audio.php:18
+msgid "Single Audio Player"
+msgstr ""
+
+#: inc/elements/audio.php:20
+msgid "WordPress Audio Shortcode"
+msgstr ""
+
+#: inc/elements/audio.php:41 inc/elements/video-self-hosted.php:39
+msgid "Preload"
+msgstr ""
+
+#: inc/elements/audio.php:46 inc/elements/video-self-hosted.php:44
+msgid "Metadata"
+msgstr ""
+
+#: inc/elements/audio.php:52 inc/elements/gallery.php:134
+#: inc/elements/video-self-hosted.php:50 inc/vc-additional-params.php:111
+#: inc/vc-additional-params.php:374
+msgid "Autoplay"
+msgstr ""
+
+#: inc/elements/audio.php:61 inc/elements/typed.php:132
+#: inc/elements/video-self-hosted.php:59
+msgid "Loop"
+msgstr ""
+
+#: inc/elements/audio.php:70
+msgid "Ogg URL"
+msgstr ""
+
+#: inc/elements/audio.php:72
+msgid "Add alternate sources for maximum HTML5 playback."
+msgstr ""
+
+#: inc/elements/audio.php:78 inc/elements/banner.php:67
+#: inc/elements/single-image.php:124
+msgid "Maximum width"
+msgstr ""
+
+#: inc/elements/audio.php:80 inc/elements/banner.php:69
+#: inc/elements/single-image.php:126
+msgid "Set a value in %s or %s if you want to constrain the image width."
+msgstr ""
+
+#: inc/elements/bandsintown-events.php:19
+msgid "Display your Bandsintown event list"
+msgstr ""
+
+#: inc/elements/bandsintown-events.php:26
+#: inc/elements/bandsintown-tracking-button.php:26
+msgid "Artist Name"
+msgstr ""
+
+#: inc/elements/bandsintown-events.php:33
+msgid "Display Limit"
+msgstr ""
+
+#: inc/elements/bandsintown-events.php:36
+msgid "Leave empty to display all shows"
+msgstr ""
+
+#: inc/elements/bandsintown-events.php:41
+msgid "Display Local Dates"
+msgstr ""
+
+#: inc/elements/bandsintown-events.php:51
+msgid "Display Past Dates"
+msgstr ""
+
+#: inc/elements/bandsintown-tracking-button.php:19
+msgid "Display your Bandsintown Tracking Button"
+msgstr ""
+
+#: inc/elements/banner.php:17
+msgid "Banner"
+msgstr ""
+
+#: inc/elements/banner.php:18
+msgid "A Big Linked Image with Text Overlay"
+msgstr ""
+
+#: inc/elements/banner.php:36
+msgid "Banner Size"
+msgstr ""
+
+#: inc/elements/banner.php:39 inc/elements/comparison_slider.php:43
+#: inc/elements/gallery.php:27 inc/elements/gallery.php:48
+#: inc/elements/image-link.php:35 inc/elements/item-price.php:90
+#: inc/elements/single-image.php:47 inc/elements/team-member.php:34
+msgid ""
+"You can set the \"large\", \"medium\" and \"thumbnail\" sizes in the WP "
+"media settings."
+msgstr ""
+
+#: inc/elements/banner.php:45
+msgid "Custom Banner Size"
+msgstr ""
+
+#: inc/elements/banner.php:47 inc/elements/comparison_slider.php:51
+#: inc/elements/gallery.php:55 inc/elements/image-link.php:42
+#: inc/elements/item-price.php:101 inc/elements/single-image.php:55
+#: inc/elements/team-member.php:115
+msgid "Enter size in pixels (Example: 200x100 (Width x Height)."
+msgstr ""
+
+#: inc/elements/banner.php:53
+msgid "Banner alignment"
+msgstr ""
+
+#: inc/elements/banner.php:60 inc/elements/single-image.php:115
+msgid "Select image alignment."
+msgstr ""
+
+#: inc/elements/banner.php:75
+msgid "Banner link"
+msgstr ""
+
+#: inc/elements/banner.php:105 inc/elements/team-member.php:78
+msgid "Overlay Text Color"
+msgstr ""
+
+#: inc/elements/banner.php:121 inc/elements/team-member.php:95
+msgid "Overlay Text Custom Color"
+msgstr ""
+
+#: inc/elements/banner.php:138 inc/elements/cta.php:43
+#: inc/elements/custom-heading.php:72 inc/elements/image-link.php:59
+#: inc/elements/interactive-links.php:29 inc/elements/mailchimp.php:69
+#: inc/elements/team-member.php:148 inc/elements/testimonial-slider.php:29
+#: inc/elements/twitter.php:50 inc/elements/typed.php:65
+msgid "Text Alignment"
+msgstr ""
+
+#: inc/elements/banner.php:149 inc/elements/team-member.php:160
+msgid "Text Vertical Alignment"
+msgstr ""
+
+#: inc/elements/banner.php:167 inc/elements/item-price.php:35
+#: inc/elements/pricing-table.php:34 inc/elements/process-item.php:65
+#: inc/elements/service-table.php:72 inc/elements/team-member.php:173
+#: inc/params/icon-params.php:494
+msgid "Title Tag"
+msgstr ""
+
+#: inc/elements/column-inner.php:17
+msgid "Inner Column"
+msgstr ""
+
+#: inc/elements/column-inner.php:26 inc/elements/column.php:26
+#: inc/elements/row.php:82
+msgid "Skin Tone"
+msgstr ""
+
+#: inc/elements/column-inner.php:29 inc/elements/column.php:29
+#: inc/elements/row-inner.php:42 inc/params/row-inner-params.php:37
+msgid "Inherit"
+msgstr ""
+
+#: inc/elements/column-inner.php:33 inc/elements/column.php:33
+#: inc/elements/row-inner.php:46 inc/elements/row.php:89
+#: inc/elements/row.php:100 inc/elements/separator.php:43
+#: inc/params/background-params.php:34 inc/params/background-params.php:50
+#: inc/params/background-params.php:60 inc/params/background-params.php:74
+#: inc/params/background-params.php:94 inc/params/background-params.php:110
+#: inc/params/background-params.php:125 inc/params/background-params.php:140
+#: inc/params/background-params.php:152 inc/params/background-params.php:163
+#: inc/params/background-params.php:176 inc/params/background-params.php:192
+#: inc/params/background-params.php:204 inc/params/background-params.php:214
+#: inc/params/background-params.php:227 inc/params/background-params.php:240
+#: inc/params/background-params.php:255 inc/params/background-params.php:266
+#: inc/params/background-params.php:284 inc/params/background-params.php:296
+msgid "Style"
+msgstr ""
+
+#: inc/elements/column-inner.php:41 inc/elements/column.php:41
+#: inc/elements/row.php:137
+msgid "Border Color"
+msgstr ""
+
+#: inc/elements/column-inner.php:56 inc/elements/column.php:57
+#: inc/elements/row.php:152
+msgid "Border Custom Color"
+msgstr ""
+
+#: inc/elements/column-inner.php:68 inc/elements/column.php:69
+#: inc/elements/row.php:164
+msgid "Border Style"
+msgstr ""
+
+#: inc/elements/column-inner.php:72 inc/elements/column.php:73
+#: inc/elements/row.php:168 inc/elements/separator.php:46
+msgid "Solid"
+msgstr ""
+
+#: inc/elements/column-inner.php:73 inc/elements/column.php:74
+#: inc/elements/row.php:169 inc/elements/separator.php:47
+msgid "Dotted"
+msgstr ""
+
+#: inc/elements/column-inner.php:74 inc/elements/column.php:75
+#: inc/elements/row.php:170 inc/elements/separator.php:48
+msgid "Dashed"
+msgstr ""
+
+#: inc/elements/column-inner.php:75 inc/elements/column.php:76
+#: inc/elements/row.php:171 inc/elements/separator.php:49
+msgid "Double"
+msgstr ""
+
+#: inc/elements/column-inner.php:76 inc/elements/column.php:77
+#: inc/elements/row.php:172
+msgid "Groove"
+msgstr ""
+
+#: inc/elements/column-inner.php:77 inc/elements/column.php:78
+#: inc/elements/row.php:173
+msgid "Ridge"
+msgstr ""
+
+#: inc/elements/column-inner.php:78 inc/elements/column.php:79
+#: inc/elements/row.php:174
+msgid "Inset"
+msgstr ""
+
+#: inc/elements/column-inner.php:79 inc/elements/column.php:80
+#: inc/elements/row.php:175
+msgid "Outset"
+msgstr ""
+
+#: inc/elements/column-inner.php:87 inc/elements/column.php:88
+#: inc/elements/row.php:183 inc/vc-additional-params.php:350
+msgid "Inline Style"
+msgstr ""
+
+#: inc/elements/column-inner.php:90 inc/elements/column.php:91
+#: inc/elements/row.php:186 inc/vc-additional-params.php:353
+msgid "Additional inline CSS that will be applied to the element. (e.g: %s)"
+msgstr ""
+
+#: inc/elements/column-inner.php:97 inc/elements/column.php:98
+msgid "Custom Link"
+msgstr ""
+
+#: inc/elements/column-inner.php:99 inc/elements/column.php:100
+#: inc/elements/column.php:109 inc/params/button-params.php:239
+#: inc/params/button-params.php:248 inc/vc-additional-params.php:91
+#: inc/vc-additional-params.php:451
+msgid "Extra"
+msgstr ""
+
+#: inc/elements/column-text.php:17
+msgid "Text Block"
+msgstr ""
+
+#: inc/elements/column-text.php:22
+msgid "A basic block of text with editor"
+msgstr ""
+
+#: inc/elements/column-text.php:29
+msgid ""
+"<p>Lorem elsass ipsum sit barapli purus oberschaeffolsheim und schnaps quam, "
+"knack dolor christkindelsmarik wurscht tellus hoplageiss ftomi! Sit risus, "
+"gal. Suspendisse sagittis nudle auctor, gravida nullam marie-therese.</p>"
+msgstr ""
+
+#: inc/elements/column.php:17
+msgid "Column"
+msgstr ""
+
+#: inc/elements/column.php:47 inc/params/background-params.php:46
+msgid "Transparent"
+msgstr ""
+
+#: inc/elements/column.php:106
+msgid "Sticky"
+msgstr ""
+
+#: inc/elements/column.php:108
+msgid ""
+"Check this option to stick the element at the top when scrolling. Note that "
+"this feature doesn't work if your row is set to \"equal height\" columns."
+msgstr ""
+
+#: inc/elements/comparison_slider.php:19
+msgid "Before/After Images Slider"
+msgstr ""
+
+#: inc/elements/comparison_slider.php:20
+msgid "A before and after images slider"
+msgstr ""
+
+#: inc/elements/comparison_slider.php:28
+msgid "Before Image"
+msgstr ""
+
+#: inc/elements/comparison_slider.php:34
+msgid "After Image"
+msgstr ""
+
+#: inc/elements/comparison_slider.php:40 inc/elements/gallery.php:45
+#: inc/elements/image-link.php:32 inc/elements/item-price.php:87
+#: inc/elements/single-image.php:44 inc/elements/team-member.php:31
+msgid "Image Size"
+msgstr ""
+
+#: inc/elements/comparison_slider.php:49 inc/elements/gallery.php:53
+#: inc/elements/image-link.php:40 inc/elements/item-price.php:99
+#: inc/elements/single-image.php:53 inc/elements/team-member.php:113
+msgid "Custom Image Size"
+msgstr ""
+
+#: inc/elements/content-block.php:30
+msgid "No Content Block yet"
+msgstr ""
+
+#: inc/elements/content-block.php:35 inc/elements/content-block.php:44
+msgid "Content Block"
+msgstr ""
+
+#: inc/elements/content-block.php:36
+msgid "A block of content from the Content Block post type"
+msgstr ""
+
+#: inc/elements/countdown.php:18
+msgid "Count Down"
+msgstr ""
+
+#: inc/elements/countdown.php:19
+msgid "See the seconds tick down"
+msgstr ""
+
+#: inc/elements/countdown.php:27
+msgid "Date"
+msgstr ""
+
+#: inc/elements/countdown.php:29
+msgid "formatted like %s"
+msgstr ""
+
+#: inc/elements/countdown.php:35
+msgid "UTC Timezone offset"
+msgstr ""
+
+#: inc/elements/countdown.php:38
+msgid "e.g : -5 for NY. <a href=\"%s\" target=\"_blank\">More info</a>."
+msgstr ""
+
+#: inc/elements/countdown.php:43
+msgid "Format"
+msgstr ""
+
+#: inc/elements/countdown.php:48
+msgid "Auto (show all values as needed)"
+msgstr ""
+
+#: inc/elements/countdown.php:49
+msgid "By Days"
+msgstr ""
+
+#: inc/elements/countdown.php:50
+msgid "By Weeks"
+msgstr ""
+
+#: inc/elements/countdown.php:51
+msgid "By Month"
+msgstr ""
+
+#: inc/elements/countdown.php:58
+msgid "Custom Format"
+msgstr ""
+
+#: inc/elements/countdown.php:61
+msgid ""
+"You can check all avalable format codes <a href=\"%s\" target=\"_blank"
+"\">here</a>."
+msgstr ""
+
+#: inc/elements/countdown.php:70 inc/elements/counter.php:110
+#: inc/elements/cta.php:67 inc/elements/custom-heading.php:64
+#: inc/elements/image-link.php:109 inc/elements/interactive-links.php:61
+#: inc/elements/interactive-links.php:64 inc/elements/interactive-links.php:72
+#: inc/elements/interactive-links.php:80 inc/elements/interactive-links.php:92
+#: inc/elements/typed.php:111 inc/params/bigtext-params.php:97
+msgid "Font"
+msgstr ""
+
+#: inc/elements/countdown.php:73 inc/elements/countdown.php:81
+#: inc/elements/countdown.php:89
+msgid "Number Font"
+msgstr ""
+
+#: inc/elements/countdown.php:86 inc/elements/counter.php:74
+#: inc/elements/cta.php:76 inc/elements/custom-heading.php:110
+#: inc/elements/interactive-links.php:77 inc/elements/typed.php:76
+#: inc/params/bigtext-params.php:69 inc/params/button-params.php:234
+msgid "Font Weight"
+msgstr ""
+
+#: inc/elements/counter.php:39
+msgid "Counter"
+msgstr ""
+
+#: inc/elements/counter.php:40
+msgid "Animated numerical data"
+msgstr ""
+
+#: inc/elements/counter.php:48
+msgid "Number"
+msgstr ""
+
+#: inc/elements/counter.php:50
+msgid ""
+"It can be a shortcode that generate a number in this case paste your "
+"shortcode without the []"
+msgstr ""
+
+#: inc/elements/counter.php:97
+msgid "Is your number generated by a shortcode?"
+msgstr ""
+
+#: inc/elements/counter.php:117
+msgid "Prefix"
+msgstr ""
+
+#: inc/elements/counter.php:124
+msgid "Suffix"
+msgstr ""
+
+#: inc/elements/counter.php:137 inc/elements/counter.php:154
+msgid "Number Color"
+msgstr ""
+
+#: inc/elements/counter.php:140 inc/elements/counter.php:168
+#: inc/elements/counter.php:196 inc/elements/custom-heading.php:86
+#: inc/elements/gmaps.php:70 inc/elements/list.php:71
+#: inc/elements/social-icons.php:81 inc/elements/social-icons.php:111
+#: inc/params/bigtext-params.php:46 inc/params/icon-params.php:291
+#: inc/params/icon-params.php:344
+msgid "Default color"
+msgstr ""
+
+#: inc/elements/counter.php:147
+msgid "Select a number color."
+msgstr ""
+
+#: inc/elements/counter.php:149 inc/elements/counter.php:160
+#: inc/elements/counter.php:177 inc/elements/counter.php:188
+#: inc/elements/counter.php:205 inc/elements/counter.php:216
+msgid "Colors"
+msgstr ""
+
+#: inc/elements/counter.php:165 inc/elements/counter.php:182
+#: inc/elements/custom-heading.php:83 inc/elements/custom-heading.php:99
+#: inc/elements/image-link.php:143 inc/elements/service-table.php:131
+#: inc/elements/service-table.php:144 inc/params/bigtext-params.php:43
+#: inc/params/bigtext-params.php:59
+msgid "Text Color"
+msgstr ""
+
+#: inc/elements/counter.php:175 inc/elements/counter.php:203
+#: inc/elements/custom-heading.php:93 inc/params/bigtext-params.php:53
+msgid "Select a text color."
+msgstr ""
+
+#: inc/elements/counter.php:193 inc/elements/counter.php:210
+msgid "Icon Color"
+msgstr ""
+
+#: inc/elements/cta.php:33
+msgid "Call to Action"
+msgstr ""
+
+#: inc/elements/cta.php:34
+msgid "Catch visitors attention with CTA block"
+msgstr ""
+
+#: inc/elements/cta.php:50
+msgid "Select text alignment in \"Call to Action\" block."
+msgstr ""
+
+#: inc/elements/cta.php:56 inc/elements/custom-heading.php:18
+msgid "Heading"
+msgstr ""
+
+#: inc/elements/cta.php:59
+msgid "Hey! I am first heading line feel free to change me"
+msgstr ""
+
+#: inc/elements/cta.php:60
+msgid "Enter text for heading line."
+msgstr ""
+
+#: inc/elements/cta.php:86
+msgid "Leave empty to use the default heading font sizes."
+msgstr ""
+
+#: inc/elements/cta.php:92 inc/elements/custom-heading.php:117
+#: inc/elements/interactive-links.php:85 inc/elements/typed.php:100
+#: inc/params/bigtext-params.php:76 inc/params/icon-params.php:482
+msgid "Text Transform"
+msgstr ""
+
+#: inc/elements/cta.php:103
+msgid "Subheading"
+msgstr ""
+
+#: inc/elements/cta.php:106
+msgid "Optional tagline"
+msgstr ""
+
+#: inc/elements/custom-heading.php:19
+msgid "A big title with flexible font size"
+msgstr ""
+
+#: inc/elements/custom-heading.php:21 inc/elements/typed.php:21
+#: inc/params/bigtext-params.php:26
+msgid "Typography"
+msgstr ""
+
+#: inc/elements/custom-heading.php:29
+msgid "My Headline"
+msgstr ""
+
+#: inc/elements/custom-heading.php:31 inc/params/bigtext-params.php:38
+msgid "You can use the %s short tag to display the current page title."
+msgstr ""
+
+#: inc/elements/custom-heading.php:43
+msgid "Behavior"
+msgstr ""
+
+#: inc/elements/custom-heading.php:46
+msgid "Responsive"
+msgstr ""
+
+#: inc/elements/custom-heading.php:47
+msgid "Static"
+msgstr ""
+
+#: inc/elements/custom-heading.php:53
+msgid "Minimum Font Size"
+msgstr ""
+
+#: inc/elements/custom-heading.php:128 inc/params/bigtext-params.php:87
+msgid "Font Style"
+msgstr ""
+
+#: inc/elements/custom-heading.php:132 inc/params/bigtext-params.php:91
+msgid "Italic"
+msgstr ""
+
+#: inc/elements/custom-heading.php:144
+msgid "Line Height"
+msgstr ""
+
+#: inc/elements/custom-heading.php:151 inc/elements/image-link.php:128
+#: inc/elements/typed.php:118 inc/params/bigtext-params.php:105
+msgid "Tag"
+msgstr ""
+
+#: inc/elements/custom-heading.php:172
+msgid "Add Image Background?"
+msgstr ""
+
+#: inc/elements/custom-heading.php:178
+#: inc/elements/interactive-link-item.php:26 inc/elements/service-table.php:123
+#: inc/params/background-params.php:70
+msgid "Background Image"
+msgstr ""
+
+#: inc/elements/custom-heading.php:208 inc/params/background-params.php:101
+msgid "Background repeat"
+msgstr ""
+
+#: inc/elements/custom-heading.php:211 inc/params/background-params.php:104
+msgid "no repeat"
+msgstr ""
+
+#: inc/elements/custom-heading.php:212 inc/params/background-params.php:105
+msgid "repeat"
+msgstr ""
+
+#: inc/elements/custom-heading.php:213 inc/params/background-params.php:106
+msgid "repeat-x"
+msgstr ""
+
+#: inc/elements/custom-heading.php:214 inc/params/background-params.php:107
+msgid "repeat-y"
+msgstr ""
+
+#: inc/elements/custom-heading.php:223 inc/params/background-params.php:117
+msgid "Background size"
+msgstr ""
+
+#: inc/elements/custom-heading.php:226 inc/params/background-params.php:121
+msgid "default"
+msgstr ""
+
+#: inc/elements/custom-heading.php:227 inc/params/background-params.php:120
+msgid "cover"
+msgstr ""
+
+#: inc/elements/custom-heading.php:228 inc/params/background-params.php:122
+msgid "contain"
+msgstr ""
+
+#: inc/elements/discography.php:22
+msgid "Last Releases"
+msgstr ""
+
+#: inc/elements/discography.php:23
+msgid "Display your discography"
+msgstr ""
+
+#: inc/elements/discography.php:45 inc/elements/discography.php:71
+msgid "heading"
+msgstr ""
+
+#: inc/elements/discography.php:52 inc/elements/discography.php:78
+msgid "Band"
+msgstr ""
+
+#: inc/elements/discography.php:62
+msgid "Last Release"
+msgstr ""
+
+#: inc/elements/discography.php:63
+msgid "Display your last release"
+msgstr ""
+
+#: inc/elements/embed-video.php:17
+msgid "Custom Embed Video"
+msgstr ""
+
+#: inc/elements/embed-video.php:19
+msgid "A Vimeo or YouTube video with preview"
+msgstr ""
+
+#: inc/elements/embed-video.php:34 inc/elements/youtube.php:36
+msgid "My video title"
+msgstr ""
+
+#: inc/elements/embed-video.php:47
+msgid "Custom Video Preview (optional)"
+msgstr ""
+
+#: inc/elements/embed-video.php:49 inc/elements/youtube.php:51
+msgid "A short mp4 video file"
+msgstr ""
+
+#: inc/elements/empty-space.php:25
+msgid "Enter empty space height (Note: CSS measurement units allowed)."
+msgstr ""
+
+#: inc/elements/events.php:21
+msgid "Event List"
+msgstr ""
+
+#: inc/elements/events.php:22
+msgid "Display your event list from the Wolf Events plugin"
+msgstr ""
+
+#: inc/elements/events.php:31
+msgid "Leave empty to display all"
+msgstr ""
+
+#: inc/elements/events.php:37
+msgid "Link to Single Event Page"
+msgstr ""
+
+#: inc/elements/events.php:47
+msgid "Display Past Events"
+msgstr ""
+
+#: inc/elements/events.php:57
+msgid "Artist Slug"
+msgstr ""
+
+#: inc/elements/facebook-page-box.php:21
+msgid "Display a facebook fan box"
+msgstr ""
+
+#: inc/elements/facebook-page-box.php:22 inc/elements/instagram-old.php:25
+#: inc/elements/instagram.php:20 inc/elements/mailchimp.php:19
+#: inc/elements/social-icons-custom.php:33 inc/elements/social-icons.php:22
+#: inc/elements/twitter.php:26
+msgid "Social"
+msgstr ""
+
+#: inc/elements/facebook-page-box.php:28
+msgid "Facebook Page URL"
+msgstr ""
+
+#: inc/elements/facebook-page-box.php:43
+msgid "Show posts"
+msgstr ""
+
+#: inc/elements/facebook-page-box.php:52
+msgid "Show faces"
+msgstr ""
+
+#: inc/elements/facebook-page-box.php:61
+msgid "Hide cover"
+msgstr ""
+
+#: inc/elements/facebook-page-box.php:70
+msgid "Small header"
+msgstr ""
+
+#: inc/elements/gallery.php:17
+msgid "Image Gallery"
+msgstr ""
+
+#: inc/elements/gallery.php:18
+msgid "An image or carousel gallery"
+msgstr ""
+
+#: inc/elements/gallery.php:25 inc/elements/image-device-slider.php:25
+msgid "Images"
+msgstr ""
+
+#: inc/elements/gallery.php:31
+msgid "Gallery Type"
+msgstr ""
+
+#: inc/elements/gallery.php:34
+msgid "Grid"
+msgstr ""
+
+#: inc/elements/gallery.php:35 inc/elements/last-posts.php:115
+#: inc/elements/testimonials.php:57
+msgid "Carousel"
+msgstr ""
+
+#: inc/elements/gallery.php:36
+msgid "Mosaic"
+msgstr ""
+
+#: inc/elements/gallery.php:37
+msgid "Metro"
+msgstr ""
+
+#: inc/elements/gallery.php:38
+msgid "Masonry"
+msgstr ""
+
+#: inc/elements/gallery.php:39
+msgid "Justified"
+msgstr ""
+
+#: inc/elements/gallery.php:69 inc/vc-additional-params.php:468
+#: inc/vc-additional-params.php:494 inc/vc-additional-params.php:520
+msgid "Padding"
+msgstr ""
+
+#: inc/elements/gallery.php:79
+msgid "Hover Effect"
+msgstr ""
+
+#: inc/elements/gallery.php:86 inc/elements/single-image.php:132
+msgid "On click action"
+msgstr ""
+
+#: inc/elements/gallery.php:89 inc/elements/single-image.php:136
+msgid "Open in %s"
+msgstr ""
+
+#: inc/elements/gallery.php:91 inc/elements/single-image.php:138
+msgid "Link to attachment page"
+msgstr ""
+
+#: inc/elements/gallery.php:92 inc/elements/single-image.php:139
+msgid "Link to large image"
+msgstr ""
+
+#: inc/elements/gallery.php:93 inc/elements/single-image.php:137
+msgid "Open custom link"
+msgstr ""
+
+#: inc/elements/gallery.php:95 inc/elements/single-image.php:142
+msgid "Select action for click action."
+msgstr ""
+
+#: inc/elements/gallery.php:100
+msgid "Custom links"
+msgstr ""
+
+#: inc/elements/gallery.php:102
+msgid ""
+"Enter links for each slide (Note: divide links with linebreaks (Enter))."
+msgstr ""
+
+#: inc/elements/gallery.php:111
+msgid "Custom link target"
+msgstr ""
+
+#: inc/elements/gallery.php:113
+msgid "Select where to open  custom links."
+msgstr ""
+
+#: inc/elements/gallery.php:126
+msgid "Animate Image One By One"
+msgstr ""
+
+#: inc/elements/gallery.php:128 inc/elements/social-icons.php:183
+#: inc/vc-additional-params.php:250 inc/vc-additional-params.php:252
+#: inc/vc-additional-params.php:261 inc/vc-additional-params.php:480
+#: inc/vc-additional-params.php:506 inc/vc-additional-params.php:532
+msgid "Animation"
+msgstr ""
+
+#: inc/elements/gallery.php:140 inc/elements/gallery.php:152
+#: inc/elements/gallery.php:161 inc/elements/gallery.php:173
+#: inc/elements/gallery.php:185 inc/elements/gallery.php:197
+#: inc/elements/gallery.php:209 inc/elements/gallery.php:221
+#: inc/vc-additional-params.php:380 inc/vc-additional-params.php:391
+#: inc/vc-additional-params.php:398 inc/vc-additional-params.php:409
+#: inc/vc-additional-params.php:420
+msgid "Carousel Settings"
+msgstr ""
+
+#: inc/elements/gallery.php:146 inc/vc-additional-params.php:121
+#: inc/vc-additional-params.php:385
+msgid "Pause on Hover (if autoplay)"
+msgstr ""
+
+#: inc/elements/gallery.php:158 inc/vc-additional-params.php:142
+#: inc/vc-additional-params.php:395
+msgid "Slideshow Speed in ms"
+msgstr ""
+
+#: inc/elements/gallery.php:167 inc/vc-additional-params.php:149
+#: inc/vc-additional-params.php:403
+msgid "Show Navigation Bullets"
+msgstr ""
+
+#: inc/elements/gallery.php:179 inc/vc-additional-params.php:159
+#: inc/vc-additional-params.php:414
+msgid "Show Navigation Arrows"
+msgstr ""
+
+#: inc/elements/gallery.php:191
+msgid "Group Cells"
+msgstr ""
+
+#: inc/elements/gallery.php:203
+msgid "Navigation Arrows Tone"
+msgstr ""
+
+#: inc/elements/gallery.php:215
+msgid "Navigation Dots Tone"
+msgstr ""
+
+#: inc/elements/gmaps.php:18
+msgid "Google Maps"
+msgstr ""
+
+#: inc/elements/gmaps.php:22
+msgid "Map block"
+msgstr ""
+
+#: inc/elements/gmaps.php:27 inc/elements/progress-bar.php:28
+#: inc/elements/single-image.php:26
+msgid "Widget title"
+msgstr ""
+
+#: inc/elements/gmaps.php:29
+msgid ""
+"Enter text which will be used as widget title. Leave blank if no title is "
+"needed."
+msgstr ""
+
+#: inc/elements/gmaps.php:33
+msgid "Coordinates (Latitude, Longitude)"
+msgstr ""
+
+#: inc/elements/gmaps.php:38
+msgid ""
+"To extract the Latitude and Longitude of your address, follow the "
+"instructions %s. 1) Use the directions under the section \"Get the "
+"coordinates of a place\" 2) Copy the coordinates 3) Paste the coordinates in "
+"the field with the \"comma\" sign."
+msgstr ""
+
+#: inc/elements/gmaps.php:48 inc/elements/playlist.php:62
+msgid "Skin"
+msgstr ""
+
+#: inc/elements/gmaps.php:51 inc/elements/last-posts.php:114
+#: inc/elements/team-member.php:43 inc/elements/testimonials.php:56
+#: inc/params/button-params.php:117
+msgid "Standard"
+msgstr ""
+
+#: inc/elements/gmaps.php:53
+msgid "Retro"
+msgstr ""
+
+#: inc/elements/gmaps.php:55
+msgid "Night"
+msgstr ""
+
+#: inc/elements/gmaps.php:56
+msgid "Aubergine"
+msgstr ""
+
+#: inc/elements/gmaps.php:57
+msgid "Ultra Light with Labels"
+msgstr ""
+
+#: inc/elements/gmaps.php:58
+msgid "Shades of Grey"
+msgstr ""
+
+#: inc/elements/gmaps.php:59
+msgid "Cool Grey"
+msgstr ""
+
+#: inc/elements/gmaps.php:60
+msgid "Pale Dawn"
+msgstr ""
+
+#: inc/elements/gmaps.php:67
+msgid "Marker Color"
+msgstr ""
+
+#: inc/elements/gmaps.php:75
+msgid "Select a marker color."
+msgstr ""
+
+#: inc/elements/gmaps.php:81
+msgid "Marker Custom Color"
+msgstr ""
+
+#: inc/elements/gmaps.php:91
+msgid "Map height"
+msgstr ""
+
+#: inc/elements/gmaps.php:99
+msgid "Address"
+msgstr ""
+
+#: inc/elements/gmaps.php:101
+msgid "Insert the address here if you want it to be display below the map."
+msgstr ""
+
+#: inc/elements/hours.php:18
+msgid "Opening Hours"
+msgstr ""
+
+#: inc/elements/hours.php:19
+msgid "Display your opening hours"
+msgstr ""
+
+#: inc/elements/hours.php:27
+msgid "Day"
+msgstr ""
+
+#: inc/elements/hours.php:29
+msgid "Monday"
+msgstr ""
+
+#: inc/elements/hours.php:35
+msgid "Hours"
+msgstr ""
+
+#: inc/elements/hoverbox.php:56 inc/elements/hoverbox.php:68
+msgid "Primary Title"
+msgstr ""
+
+#: inc/elements/hoverbox.php:79 inc/elements/hoverbox.php:91
+msgid "Hover Title"
+msgstr ""
+
+#: inc/elements/hoverbox.php:111 inc/elements/hoverbox.php:122
+msgid "Hover Block"
+msgstr ""
+
+#: inc/elements/image-device-slider.php:17
+msgid "Image Slider"
+msgstr ""
+
+#: inc/elements/image-device-slider.php:18
+msgid "An elegant image slideshow"
+msgstr ""
+
+#: inc/elements/image-device-slider.php:31 inc/elements/item-price.php:65
+#: inc/elements/team-member.php:40
+msgid "Layout"
+msgstr ""
+
+#: inc/elements/image-link.php:17
+msgid "Linked Image"
+msgstr ""
+
+#: inc/elements/image-link.php:18
+msgid "A linked image with a text overlay"
+msgstr ""
+
+#: inc/elements/image-link.php:48
+msgid "Image Alignment"
+msgstr ""
+
+#: inc/elements/image-link.php:70 inc/elements/interactive-links.php:40
+msgid "Vertical Alignment"
+msgstr ""
+
+#: inc/elements/image-link.php:122
+msgid "Tagline as Button"
+msgstr ""
+
+#: inc/elements/instagram-old.php:22
+msgid "Old Instagram"
+msgstr ""
+
+#: inc/elements/instagram-old.php:24 inc/elements/instagram.php:19
+msgid "Your last instagram photos"
+msgstr ""
+
+#: inc/elements/instagram-old.php:31 inc/elements/instagram.php:25
+msgid "Image Count"
+msgstr ""
+
+#: inc/elements/instagram-old.php:32 inc/elements/instagram.php:26
+msgid "Note that the instagram API may limit the number of image to display."
+msgstr ""
+
+#: inc/elements/instagram-old.php:48 inc/elements/instagram.php:42
+msgid "Display follow button"
+msgstr ""
+
+#: inc/elements/instagram.php:17
+msgid "Instagram"
+msgstr ""
+
+#: inc/elements/instagram.php:48
+msgid "Add padding"
+msgstr ""
+
+#: inc/elements/instagram.php:54
+msgid "Hide meta (comments and likes count)"
+msgstr ""
+
+#: inc/elements/interactive-link-item.php:18
+msgid "Interactive LInk Item"
+msgstr ""
+
+#: inc/elements/interactive-link-item.php:33
+msgid "Link Type"
+msgstr ""
+
+#: inc/elements/interactive-link-item.php:44
+msgid "Link Image"
+msgstr ""
+
+#: inc/elements/interactive-link-item.php:57
+msgid "About"
+msgstr ""
+
+#: inc/elements/interactive-links.php:18
+msgid "Interactive Links"
+msgstr ""
+
+#: inc/elements/interactive-links.php:23
+msgid "Show image on hover"
+msgstr ""
+
+#: inc/elements/interactive-links.php:51 inc/elements/last-posts.php:111
+#: inc/elements/testimonials.php:53
+msgid "Display"
+msgstr ""
+
+#: inc/elements/interactive-links.php:54
+msgid "Block"
+msgstr ""
+
+#: inc/elements/interactive-links.php:55 inc/params/button-params.php:166
+msgid "Inline"
+msgstr ""
+
+#: inc/elements/item-price.php:18
+msgid "Item Price"
+msgstr ""
+
+#: inc/elements/item-price.php:19
+msgid "Presentation of an item or service for sale"
+msgstr ""
+
+#: inc/elements/item-price.php:29
+msgid "Our special"
+msgstr ""
+
+#: inc/elements/item-price.php:68
+msgid "Text only"
+msgstr ""
+
+#: inc/elements/item-price.php:69
+msgid "Image at the Top"
+msgstr ""
+
+#: inc/elements/item-price.php:70
+msgid "Image at Left"
+msgstr ""
+
+#: inc/elements/item-price.php:71
+msgid "Image at Right"
+msgstr ""
+
+#: inc/elements/last-posts.php:21 inc/elements/post-slider.php:60
+msgid "Number of post to display"
+msgstr ""
+
+#: inc/elements/last-posts.php:27 inc/elements/post-slider.php:108
+#: inc/elements/testimonials.php:63
+msgid "Post IDs"
+msgstr ""
+
+#: inc/elements/last-posts.php:28 inc/elements/post-slider.php:109
+#: inc/elements/testimonials.php:64
+msgid ""
+"By default, your last posts will be displayed. You can choose the posts you "
+"want to display by entering a list of IDs separated by a comma."
+msgstr ""
+
+#: inc/elements/last-posts.php:34 inc/elements/post-slider.php:116
+#: inc/elements/testimonials.php:70
+msgid "Exclude Post IDs"
+msgstr ""
+
+#: inc/elements/last-posts.php:35 inc/elements/post-slider.php:117
+#: inc/elements/testimonials.php:71
+msgid ""
+"You can choose the posts you don't want to display by entering a list of IDs "
+"separated by a comma."
+msgstr ""
+
+#: inc/elements/last-posts.php:44 inc/elements/post-slider.php:127
+msgid "my-category, other-category"
+msgstr ""
+
+#: inc/elements/last-posts.php:49 inc/elements/post-slider.php:134
+msgid "Tags"
+msgstr ""
+
+#: inc/elements/last-posts.php:51 inc/elements/post-slider.php:136
+msgid ""
+"Include only one or several tags. Paste tag slug(s) separated by a comma"
+msgstr ""
+
+#: inc/elements/last-posts.php:52 inc/elements/post-slider.php:137
+msgid "my-tag, other-tag"
+msgstr ""
+
+#: inc/elements/last-posts.php:57
+msgid "Hide Category"
+msgstr ""
+
+#: inc/elements/last-posts.php:64
+msgid "Hide Tags"
+msgstr ""
+
+#: inc/elements/last-posts.php:71
+msgid "Hide Thumbnail Image"
+msgstr ""
+
+#: inc/elements/last-posts.php:78
+msgid "Hide Author"
+msgstr ""
+
+#: inc/elements/last-posts.php:85
+msgid "Hide Text"
+msgstr ""
+
+#: inc/elements/last-posts.php:93
+msgid "Last Posts"
+msgstr ""
+
+#: inc/elements/last-posts.php:95
+msgid "Display your last posts in grid or carousel"
+msgstr ""
+
+#: inc/elements/last-posts.php:103
+msgid "Number of column to display"
+msgstr ""
+
+#: inc/elements/list.php:51
+msgid "List with icon"
+msgstr ""
+
+#: inc/elements/list.php:57
+msgid "List text"
+msgstr ""
+
+#: inc/elements/list.php:67 inc/elements/social-icons.php:77
+#: inc/params/icon-params.php:287 inc/params/icon-params.php:340
+msgid "Icon color"
+msgstr ""
+
+#: inc/elements/list.php:78 inc/elements/separator.php:82
+#: inc/elements/social-icons.php:88 inc/elements/zigzag.php:33
+#: inc/params/icon-params.php:298 inc/params/icon-params.php:351
+msgid "Select icon color."
+msgstr ""
+
+#: inc/elements/list.php:86 inc/elements/separator.php:90
+#: inc/elements/social-icons.php:99 inc/elements/zigzag.php:41
+#: inc/params/icon-params.php:310 inc/params/icon-params.php:363
+msgid "Select custom icon color."
+msgstr ""
+
+#: inc/elements/mailchimp.php:20
+msgid "Newsletter subscription form"
+msgstr ""
+
+#: inc/elements/mailchimp.php:27
+msgid ""
+"It can be found in your MailChimp account -> Lists -> Your List Name -> "
+"Settings -> List Name & default"
+msgstr ""
+
+#: inc/elements/mailchimp.php:35
+msgid "You can set a background in the MailChimp plugin settings."
+msgstr ""
+
+#: inc/elements/mailchimp.php:46
+msgid "Show Label"
+msgstr ""
+
+#: inc/elements/mailchimp.php:47
+msgid "You can set a label in the MailChimp plugin settings."
+msgstr ""
+
+#: inc/elements/message.php:19
+msgid "Message box"
+msgstr ""
+
+#: inc/elements/message.php:28
+msgid "Success"
+msgstr ""
+
+#: inc/elements/message.php:29
+msgid "Info"
+msgstr ""
+
+#: inc/elements/message.php:30
+msgid "Alert"
+msgstr ""
+
+#: inc/elements/message.php:31
+msgid "Error"
+msgstr ""
+
+#: inc/elements/message.php:39
+msgid "Message text"
+msgstr ""
+
+#: inc/elements/message.php:41
+msgid "I am message box. Click edit button to change this text."
+msgstr ""
+
+#: inc/elements/message.php:46
+msgid "Display Icon"
+msgstr ""
+
+#: inc/elements/message.php:56
+msgid "Allow the visitor to dismiss the message"
+msgstr ""
+
+#: inc/elements/music-network.php:18
+msgid "Music Network"
+msgstr ""
+
+#: inc/elements/music-network.php:22
+msgid "Display your music social network"
+msgstr ""
+
+#: inc/elements/music-network.php:38
+msgid "Centered"
+msgstr ""
+
+#: inc/elements/music-network.php:48
+msgid "separated by a comma (empty for all)"
+msgstr ""
+
+#: inc/elements/oembed-gist.php:19
+msgid "Gist"
+msgstr ""
+
+#: inc/elements/oembed-gist.php:20
+msgid "Display an Embed Gist"
+msgstr ""
+
+#: inc/elements/oembed-gist.php:28
+msgid "Gist URL"
+msgstr ""
+
+#: inc/elements/parallax-holder.php:17
+msgid "Parallax Holder"
+msgstr ""
+
+#: inc/elements/parallax-holder.php:28
+msgid "Y-Axis"
+msgstr ""
+
+#: inc/elements/parallax-holder.php:38
+msgid "Smoothness"
+msgstr ""
+
+#: inc/elements/pie.php:36
+msgid "Track Color"
+msgstr ""
+
+#: inc/elements/pie.php:43
+msgid "Select pie chart track color."
+msgstr ""
+
+#: inc/elements/playlist.php:31
+msgid "No playlist created yet"
+msgstr ""
+
+#: inc/elements/playlist.php:36 inc/elements/playlist.php:44
+#: inc/elements/row.php:212
+msgid "Playlist"
+msgstr ""
+
+#: inc/elements/playlist.php:38
+msgid "Display one of your playlist"
+msgstr ""
+
+#: inc/elements/playlist.php:52
+msgid "Tracklist Visibility"
+msgstr ""
+
+#: inc/elements/playlist.php:55
+msgid "Show"
+msgstr ""
+
+#: inc/elements/playlist.php:56
+msgid "Hide"
+msgstr ""
+
+#: inc/elements/portfolio.php:21
+msgid "Portfolio"
+msgstr ""
+
+#: inc/elements/portfolio.php:22
+msgid "Display your last works from the portfolio plugin"
+msgstr ""
+
+#: inc/elements/post-slider.php:17
+msgid "Post"
+msgstr ""
+
+#: inc/elements/post-slider.php:18
+msgid "Gallery"
+msgstr ""
+
+#: inc/elements/post-slider.php:20
+msgid "Event"
+msgstr ""
+
+#: inc/elements/post-slider.php:21
+msgid "Release"
+msgstr ""
+
+#: inc/elements/post-slider.php:22
+msgid "Work"
+msgstr ""
+
+#: inc/elements/post-slider.php:33
+msgid "Post Slider"
+msgstr ""
+
+#: inc/elements/post-slider.php:36
+msgid "Display your last posts in a slider"
+msgstr ""
+
+#: inc/elements/post-slider.php:42
+msgid "Post Type"
+msgstr ""
+
+#: inc/elements/post-slider.php:50
+msgid "Enter a value in % or px"
+msgstr ""
+
+#: inc/elements/post-slider.php:91
+msgid "Offset"
+msgstr ""
+
+#: inc/elements/post-slider.php:93
+msgid ""
+"The amount of posts that should be skipped in the beginning of the query. If "
+"an offset is set, sticky posts will be ignored."
+msgstr ""
+
+#: inc/elements/post-slider.php:100
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+#: inc/elements/pricing-table.php:18
+msgid "Pricing Table"
+msgstr ""
+
+#: inc/elements/pricing-table.php:28
+msgid "Basic Plan"
+msgstr ""
+
+#: inc/elements/pricing-table.php:51
+msgid "An optional tagline"
+msgstr ""
+
+#: inc/elements/pricing-table.php:63
+msgid "Currency"
+msgstr ""
+
+#: inc/elements/pricing-table.php:65
+msgid "e.g: $ or €"
+msgstr ""
+
+#: inc/elements/pricing-table.php:71
+msgid "Display Currency"
+msgstr ""
+
+#: inc/elements/pricing-table.php:81
+msgid "Offer"
+msgstr ""
+
+#: inc/elements/pricing-table.php:84 inc/elements/pricing-table.php:109
+#: inc/elements/pricing-table.php:132
+msgid "no"
+msgstr ""
+
+#: inc/elements/pricing-table.php:85 inc/elements/pricing-table.php:108
+#: inc/elements/pricing-table.php:133
+msgid "yes"
+msgstr ""
+
+#: inc/elements/pricing-table.php:91
+msgid "Offer Price"
+msgstr ""
+
+#: inc/elements/pricing-table.php:98
+msgid "Price Period"
+msgstr ""
+
+#: inc/elements/pricing-table.php:100
+msgid "e.g \"monthly\" or \"per month\""
+msgstr ""
+
+#: inc/elements/pricing-table.php:105
+msgid "Show Button"
+msgstr ""
+
+#: inc/elements/pricing-table.php:115
+msgid "Button Text"
+msgstr ""
+
+#: inc/elements/pricing-table.php:117
+msgid "Buy now"
+msgstr ""
+
+#: inc/elements/pricing-table.php:122
+msgid "Button Link"
+msgstr ""
+
+#: inc/elements/pricing-table.php:129 inc/frontend/frontend-functions.php:35
+msgid "Featured"
+msgstr ""
+
+#: inc/elements/pricing-table.php:138
+msgid "Featured Text"
+msgstr ""
+
+#: inc/elements/pricing-table.php:140 inc/elements/pricing-table.php:141
+#: templates/wvc_pricing_table.php:33
+msgid "Best Choice"
+msgstr ""
+
+#: inc/elements/pricing-table.php:149 inc/elements/service-table.php:59
+msgid "Enter one service per line."
+msgstr ""
+
+#: inc/elements/process-container.php:42
+msgid "Process"
+msgstr ""
+
+#: inc/elements/process-container.php:46
+msgid "Your step-by-step way of working"
+msgstr ""
+
+#: inc/elements/process-container.php:56
+msgid ""
+"It is recommended to insert %1$d to %2$d process elements and use the "
+"standard width for the parent row."
+msgstr ""
+
+#: inc/elements/process-item.php:47
+msgid "Process Item"
+msgstr ""
+
+#: inc/elements/process-item.php:59 inc/params/icon-params.php:460
+msgid "My title"
+msgstr ""
+
+#: inc/elements/process-item.php:82
+msgid "Optional description text"
+msgstr ""
+
+#: inc/elements/progress-bar.php:20
+msgid "Progress Bar"
+msgstr ""
+
+#: inc/elements/progress-bar.php:24
+msgid "Animated progress bar"
+msgstr ""
+
+#: inc/elements/progress-bar.php:30 inc/elements/single-image.php:28
+msgid "Enter text used as widget title (Note: located above content element)."
+msgstr ""
+
+#: inc/elements/progress-bar.php:34
+msgid "Values"
+msgstr ""
+
+#: inc/elements/progress-bar.php:36
+msgid "Enter values for graph - value, title and color."
+msgstr ""
+
+#: inc/elements/progress-bar.php:39
+msgid "Development"
+msgstr ""
+
+#: inc/elements/progress-bar.php:43
+msgid "Design"
+msgstr ""
+
+#: inc/elements/progress-bar.php:47
+msgid "Marketing"
+msgstr ""
+
+#: inc/elements/progress-bar.php:56
+msgid "Enter text used as title of bar."
+msgstr ""
+
+#: inc/elements/progress-bar.php:61
+msgid "Value"
+msgstr ""
+
+#: inc/elements/progress-bar.php:63
+msgid "Enter value of bar."
+msgstr ""
+
+#: inc/elements/progress-bar.php:76
+msgid "Select single bar background color."
+msgstr ""
+
+#: inc/elements/progress-bar.php:84
+msgid "Select custom single bar background color."
+msgstr ""
+
+#: inc/elements/progress-bar.php:92
+msgid "Custom text color"
+msgstr ""
+
+#: inc/elements/progress-bar.php:94
+msgid "Select custom single bar text color."
+msgstr ""
+
+#: inc/elements/progress-bar.php:104
+msgid "Units"
+msgstr ""
+
+#: inc/elements/progress-bar.php:106
+msgid ""
+"Enter measurement units (Example: %, px, points, etc. Note: graph value and "
+"units will be appended to graph title)."
+msgstr ""
+
+#: inc/elements/progress-bar.php:117
+msgid "Select bar background color."
+msgstr ""
+
+#: inc/elements/progress-bar.php:123
+msgid "Bar custom background color"
+msgstr ""
+
+#: inc/elements/progress-bar.php:125
+msgid "Select custom background color for bars."
+msgstr ""
+
+#: inc/elements/progress-bar.php:133
+msgid "Bar custom text color"
+msgstr ""
+
+#: inc/elements/progress-bar.php:135
+msgid "Select custom text color for bars."
+msgstr ""
+
+#: inc/elements/row-inner.php:55 inc/params/row-params.php:231
+msgid "Custom Column Gap"
+msgstr ""
+
+#: inc/elements/row-inner.php:57 inc/params/row-params.php:233
+msgid "The space gap between columns."
+msgstr ""
+
+#: inc/elements/row-inner.php:60 inc/params/row-params.php:236
+#: inc/params/row-params.php:246
+msgid "Advanced"
+msgstr ""
+
+#: inc/elements/row.php:98
+msgid "Add Big Text Background"
+msgstr ""
+
+#: inc/elements/row.php:107
+msgid "Big Text Vertical Position"
+msgstr ""
+
+#: inc/elements/row.php:114 inc/elements/row.php:125
+#: inc/params/bigtext-params.php:23
+msgid "Big Text"
+msgstr ""
+
+#: inc/elements/row.php:122
+msgid "Big Text Maximum Width"
+msgstr ""
+
+#: inc/elements/row.php:205
+msgid "No Playlist Yet"
+msgstr ""
+
+#: inc/elements/row.php:215 inc/elements/row.php:229
+msgid "Player Bar"
+msgstr ""
+
+#: inc/elements/row.php:221
+msgid "Playlist Skin"
+msgstr ""
+
+#: inc/elements/row.php:226
+msgid "Transparent Light"
+msgstr ""
+
+#: inc/elements/row.php:227
+msgid "Transparent Dark"
+msgstr ""
+
+#: inc/elements/separator.php:17
+msgid "Separator"
+msgstr ""
+
+#: inc/elements/separator.php:18
+msgid "Horizontal divider"
+msgstr ""
+
+#: inc/elements/separator.php:26
+msgid "Element Width"
+msgstr ""
+
+#: inc/elements/separator.php:29 inc/elements/separator.php:38
+msgid "Separator width (in %s or %s)."
+msgstr ""
+
+#: inc/elements/separator.php:35
+msgid "Element Height"
+msgstr ""
+
+#: inc/elements/separator.php:55
+msgid "This will be disabled if a gradient color is used."
+msgstr ""
+
+#: inc/elements/separator.php:68
+msgid "Select separator alignment."
+msgstr ""
+
+#: inc/elements/service-table.php:48
+msgid "Service Table"
+msgstr ""
+
+#: inc/elements/service-table.php:49
+msgid "Show what your business is about"
+msgstr ""
+
+#: inc/elements/service-table.php:93 inc/params/button-params.php:200
+msgid "Add icon?"
+msgstr ""
+
+#: inc/elements/single-image.php:17
+msgid "Single Image"
+msgstr ""
+
+#: inc/elements/single-image.php:18
+msgid "A single image item"
+msgstr ""
+
+#: inc/elements/single-image.php:62 inc/params/button-params.php:112
+msgid "Shape"
+msgstr ""
+
+#: inc/elements/single-image.php:67 inc/elements/social-icons.php:67
+#: inc/params/button-params.php:120 inc/params/icon-params.php:325
+msgid "Rounded"
+msgstr ""
+
+#: inc/elements/single-image.php:82
+msgid "Shadow"
+msgstr ""
+
+#: inc/elements/single-image.php:90 inc/params/button-params.php:185
+msgid "Hover effect"
+msgstr ""
+
+#: inc/elements/single-image.php:99
+msgid "Add caption?"
+msgstr ""
+
+#: inc/elements/single-image.php:101
+msgid "Add image caption."
+msgstr ""
+
+#: inc/elements/single-image.php:108
+msgid "Image alignment"
+msgstr ""
+
+#: inc/elements/single-image.php:147
+msgid "Image link"
+msgstr ""
+
+#: inc/elements/social-icons-custom.php:29
+msgid "Social Icons Custom"
+msgstr ""
+
+#: inc/elements/social-icons-custom.php:32
+msgid "A set of icons with custom URLs"
+msgstr ""
+
+#: inc/elements/social-icons.php:18
+msgid "Social Icons"
+msgstr ""
+
+#: inc/elements/social-icons.php:21
+msgid "A set of icons linked to your social profiles"
+msgstr ""
+
+#: inc/elements/social-icons.php:32
+msgid ""
+"Enter the service names separated by a comma. Leave empty to display them "
+"all.<br>You can set your profiles in the <a href=\"%s\" target=\"_blank"
+"\">plugin settings</a>."
+msgstr ""
+
+#: inc/elements/social-icons.php:54
+msgid "Target"
+msgstr ""
+
+#: inc/elements/social-icons.php:61 inc/params/icon-params.php:319
+msgid "Background shape"
+msgstr ""
+
+#: inc/elements/social-icons.php:68 inc/params/icon-params.php:326
+msgid "Outline Circle"
+msgstr ""
+
+#: inc/elements/social-icons.php:69 inc/params/button-params.php:123
+#: inc/params/icon-params.php:327
+msgid "Outline Square"
+msgstr ""
+
+#: inc/elements/social-icons.php:70 inc/params/button-params.php:124
+#: inc/params/icon-params.php:328
+msgid "Outline Rounded"
+msgstr ""
+
+#: inc/elements/social-icons.php:72 inc/params/icon-params.php:331
+msgid "Select background shape and style for icon."
+msgstr ""
+
+#: inc/elements/social-icons.php:108 inc/params/icon-params.php:372
+msgid "Background color"
+msgstr ""
+
+#: inc/elements/social-icons.php:115 inc/params/icon-params.php:378
+msgid "Select background color for icon."
+msgstr ""
+
+#: inc/elements/social-icons.php:124 inc/params/icon-params.php:387
+msgid "Custom background color"
+msgstr ""
+
+#: inc/elements/social-icons.php:126 inc/params/icon-params.php:389
+msgid "Select custom icon background color."
+msgstr ""
+
+#: inc/elements/social-icons.php:142 inc/params/icon-params.php:452
+msgid "Tiny"
+msgstr ""
+
+#: inc/elements/social-icons.php:148 inc/params/icon-params.php:398
+msgid "Hover Transition"
+msgstr ""
+
+#: inc/elements/social-icons.php:153 inc/params/icon-params.php:403
+msgid "Inset border"
+msgstr ""
+
+#: inc/elements/social-icons.php:154 inc/params/icon-params.php:404
+msgid "Sonar"
+msgstr ""
+
+#: inc/elements/social-icons.php:155 inc/params/icon-params.php:405
+msgid "Fill"
+msgstr ""
+
+#: inc/elements/social-icons.php:156 inc/params/icon-params.php:406
+msgid "Pop"
+msgstr ""
+
+#: inc/elements/social-icons.php:157 inc/params/icon-params.php:407
+msgid "Rotate"
+msgstr ""
+
+#: inc/elements/social-icons.php:169
+msgid "Direction"
+msgstr ""
+
+#: inc/elements/social-icons.php:173
+msgid "Horizontal"
+msgstr ""
+
+#: inc/elements/social-icons.php:174
+msgid "Vertical"
+msgstr ""
+
+#: inc/elements/social-icons.php:181
+msgid "Animate Icons One By One"
+msgstr ""
+
+#: inc/elements/soundcloud.php:18
+msgid "Soundcloud"
+msgstr ""
+
+#: inc/elements/soundcloud.php:20
+msgid "An embed Soundcloud playlist or song"
+msgstr ""
+
+#: inc/elements/soundcloud.php:29
+msgid "Playlist or Song URL"
+msgstr ""
+
+#: inc/elements/tab.php:17 templates/vc_tab.php:18
+msgid "Tab"
+msgstr ""
+
+#: inc/elements/tab.php:27
+msgid "Tab title."
+msgstr ""
+
+#: inc/elements/tabs.php:20
+msgid "Tabs"
+msgstr ""
+
+#: inc/elements/tabs.php:26
+msgid "Tabbed contents"
+msgstr ""
+
+#: inc/elements/tabs.php:46
+msgid "Tabs Alignment"
+msgstr ""
+
+#: inc/elements/tabs.php:62
+msgid "Tab 1"
+msgstr ""
+
+#: inc/elements/tabs.php:63
+msgid "Tab 2"
+msgstr ""
+
+#: inc/elements/team-member.php:17
+msgid "Team Member"
+msgstr ""
+
+#: inc/elements/team-member.php:21
+msgid "Present your staff members"
+msgstr ""
+
+#: inc/elements/team-member.php:25
+msgid "Photo"
+msgstr ""
+
+#: inc/elements/team-member.php:44
+msgid "Overlay"
+msgstr ""
+
+#: inc/elements/team-member.php:45
+msgid "Flip Box"
+msgstr ""
+
+#: inc/elements/team-member.php:121
+msgid "Name"
+msgstr ""
+
+#: inc/elements/team-member.php:128
+msgid "Name Font Size"
+msgstr ""
+
+#: inc/elements/team-member.php:134
+msgid "Role"
+msgstr ""
+
+#: inc/elements/team-member.php:199
+msgid "Add Social Profiles"
+msgstr ""
+
+#: inc/elements/testimonial-slide.php:18
+msgid "Testimonial"
+msgstr ""
+
+#: inc/elements/testimonial-slide.php:28
+msgid "I am very happy with everything."
+msgstr ""
+
+#: inc/elements/testimonial-slide.php:33
+msgid "Signature"
+msgstr ""
+
+#: inc/elements/testimonial-slide.php:35
+msgid "A happy customer"
+msgstr ""
+
+#: inc/elements/testimonial-slide.php:41
+msgid "Avatar"
+msgstr ""
+
+#: inc/elements/testimonial-slider.php:18
+msgid "Testimonials Slider"
+msgstr ""
+
+#: inc/elements/testimonial-slider.php:23
+msgid "Show the feedbacks submitted by your happy customers"
+msgstr ""
+
+#: inc/elements/testimonials.php:22
+msgid "Testimonials"
+msgstr ""
+
+#: inc/elements/testimonials.php:23
+msgid "Display quotes from the testimonial post type"
+msgstr ""
+
+#: inc/elements/toggle.php:17
+msgid "Toggle"
+msgstr ""
+
+#: inc/elements/toggle.php:27
+msgid "My Title"
+msgstr ""
+
+#: inc/elements/toggle.php:35
+msgid "Toggle content goes here, click edit button to change this text."
+msgstr ""
+
+#: inc/elements/toggle.php:40
+msgid "Open by default"
+msgstr ""
+
+#: inc/elements/twitter.php:22
+msgid "Twitter Feed"
+msgstr ""
+
+#: inc/elements/twitter.php:24
+msgid "Your last tweets"
+msgstr ""
+
+#: inc/elements/twitter.php:32
+msgid "Username"
+msgstr ""
+
+#: inc/elements/twitter.php:43
+msgid "Single"
+msgstr ""
+
+#: inc/elements/typed.php:18
+msgid "Autotyping"
+msgstr ""
+
+#: inc/elements/typed.php:19
+msgid "An animated typing text"
+msgstr ""
+
+#: inc/elements/typed.php:27
+msgid "Animated Text"
+msgstr ""
+
+#: inc/elements/typed.php:29
+msgid "Enter one sentence per line."
+msgstr ""
+
+#: inc/elements/typed.php:35
+msgid "Text Before"
+msgstr ""
+
+#: inc/elements/typed.php:37
+msgid "My sentence starts with this"
+msgstr ""
+
+#: inc/elements/typed.php:43
+msgid "Text After"
+msgstr ""
+
+#: inc/elements/typed.php:45
+msgid "My sentence ends with this"
+msgstr ""
+
+#: inc/elements/typed.php:51
+msgid "Cursor"
+msgstr ""
+
+#: inc/elements/typed.php:68 inc/elements/video-opener.php:48
+msgid "left"
+msgstr ""
+
+#: inc/elements/typed.php:69 inc/elements/video-opener.php:49
+msgid "right"
+msgstr ""
+
+#: inc/elements/typed.php:70 inc/elements/video-opener.php:47
+msgid "center"
+msgstr ""
+
+#: inc/elements/typed.php:89
+msgid "Text Style"
+msgstr ""
+
+#: inc/elements/typed.php:93
+msgid "italic"
+msgstr ""
+
+#: inc/elements/typed.php:142
+msgid "Speed in ms"
+msgstr ""
+
+#: inc/elements/video-opener.php:18
+msgid "Video Opener"
+msgstr ""
+
+#: inc/elements/video-opener.php:20
+msgid "Open a video in a lightbox"
+msgstr ""
+
+#: inc/elements/video-opener.php:27
+msgid "Custom Play Button"
+msgstr ""
+
+#: inc/elements/video-opener.php:37
+msgid "Button Image"
+msgstr ""
+
+#: inc/elements/video-opener.php:83
+msgid "Watch \"My Video Title\""
+msgstr ""
+
+#: inc/elements/video-self-hosted.php:17
+msgid "Self-Hosted Video"
+msgstr ""
+
+#: inc/elements/video-self-hosted.php:19
+msgid "Self-hosted video player"
+msgstr ""
+
+#: inc/elements/video.php:20
+msgid "Embed YouTube/Vimeo player"
+msgstr ""
+
+#: inc/elements/video.php:31
+msgid ""
+"Link to the video. More about supported formats at <a href=\"%s\" target="
+"\"_blank\">WordPress codex page.</a>"
+msgstr ""
+
+#: inc/elements/videos.php:22
+msgid "Last Videos"
+msgstr ""
+
+#: inc/elements/videos.php:23
+msgid "The last videos from your video gallery"
+msgstr ""
+
+#: inc/elements/youtube.php:17
+msgid "YouTube Video"
+msgstr ""
+
+#: inc/elements/youtube.php:19
+msgid "A YouTube video with video preview"
+msgstr ""
+
+#: inc/elements/youtube.php:27
+msgid "YouTube Video URL"
+msgstr ""
+
+#: inc/elements/youtube.php:49
+msgid "Video Preview"
+msgstr ""
+
+#: inc/frontend/frontend-functions.php:52
+msgid "View all posts by %s"
+msgstr ""
+
+#. Translators: used between list items, there is a space after the comma.
+#: inc/frontend/frontend-functions.php:80
+#: inc/frontend/frontend-functions.php:88
+msgid ", "
+msgstr ""
+
+#: inc/frontend/frontend-functions.php:127
+#: inc/frontend/frontend-functions.php:128
+msgid "%s ago"
+msgstr ""
+
+#: inc/frontend/scripts.php:256
+msgid "An unknown error occured."
+msgstr ""
+
+#: inc/mailchimp.php:35 templates/wvc_mailchimp.php:26
+msgid "enter your email address"
+msgstr ""
+
+#: inc/mailchimp.php:111
+msgid ""
+"<p class=\"wvc-text-center\">You must set a MailChimp API key in the <a href="
+"\"%s\" target=\"_blank\">Wolf WPBakery Page Builder Extension</a>. You can "
+"get your MailChimp API <a href=\"%s\" target=\"_blank\">here</a>.<p>"
+msgstr ""
+
+#: inc/mailchimp.php:119
+msgid "You must set a list ID."
+msgstr ""
+
+#: inc/mailchimp.php:128
+msgid "Subscription to our newsletter open soon."
+msgstr ""
+
+#: inc/params/background-params.php:23
+msgid "Background type"
+msgstr ""
+
+#: inc/params/background-params.php:28
+msgid "Slideshow"
+msgstr ""
+
+#: inc/params/background-params.php:30
+msgid "No Background"
+msgstr ""
+
+#: inc/params/background-params.php:31
+msgid "Default WordPress Header"
+msgstr ""
+
+#: inc/params/background-params.php:131
+msgid "Background Effect"
+msgstr ""
+
+#: inc/params/background-params.php:135
+msgid "Parallax"
+msgstr ""
+
+#: inc/params/background-params.php:136
+msgid "Zoom"
+msgstr ""
+
+#: inc/params/background-params.php:137
+msgid "Fixed"
+msgstr ""
+
+#: inc/params/background-params.php:158
+msgid "Video Start Time"
+msgstr ""
+
+#: inc/params/background-params.php:161
+msgid "Set at which second the video will start (only for YouTube video)."
+msgstr ""
+
+#: inc/params/background-params.php:169
+msgid "Video Parallax"
+msgstr ""
+
+#: inc/params/background-params.php:182
+msgid "Loop video."
+msgstr ""
+
+#: inc/params/background-params.php:194
+msgid ""
+"Beta: If set to \"No\", the video will stop at the end only for YouTube "
+"video when parallax is not enabled."
+msgstr ""
+
+#: inc/params/background-params.php:202
+msgid "An image to display when the video can't be played."
+msgstr ""
+
+#: inc/params/background-params.php:211
+msgid "Slideshow Images"
+msgstr ""
+
+#: inc/params/background-params.php:221
+msgid "Slideshow Speed"
+msgstr ""
+
+#: inc/params/background-params.php:223
+msgid "In milliseconds."
+msgstr ""
+
+#: inc/params/background-params.php:290
+msgid "Add Particles"
+msgstr ""
+
+#: inc/params/bigtext-params.php:25
+msgid "A big line of text that will take the full width of its container"
+msgstr ""
+
+#: inc/params/bigtext-params.php:36
+msgid "My mega big text"
+msgstr ""
+
+#: inc/params/bigtext-params.php:38
+msgid "You can add several lines of text."
+msgstr ""
+
+#: inc/params/button-params.php:63
+msgid "Eye catching button"
+msgstr ""
+
+#: inc/params/button-params.php:80
+msgid "URL (Link)"
+msgstr ""
+
+#: inc/params/button-params.php:82
+msgid "Add link to button."
+msgstr ""
+
+#: inc/params/button-params.php:95
+msgid "Select button color."
+msgstr ""
+
+#: inc/params/button-params.php:103
+msgid "Select custom button color."
+msgstr ""
+
+#: inc/params/button-params.php:113
+msgid "Select button shape."
+msgstr ""
+
+#: inc/params/button-params.php:121
+msgid "Outline Standard"
+msgstr ""
+
+#: inc/params/button-params.php:122
+msgid "Outline Round"
+msgstr ""
+
+#: inc/params/button-params.php:126
+msgid "Select background shape and style for button."
+msgstr ""
+
+#: inc/params/button-params.php:148
+msgid "Select button display size."
+msgstr ""
+
+#: inc/params/button-params.php:163
+msgid "Select button alignment."
+msgstr ""
+
+#: inc/params/button-params.php:175
+msgid "Set full width button?"
+msgstr ""
+
+#: inc/params/button-params.php:192
+msgid "Fill Vertical"
+msgstr ""
+
+#: inc/params/button-params.php:193
+msgid "Fill Horizontal"
+msgstr ""
+
+#: inc/params/button-params.php:206
+msgid "Icon Alignment"
+msgstr ""
+
+#: inc/params/button-params.php:207
+msgid "Select icon alignment."
+msgstr ""
+
+#: inc/params/button-params.php:221
+msgid "Reveal Icon on Hover"
+msgstr ""
+
+#: inc/params/button-params.php:222
+msgid "The icon will be visible on hover only."
+msgstr ""
+
+#: inc/params/button-params.php:245 inc/params/icon-params.php:549
+msgid "Scroll to anchor?"
+msgstr ""
+
+#: inc/params/column-inner-params.php:23 inc/params/column-params.php:34
+msgid "Vertical Position"
+msgstr ""
+
+#: inc/params/column-inner-params.php:31 inc/params/column-params.php:42
+msgid "Select the vertical position of the content."
+msgstr ""
+
+#: inc/params/column-inner-params.php:36 inc/params/column-params.php:47
+msgid "Horizontal Position"
+msgstr ""
+
+#: inc/params/column-inner-params.php:43 inc/params/column-inner-params.php:82
+#: inc/params/column-params.php:54 inc/params/column-params.php:93
+msgid "Select the horizontal position of the content."
+msgstr ""
+
+#: inc/params/column-inner-params.php:48 inc/params/column-params.php:59
+msgid "Default Text Alignment"
+msgstr ""
+
+#: inc/params/column-inner-params.php:56 inc/params/column-params.php:67
+msgid ""
+"Specify the text alignment inside the column. It can be overwritten in some "
+"elements."
+msgstr ""
+
+#: inc/params/column-inner-params.php:61 inc/params/column-params.php:72
+msgid "Content Min Height"
+msgstr ""
+
+#: inc/params/column-inner-params.php:68 inc/params/column-params.php:79
+msgid "Content Max Width"
+msgstr ""
+
+#: inc/params/column-inner-params.php:75 inc/params/column-params.php:86
+msgid "Column Style"
+msgstr ""
+
+#: inc/params/column-inner-params.php:79 inc/params/column-params.php:90
+#: inc/params/row-params.php:51
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/params/column-inner-params.php:80 inc/params/column-params.php:91
+msgid "Boxed with Hover Effect"
+msgstr ""
+
+#: inc/params/column-inner-params.php:87 inc/params/column-params.php:98
+msgid "Width"
+msgstr ""
+
+#: inc/params/column-inner-params.php:91 inc/params/column-params.php:102
+msgid "1 column - 1/12"
+msgstr ""
+
+#: inc/params/column-inner-params.php:92 inc/params/column-params.php:103
+msgid "2 columns - 1/6"
+msgstr ""
+
+#: inc/params/column-inner-params.php:93 inc/params/column-params.php:104
+msgid "3 columns - 1/4"
+msgstr ""
+
+#: inc/params/column-inner-params.php:94 inc/params/column-params.php:105
+msgid "4 columns - 1/3"
+msgstr ""
+
+#: inc/params/column-inner-params.php:95 inc/params/column-params.php:106
+msgid "5 columns - 5/12"
+msgstr ""
+
+#: inc/params/column-inner-params.php:96 inc/params/column-params.php:107
+msgid "6 columns - 1/2"
+msgstr ""
+
+#: inc/params/column-inner-params.php:97 inc/params/column-params.php:108
+msgid "7 columns - 7/12"
+msgstr ""
+
+#: inc/params/column-inner-params.php:98 inc/params/column-params.php:109
+msgid "8 columns - 2/3"
+msgstr ""
+
+#: inc/params/column-inner-params.php:99 inc/params/column-params.php:110
+msgid "9 columns - 3/4"
+msgstr ""
+
+#: inc/params/column-inner-params.php:100 inc/params/column-params.php:111
+msgid "10 columns - 5/6"
+msgstr ""
+
+#: inc/params/column-inner-params.php:101 inc/params/column-params.php:112
+msgid "11 columns - 11/12"
+msgstr ""
+
+#: inc/params/column-inner-params.php:102 inc/params/column-params.php:113
+msgid "12 columns - 1/1"
+msgstr ""
+
+#: inc/params/column-inner-params.php:105 inc/params/column-params.php:116
+msgid "Select column width."
+msgstr ""
+
+#: inc/params/column-params.php:22
+msgid "Content type"
+msgstr ""
+
+#: inc/params/column-params.php:25
+msgid "Text (padding)"
+msgstr ""
+
+#: inc/params/column-params.php:27
+msgid "Media (no padding)"
+msgstr ""
+
+#: inc/params/column-params.php:29
+msgid "Select type of content you will insert."
+msgstr ""
+
+#: inc/params/column-params.php:123
+msgid "Shift X-Axis"
+msgstr ""
+
+#: inc/params/column-params.php:136 inc/params/row-params.php:192
+msgid "Shift Y-Axis"
+msgstr ""
+
+#: inc/params/column-params.php:148 inc/params/row-params.php:204
+msgid "Custom Z-Index"
+msgstr ""
+
+#: inc/params/icon-params.php:23
+msgid "Icon Box"
+msgstr ""
+
+#: inc/params/icon-params.php:24
+msgid "Icon box from icon library"
+msgstr ""
+
+#: inc/params/icon-params.php:32
+msgid "Icon Type"
+msgstr ""
+
+#: inc/params/icon-params.php:35
+msgid "Animated Icon"
+msgstr ""
+
+#: inc/params/icon-params.php:44
+msgid "Icon library"
+msgstr ""
+
+#: inc/params/icon-params.php:46
+msgid "Font Awesome"
+msgstr ""
+
+#: inc/params/icon-params.php:47
+msgid "Linearcons"
+msgstr ""
+
+#: inc/params/icon-params.php:48
+msgid "Linea Icons"
+msgstr ""
+
+#: inc/params/icon-params.php:49
+msgid "Elegant Icons"
+msgstr ""
+
+#: inc/params/icon-params.php:50
+msgid "Open Iconic"
+msgstr ""
+
+#: inc/params/icon-params.php:51
+msgid "Typicons"
+msgstr ""
+
+#: inc/params/icon-params.php:52
+msgid "Entypo"
+msgstr ""
+
+#: inc/params/icon-params.php:53
+msgid "Linecons"
+msgstr ""
+
+#: inc/params/icon-params.php:55
+msgid "Socicon"
+msgstr ""
+
+#: inc/params/icon-params.php:56
+msgid "Material"
+msgstr ""
+
+#: inc/params/icon-params.php:57
+msgid "Wolf Rare Icons"
+msgstr ""
+
+#: inc/params/icon-params.php:61
+msgid "Select icon library."
+msgstr ""
+
+#: inc/params/icon-params.php:80 inc/params/icon-params.php:96
+#: inc/params/icon-params.php:112 inc/params/icon-params.php:128
+#: inc/params/icon-params.php:144 inc/params/icon-params.php:160
+#: inc/params/icon-params.php:191 inc/params/icon-params.php:207
+#: inc/params/icon-params.php:223 inc/params/icon-params.php:239
+#: inc/params/icon-params.php:255 inc/params/icon-params.php:282
+msgid "Select icon from library."
+msgstr ""
+
+#: inc/params/icon-params.php:260
+msgid "Icon Image"
+msgstr ""
+
+#: inc/params/icon-params.php:329
+msgid "Ban"
+msgstr ""
+
+#: inc/params/icon-params.php:424
+msgid "Left from Title"
+msgstr ""
+
+#: inc/params/icon-params.php:426
+msgid "Right from Title"
+msgstr ""
+
+#: inc/params/icon-params.php:433
+msgid "Text Alignement"
+msgstr ""
+
+#: inc/params/icon-params.php:475
+msgid "Title Font Family"
+msgstr ""
+
+#: inc/params/icon-params.php:510
+msgid "Title Letter Spacing"
+msgstr ""
+
+#: inc/params/row-inner-params.php:34
+msgid "Row Width"
+msgstr ""
+
+#: inc/params/row-inner-params.php:38 inc/params/row-params.php:65
+msgid "Standard width (%s centered)"
+msgstr ""
+
+#: inc/params/row-inner-params.php:39 inc/params/row-params.php:66
+msgid "Small width (%s centered)"
+msgstr ""
+
+#: inc/params/row-inner-params.php:46 inc/params/row-params.php:77
+#: inc/params/section-params.php:37
+msgid "Min Height"
+msgstr ""
+
+#: inc/params/row-inner-params.php:49 inc/params/section-params.php:40
+msgid "Insert the row minimum height in pixel."
+msgstr ""
+
+#: inc/params/row-inner-params.php:120 inc/params/row-params.php:177
+#: inc/params/section-params.php:95 inc/vc-additional-params.php:441
+msgid "Visibility"
+msgstr ""
+
+#: inc/params/row-inner-params.php:123 inc/params/row-params.php:180
+#: inc/params/section-params.php:98 inc/vc-additional-params.php:444
+msgid "Always visible"
+msgstr ""
+
+#: inc/params/row-inner-params.php:124 inc/params/row-params.php:181
+#: inc/params/section-params.php:99 inc/vc-additional-params.php:445
+msgid "Hide on tablet and mobile"
+msgstr ""
+
+#: inc/params/row-inner-params.php:125 inc/params/row-params.php:182
+#: inc/params/section-params.php:100 inc/vc-additional-params.php:446
+msgid "Hide on mobile"
+msgstr ""
+
+#: inc/params/row-inner-params.php:126 inc/params/row-params.php:183
+#: inc/params/section-params.php:101 inc/vc-additional-params.php:447
+msgid "Show on tablet and mobile only"
+msgstr ""
+
+#: inc/params/row-inner-params.php:127 inc/params/row-params.php:184
+#: inc/params/section-params.php:102 inc/vc-additional-params.php:448
+msgid "Show on mobile only"
+msgstr ""
+
+#: inc/params/row-inner-params.php:128 inc/params/row-params.php:185
+#: inc/params/section-params.php:103 inc/vc-additional-params.php:449
+msgid "Always hidden"
+msgstr ""
+
+#: inc/params/row-inner-params.php:135 inc/params/row-params.php:217
+#: inc/params/section-params.php:110 inc/vc-additional-params.php:87
+msgid "Extra class name"
+msgstr ""
+
+#: inc/params/row-inner-params.php:137 inc/params/row-params.php:219
+#: inc/params/section-params.php:112 inc/vc-additional-params.php:89
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: inc/params/row-params.php:23
+msgid "Column Type"
+msgstr ""
+
+#: inc/params/row-params.php:27
+msgid "Blocks"
+msgstr ""
+
+#: inc/params/row-params.php:30
+msgid "This will set a default style for your columns."
+msgstr ""
+
+#: inc/params/row-params.php:36
+msgid "Container Width"
+msgstr ""
+
+#: inc/params/row-params.php:39
+msgid "Wide"
+msgstr ""
+
+#: inc/params/row-params.php:40
+msgid "Boxed"
+msgstr ""
+
+#: inc/params/row-params.php:41
+msgid "Small Boxed"
+msgstr ""
+
+#: inc/params/row-params.php:42
+msgid "Large Boxed"
+msgstr ""
+
+#: inc/params/row-params.php:62
+msgid "Content Width"
+msgstr ""
+
+#: inc/params/row-params.php:67
+msgid "Large width (%s centered)"
+msgstr ""
+
+#: inc/params/row-params.php:68
+msgid "Full width (%s)"
+msgstr ""
+
+#: inc/params/row-params.php:80
+msgid "Insert the row minimum height."
+msgstr ""
+
+#: inc/params/row-params.php:86
+msgid "Full height row?"
+msgstr ""
+
+#: inc/params/row-params.php:88
+msgid "If checked row will be set to full height."
+msgstr ""
+
+#: inc/params/row-params.php:96
+msgid "Columns Position"
+msgstr ""
+
+#: inc/params/row-params.php:103
+msgid "Stretch"
+msgstr ""
+
+#: inc/params/row-params.php:105
+msgid "Select columns position within row."
+msgstr ""
+
+#: inc/params/row-params.php:115
+msgid "Content Position"
+msgstr ""
+
+#: inc/params/row-params.php:123
+msgid "Select content position within columns."
+msgstr ""
+
+#: inc/params/row-params.php:129 inc/params/section-params.php:69
+msgid "Add pointing down arrow"
+msgstr ""
+
+#: inc/params/row-params.php:130 inc/params/section-params.php:70
+msgid "Allow user to scroll to the next section when clicking on the arrow"
+msgstr ""
+
+#: inc/params/row-params.php:138 inc/params/section-params.php:78
+msgid "Arrow Caption"
+msgstr ""
+
+#: inc/params/row-params.php:140 inc/params/section-params.php:80
+msgid "Continue"
+msgstr ""
+
+#: inc/params/row-params.php:150
+msgid "Arrow Alignement"
+msgstr ""
+
+#: inc/params/row-params.php:166
+msgid "Equal height"
+msgstr ""
+
+#: inc/params/row-params.php:168
+msgid "If checked columns will be set to equal height."
+msgstr ""
+
+#: inc/params/row-params.php:242 inc/params/section-params.php:87
+msgid "Section name"
+msgstr ""
+
+#: inc/params/row-params.php:244 inc/params/section-params.php:89
+msgid "Required for the onepage scroll, this gives the name to the section."
+msgstr ""
+
+#: inc/params/section-params.php:46
+msgid "Full height section?"
+msgstr ""
+
+#: inc/params/section-params.php:48
+msgid "If checked section will be set to full height."
+msgstr ""
+
+#: inc/params/section-params.php:124 inc/params/style-params.php:22
+msgid "CSS box"
+msgstr ""
+
+#: inc/theme-functions.php:36
+msgid "Logo SVG"
+msgstr ""
+
+#: inc/theme-functions.php:38
+msgid ""
+"You don't need to upload a dark and light version for your logo if you "
+"upload an SVG file. The SVG format can contain unsecured content. Be sure "
+"that the file you download is safe."
+msgstr ""
+
+#: inc/vc-additional-params.php:117 inc/vc-additional-params.php:127
+#: inc/vc-additional-params.php:138 inc/vc-additional-params.php:145
+#: inc/vc-additional-params.php:155 inc/vc-additional-params.php:165
+#: inc/vc-additional-params.php:176
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/vc-additional-params.php:131
+msgid "Transition"
+msgstr ""
+
+#: inc/vc-additional-params.php:134
+msgid "Auto (fade by default and slide on touchable devices)"
+msgstr ""
+
+#: inc/vc-additional-params.php:135
+msgid "Slide"
+msgstr ""
+
+#: inc/vc-additional-params.php:136
+msgid "Fade"
+msgstr ""
+
+#: inc/vc-additional-params.php:170
+msgid "Navigation Tone"
+msgstr ""
+
+#: inc/vc-additional-params.php:258
+msgid "Animation Delay (in ms)"
+msgstr ""
+
+#: inc/vc-additional-params.php:343
+msgid "Css"
+msgstr ""
+
+#: inc/vc-custom-fields.php:118 inc/vc-custom-fields.php:135
+msgid "Media Library"
+msgstr ""
+
+#: inc/vc-presets.php:23
+msgid "Wolf Row Presets"
+msgstr ""
+
+#: templates/vc_gmaps.php:38
+msgid ""
+"<p class=\"wvc-text-center\">You must set a Google Map API key in the <a "
+"style=\"text-decoration:underline;\" href=\"%s\" target=\"_blank\">Wolf "
+"Visual Composer settings</a>. You can get your Google Map API <a style="
+"\"text-decoration:underline;\" href=\"%s\" target=\"_blank\">here</a>.<p>"
+msgstr ""
+
+#: templates/wvc_album_tracklist_item.php:99
+msgid "Download"
+msgstr ""
+
+#: templates/wvc_album_tracklist_item.php:108
+#: templates/wvc_album_tracklist_item.php:112
+#: templates/wvc_album_tracklist_item.php:116
+msgid "Buy on %s"
+msgstr ""
+
+#: templates/wvc_album_tracklist_item.php:120
+msgid "Buy"
+msgstr ""
+
+#: templates/wvc_album_tracklist_item.php:124
+msgid "Add to cart"
+msgstr ""
+
+#: templates/wvc_bandsintown_events.php:80
+#: templates/wvc_bandsintown_tracking_button.php:72
+msgid "Please set an artist."
+msgstr ""
+
+#: templates/wvc_bandsintown_events.php:82
+msgid "No event scheduled."
+msgstr ""
+
+#: templates/wvc_countdown.php:22
+msgid "Done!"
+msgstr ""
+
+#: templates/wvc_embed_video.php:79 templates/wvc_youtube.php:77
+msgid "Watch %s"
+msgstr ""
+
+#: templates/wvc_embed_video.php:81 templates/wvc_youtube.php:79
+msgid "Play Video"
+msgstr ""
+
+#: templates/wvc_facebook_page_box.php:16 templates/wvc_instagram.php:16
+msgid ""
+"<p>Please install <a href=\"%s\" target=\"_blank\">%s</a> plugin to display "
+"this element.</p>"
+msgstr ""
+
+#: templates/wvc_last_posts.php:161 templates/wvc_post_slider.php:178
+msgid "No post found."
+msgstr ""
+
+#: templates/wvc_post_slider.php:182
+msgid "Only posts with a featured image will be displayed."
+msgstr ""
+
+#: templates/wvc_pricing_table.php:29
+msgid "Buy Now"
+msgstr ""
+
+#: views/post/content-grid.php:26
+msgid "Edit"
+msgstr ""
+
+#: views/post/content-post-slider.php:49
+msgid "Continue reading"
+msgstr ""
+
+#: wolf-visual-composer.php:123
+msgid ""
+"<strong>%s</strong> requires <strong><a href=\"%s\" target=\"_blank"
+"\">WPBakery Page Builder</a></strong> plugin to be installed and activated "
+"on your site."
+msgstr ""
+
+#: wolf-visual-composer.php:137
+msgid "Sorry, but <strong>%s</strong> will not work with this theme."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Wolf WPBakery Page Builder Extension"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wolfthemes.com/plugin/wolf-visual-composer"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A WordPress plugin that extends WP Bakery Page Builder for Wolf Themes."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WolfThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wolfthemes.com"
+msgstr ""
+
+#. Translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: inc/google-fonts.php:67
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: inc/vc-custom-fields.php:66
+msgctxt "placeholder text"
+msgid ""
+"And there was silence over the oceans. When a voice came thundering from "
+"above."
+msgstr ""

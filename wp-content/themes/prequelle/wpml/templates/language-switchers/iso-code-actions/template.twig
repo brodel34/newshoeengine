@@ -1,0 +1,7 @@
+<div class="{{ css_classes }} custom-wpml-iso-codes">
+	{% for code, language in languages %}
+		<a class="{{ language.css_classes }}" href="{{ language.url }}">
+			{{ code|upper }}
+		</a>
+	{% endfor %}
+</div>

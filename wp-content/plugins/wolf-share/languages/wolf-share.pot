@@ -1,0 +1,125 @@
+# Copyright (C) 2018 WolfThemes
+# This file is distributed under the same license as the Wolf Share package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Wolf Share 1.0.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wolf-share\n"
+"POT-Creation-Date: 2018-05-07 15:53:13+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: inc/admin/class-ws-admin.php:56
+msgid "Settings"
+msgstr ""
+
+#: inc/admin/class-ws-options.php:49
+msgid "Share Buttons"
+msgstr ""
+
+#: inc/admin/class-ws-options.php:58
+msgid "Post Types"
+msgstr ""
+
+#: inc/admin/class-ws-options.php:59
+msgid "Services"
+msgstr ""
+
+#: inc/admin/class-ws-options.php:132
+msgid "Share Button Options"
+msgstr ""
+
+#: inc/admin/class-ws-options.php:135
+msgid "Settings saved."
+msgstr ""
+
+#: inc/admin/class-ws-options.php:141
+msgid "Save Changes"
+msgstr ""
+
+#: templates/share-buttons.php:13
+msgid "Shared %s times"
+msgstr ""
+
+#: templates/share-buttons.php:26 templates/share-buttons.php:40
+#: templates/share-buttons.php:54 templates/share-buttons.php:70
+#: templates/share-buttons.php:84 templates/share-buttons.php:99
+#: templates/share-buttons.php:113 templates/share-buttons.php:129
+#: templates/share-buttons.php:145 templates/share-buttons.php:161
+msgid "Share on %s"
+msgstr ""
+
+#: templates/share-buttons.php:28
+msgid "Facebook"
+msgstr ""
+
+#: templates/share-buttons.php:42 templates/share-buttons.php:56
+msgid "Twitter"
+msgstr ""
+
+#: templates/share-buttons.php:72
+msgid "Pinterest"
+msgstr ""
+
+#: templates/share-buttons.php:86
+msgid "Tumblr"
+msgstr ""
+
+#: templates/share-buttons.php:101
+msgid "Google Plus"
+msgstr ""
+
+#: templates/share-buttons.php:115
+msgid "LinkedIn"
+msgstr ""
+
+#: templates/share-buttons.php:131
+msgid "StumbleUpon"
+msgstr ""
+
+#: templates/share-buttons.php:147
+msgid "VKontakte"
+msgstr ""
+
+#: templates/share-buttons.php:163
+msgid "Xing"
+msgstr ""
+
+#: templates/share-buttons.php:175
+msgid "Share by %s"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Wolf Share"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wolfthemes.com/plugin/wolf-share"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A WordPress plugin to add share buttons to your post."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WolfThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wolfthemes.com"
+msgstr ""

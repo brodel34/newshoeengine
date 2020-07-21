@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WolfGram\n"
+"POT-Creation-Date: 2014-02-22 13:53+0100\n"
+"PO-Revision-Date: 2014-07-21 15:38+0100\n"
+"Last-Translator: Gigi Pastore <gigi@la-fabbrica.org>\n"
+"Language-Team: wpwolf.com <support@wpwolf.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wolf-gram-widget.php:33
+msgid "Display your last instagram shots"
+msgstr "Visualizza le tue ultime aggiunte ad instagram"
+
+#: ../wolf-gram-widget.php:35
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../wolf-gram-widget.php:116
+msgid "Instagrams"
+msgstr "Instagrams"
+
+#: ../wolf-gram-widget.php:135
+msgid "Title"
+msgstr "Titolo"
+
+#: ../wolf-gram-widget.php:139
+msgid "Optional Text"
+msgstr "testo Fascoltativo"
+
+#: ../wolf-gram-widget.php:143
+msgid "Count"
+msgstr ""
+
+#: ../wolf-gram-widget.php:147
+msgid "Display"
+msgstr "Vedi"
+
+#: ../wolf-gram-widget.php:149
+msgid "thumbnails"
+msgstr "anteprime"
+
+#: ../wolf-gram-widget.php:150
+msgid "slideshow"
+msgstr "slideshow"
+
+#: ../wolf-gram-widget.php:154
+msgid "Time between animation in milliseconds"
+msgstr "Ritardo tra le animazioni in millisecondi"
+
+#: ../wolf-gram.php:145
+msgid "Number of photos to display in the Instagram gallery (max 30)"
+msgstr "Numero di foto da visualizzare nella galleria di Instagram (max 30)"
+
+#: ../wolf-gram.php:146
+msgid "Lightbox (thumbnails widgets)"
+msgstr "Lightbox (widget anteprime)"
+
+#: ../wolf-gram.php:147
+msgid "Widget Images Link"
+msgstr "Link Widget Immagini"
+
+#: ../wolf-gram.php:148
+msgid "Gallery Images Link"
+msgstr "Link Immagini Galleria"
+
+#: ../wolf-gram.php:149
+msgid "Instructions"
+msgstr "Istruzoni"
+
+#: ../wolf-gram.php:244 ../wolf-gram.php:257
+msgid "Open in lightbox"
+msgstr "Apri in lightbox"
+
+#: ../wolf-gram.php:245 ../wolf-gram.php:258
+msgid "Open Instagram Page"
+msgstr "Apri Pagina Instagram"
+
+#: ../wolf-gram.php:270
+msgid ""
+"To display the full width Instagram gallery, create an empty page with the "
+"\"Instagram Gallery\" template."
+msgstr ""
+"Per visualizzare la gallery Instagram a tutto schermo, crea una pagina vuota "
+"con il template \"Instagram Gallery\"."
+
+#: ../wolf-gram.php:271
+msgid ""
+"Additionally, you can display the gallery in your post or page with the "
+"following shortcde:"
+msgstr ""
+"Inoltre, puoi visualizzare la gallery nei post o nelle pagine utlizzando il "
+"seguente shortcode:"
+
+#: ../wolf-gram.php:312
+msgid "Error creating the Instagram Gallery Template"
+msgstr "Errore nella creazione del Template Instagram Gallery"
+
+#: ../wolf-gram.php:313
+msgid ""
+"Please, create a \"template-instagram.php\" file at the root of your theme "
+"with the following content."
+msgstr ""
+"Crea un file \"template-instagram.php\" nella root del tuo tema con il "
+"seguente contenuto."
+
+#: ../wolf-gram.php:404
+msgid ""
+"WolfGram is a Wordpress plugin that uses the Instagram API to display your "
+"Instgram feed."
+msgstr ""
+"Wolfgram è un plugin Wordpress che utilizza le API di Instagram per "
+"visualizzare il tuo feed Instagram."
+
+#: ../wolf-gram.php:405
+msgid ""
+"You need to link the WolfGram app to your Instagram account and get your "
+"access key to be able to use the WolfGram features."
+msgstr ""
+"&Egrave; necessario collegare l'app WolfGram al tuo account Instagram ed "
+"ottenere la tua access key per poter utilizzare le funzioni di Wolfgram."
+
+#: ../wolf-gram.php:406
+msgid "To do so, simply follow the link below and follow the instructions."
+msgstr ""
+"Per farlo, clicca semplicemente il link sottostante e segui le istruzioni."
+
+#: ../wolf-gram.php:407
+msgid "Get your access key"
+msgstr "Ottieni la tua access key"
+
+#: ../wolf-gram.php:410
+msgid "Access Key"
+msgstr "Access Key"
+
+#: ../wolf-gram.php:411
+msgid "Link your Instagram account"
+msgstr "Collega il tuo account Instagram"
+
+#: ../wolf-gram.php:420
+msgid "Wrong code"
+msgstr "Codice errato"
+
+#: ../wolf-gram.php:429
+msgid ""
+"You can now use the Instagram Widget and  the Instagram Gallery template."
+msgstr ""
+"Ora puoi utilizzare il Widget Instagram e il template Instagram Gallery."
+
+#: ../wolf-gram.php:430
+msgid "You can log out to change your account and get a new code."
+msgstr ""
+"Puoi disconnetterti per modificare il tuo account e ottenere un nuovo codice."
+
+#: ../wolf-gram.php:434
+msgid "Reset"
+msgstr "Reset"
+
+#: ../wolf-gram.php:437
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: ../wolf-gram.php:441
+msgid "Save Changes"
+msgstr "Salva Impostazioni"
+
+#: ../wolf-gram.php:587
+msgid ""
+"Please enter your access key and link your Instagram account through your "
+"admin panel to display your images."
+msgstr ""
+"Inserisci la tua access key e collega il tuo account Instagram dal pannello "
+"di amministrazione per visualizzare le tue immagini."
+
+#: ../wolf-gram.php:589
+msgid "No Instagram image yet."
+msgstr "Nessuna immagine Instagram."
+
+#: ../wolf-gram.php:595
+msgid "No Instagram photo found. Try to reset your access key."
+msgstr "Nessuan foto Instagram trovata. Prova a reimpostare la tua access key."
+
+#: ../wolf-gram.php:597
+msgid "No Instagram photo found."
+msgstr "Nessuna foto Instagram trovata."
