@@ -1,0 +1,4 @@
+sudo mysqldump -uroot -h167.99.123.157 -p shoeenginedb_138 | gzip > shoenginedb_138_05oct2019.sql.gz
+sudo mysqldump -uroot -h167.99.123.157 -p shoeenginedb_138 | gzip > shoenginedb_138_
+
+TestDB@123321
